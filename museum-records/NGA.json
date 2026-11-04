@@ -1,0 +1,54 @@
+[
+  {
+    "id": "N166453",
+    "title": "Abraham Lincoln",
+    "artist": "George Peter Alexander Healy",
+    "death": 1894,
+    "year": "1860",
+    "url": "https://www.nga.gov/artworks/166453-abraham-lincoln",
+    "imageSource": "https://api.nga.gov/iiif/9573ae89-ce7b-4500-b999-990c83b830fe/full/!1600,1600/0/default.jpg",
+    "creditLine": "Corcoran Collection (Museum Purchase, Gallery Fund, 1879)",
+    "museum": "National Gallery of Art, Washington",
+    "license": "CC0",
+    "rightsAuthority": "https://www.nga.gov/terms-and-notices"
+  },
+  {
+    "id": "N32687",
+    "title": "The Italian Comedians",
+    "artist": "Antoine Watteau",
+    "death": 1721,
+    "year": "probably 1720",
+    "url": "https://www.nga.gov/artworks/32687-italian-comedians",
+    "imageSource": "https://api.nga.gov/iiif/56de693a-9c4c-4777-aaa0-fc7052b836e1/full/!1600,1600/0/default.jpg",
+    "creditLine": "Samuel H. Kress Collection",
+    "museum": "National Gallery of Art, Washington",
+    "license": "CC0",
+    "rightsAuthority": "https://www.nga.gov/terms-and-notices"
+  },
+  {
+    "id": "N46637",
+    "title": "The Old Musician",
+    "artist": "Edouard Manet",
+    "death": 1883,
+    "year": "1862",
+    "url": "https://www.nga.gov/artworks/46637-old-musician",
+    "imageSource": "https://api.nga.gov/iiif/8d7eff38-fff0-4f9b-9e36-9088b412864e/full/!1600,1600/0/default.jpg",
+    "creditLine": "Chester Dale Collection",
+    "museum": "National Gallery of Art, Washington",
+    "license": "CC0",
+    "rightsAuthority": "https://www.nga.gov/terms-and-notices"
+  },
+  {
+    "id": "N46519",
+    "title": "Café Singer",
+    "artist": "Amedeo Modigliani",
+    "death": 1920,
+    "year": "1917",
+    "url": "https://www.nga.gov/artworks/46519-cafe-singer",
+    "imageSource": "https://api.nga.gov/iiif/ad117357-25b4-4058-b01a-7ea0db281ea0/full/!1600,1600/0/default.jpg",
+    "creditLine": "Chester Dale Collection",
+    "museum": "National Gallery of Art, Washington",
+    "license": "CC0",
+    "rightsAuthority": "https://www.nga.gov/terms-and-notices"
+  }
+]

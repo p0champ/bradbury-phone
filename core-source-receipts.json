@@ -1,0 +1,58 @@
+[
+  {
+    "file": "drive.js",
+    "sha256": "98b644fc88c54b2076e92cebc565328aabcad3089b4e99f8c067fe435f5e6ea4"
+  },
+  {
+    "file": "picks.js",
+    "sha256": "6c3afe6c528e275342ae82a0915cf09b610ef9f7c8897943a7c889ae20b969a2"
+  },
+  {
+    "file": "source-catalogue.js",
+    "sha256": "6134d24537fa32d6ffa99b47f6f9ed73fadf7094b3fea4fba107b82ef0278443"
+  },
+  {
+    "file": "library.js",
+    "sha256": "12f12ea1a750a296f0638c38133cd6bd283741dabc782e2aabb75ea281423ee9"
+  },
+  {
+    "file": "picker-contract.js",
+    "sha256": "6a547a9cce957221edd68a30af63d21fb162f2f96285a873e78785113f63f2e0"
+  },
+  {
+    "file": "picker-workflow.js",
+    "sha256": "55af02d28de3affd36a80975c02b12dcfb5b0731c5d090dfdb5643d47dfc246b"
+  },
+  {
+    "file": "progress.js",
+    "sha256": "552180120f1408d18e5b6a9ef3bc2e83eda236c5628007af87c7b4ea98edbbde"
+  },
+  {
+    "file": "rewards.js",
+    "sha256": "0951193beeacef32d95a11c23418dcc4d8230d60c33672b0438ac3bd3c1de641"
+  },
+  {
+    "file": "feedback.js",
+    "sha256": "5a3150221850fce5c834aecfe683b85d9156016834937cdfe582db8e9e566574"
+  },
+  {
+    "file": "thought-drafts.js",
+    "sha256": "c49e2ee285e2c4d1b7d840de0676b61a839de5a80ef1d286e93edb35dcba4905"
+  },
+  {
+    "file": "guide-archive.js",
+    "sha256": "713435eb36277e0140dbb1b9da819c00726c70dd26b2322624d55bb2f091bbdc"
+  },
+  {
+    "file": "daily-lines.js",
+    "sha256": "7b08b9d78285f3b25d44381b02f14edf2c396a0a992690da049a83314d9b8390"
+  },
+  {
+    "file": "study-guide.js",
+    "sha256": "294afd7c1cbab313f33bae47168a4c5664278cfca7f833c00d0078a992ea7d50"
+  },
+  {
+    "file": "guide-data.js",
+    "sha256": "812aaef2ff6a7f5bed02b214cd7d1f1243bca504631beab35aa18e2d27e0573a"
+  }
+]
