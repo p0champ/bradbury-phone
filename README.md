@@ -2,6 +2,8 @@
 
 A working installable web app, kept in its own project. The Quest project is read only and unchanged.
 
+Phone address: https://p0champ.github.io/bradbury-phone/
+
 Open the hosted HTTPS address in Safari, choose Share → Add to Home Screen, and leave Open as Web App enabled. The app then opens from its own icon. This is a Home Screen web app, not an App Store binary. Apple’s instructions: https://support.apple.com/guide/iphone/open-as-web-app-iphea86e5236/ios
 
 Swipe between the three full-screen covers. Tap or pull up to read. Pull down from the top of the reading, or tap Today, to return. The corner button opens Shelf and Library. The short arrival plays only on the first opening of each Berlin day and any touch skips it. Day/night follows local device time, with the approved Afterglow and Velvet Cinema colours.

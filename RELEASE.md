@@ -10,6 +10,8 @@ The browser saved-place check reopened the same passage within 8 pixels. This ch
 
 Not yet proven: real-account Google consent/backup recovery and physical iPhone operation. They need the owner’s device and account. The copied Google client is already configured for https://p0champ.github.io; a different hosting origin requires Google setup. Localhost on this PC cannot be opened as an iPhone website.
 
-Publication is separate from building and testing. Until publication is approved, this build stays local. No paid plan, API, trial, domain or account was enabled. The managed Cloudflare backup code was not used.
+Publication was approved separately by the owner. The phone app uses the new p0champ/bradbury-phone repository and free GitHub Pages at https://p0champ.github.io/bradbury-phone/. No paid plan, API, trial, domain or account was enabled. The managed Cloudflare backup code was not used.
 
-Save points: step-1-approved-design, step-2-working-phone-app, step-3-verified-offline. These are Git tags in this separate phone project. Personal reading data is kept outside source rollback.
+Blocked browser storage was also checked at the actual browser API boundary: the app still opens and reads, retains changes in memory and warns that an export is needed before closing.
+
+Save points: step-1-approved-design, step-2-working-phone-app, step-3-verified-offline, step-4-checks-and-recovery, step-5-ready-to-publish, step-6-storage-fallback. These are Git tags in this separate phone project. Personal reading data is kept outside source rollback.

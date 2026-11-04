@@ -7,7 +7,8 @@ import {dayGuide} from './core/guide-archive.js?v=58';
 const texts=window.LIBRARY,library=window.COVERS.works,byId=new Map(library.map(w=>[w.id,w.index]));
 let engine,connection,status='Ask Claude for the daily three as usual, then Sync with Drive.',query='',lastDaily='',saveTimer,restoring=false,noticeTimer,previousFocus,activePanel=null;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-export const store=new PhoneStore(localStorage,texts,message=>queueMicrotask(()=>notice(message,true)));
+let phoneStorage;try{phoneStorage=globalThis.localStorage;}catch{phoneStorage={getItem(){throw Error('Storage unavailable');},setItem(){throw Error('Storage unavailable');}};}
+export const store=new PhoneStore(phoneStorage,texts,message=>queueMicrotask(()=>notice(message,true)));
 export const arrivalToday=()=>store.state.arrivalDate!==berlinDateKey();
 export function initialIndices(){const ids=store.state.daily?.ids.map(id=>byId.get(id));return ids?.every(i=>i!==undefined)?ids:[117,59,0];}
 function notice(message,persistent=false){const el=document.getElementById('phone-notice');if(!el)return;el.textContent=message;el.hidden=false;clearTimeout(noticeTimer);if(!persistent)noticeTimer=setTimeout(()=>el.hidden=true,5000);}
