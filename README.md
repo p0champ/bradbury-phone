@@ -26,6 +26,8 @@ On a fresh phone before its first Drive connection, the three covers are labelle
 
 Use Node.js, then run `npm start` in this folder. The local preview is http://127.0.0.1:8782/. Google sign-in expects the already authorized https://p0champ.github.io origin; local reading, saving and offline checks do not require Google. Localhost on this PC is not an iPhone URL.
 
+After source changes, regenerate the atomic offline cache with `npm run build` (Python 3). No build is needed to read or install the shipped app.
+
 Run `npm test` for state, backup, source-reference, same-day-swap and sync-failure checks. For browser checks, install the free development dependency with `npm install`, keep `npm start` running, then run `npm run test:browser` with Microsoft Edge installed. Browser checks and final verification are recorded separately. A desktop browser pass does not prove physical iPhone gestures or a real-account Drive restore. Those require the owner’s device and account.
 
 ## Sources and save points
