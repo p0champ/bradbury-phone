@@ -1,5 +1,5 @@
 {
-  "cache": "bf7e6da127c05b2a",
+  "cache": "729fd8a574172a65",
   "files": [
     "./",
     "app.css",
@@ -11,6 +11,7 @@
     "manifest.webmanifest",
     "phone.css",
     "phone.js",
+    "read-state.js",
     "state.js",
     "texts.js",
     "assets/icon-180.png",
@@ -318,5 +319,5 @@
     "core/study-guide.js",
     "core/thought-drafts.js"
   ],
-  "bytes": 25261916
+  "bytes": 25267928
 }

@@ -1,4 +1,5 @@
-import {validProgress,berlinDateKey,markWorkRead} from './core/progress.js?v=58';
+import {validProgress,berlinDateKey} from './core/progress.js?v=58';
+import {validReadState,projectReadState,mergeReadState,workRead,setWorkRead} from './read-state.js';
 import {mergeProgress} from './core/drive.js?v=58';
 import {parsePicks} from './core/picks.js?v=58';
 import {RESERVED_REWARD_IDS} from './core/rewards.js?v=58';
@@ -10,12 +11,12 @@ const safe=x=>!plain(x)&&!Array.isArray(x)||Object.entries(x).every(([k,v])=>!['
 const date=x=>typeof x==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(x)&&new Date(x+'T00:00:00Z').toISOString().slice(0,10)===x;
 export function freshState(today=berlinDateKey()){return {version:1,progress:{version:1,start:'2026-10-18',trackingSince:today,days:{},weeks:{}},positions:{},bookmarks:{},settings:{size:20},daily:null,last:null,arrivalDate:null,dirty:false};}
 export function validateState(s,ids){
- try{return plain(s)&&safe(s)&&s.version===1&&validProgress(s.progress)&&plain(s.positions)&&Object.entries(s.positions).every(([id,p])=>ids.has(id)&&plain(p)&&Number.isInteger(p.block)&&p.block>=0&&Number.isInteger(p.character)&&p.character>=0&&Number.isFinite(p.ratio)&&p.ratio>=0&&p.ratio<=1)&&plain(s.bookmarks)&&Object.entries(s.bookmarks).every(([id,b])=>ids.has(id)&&plain(b)&&typeof b.value==='boolean'&&Number.isFinite(Date.parse(b.at)))&&plain(s.settings)&&[18,20,22,24,26].includes(s.settings.size)&&(s.daily===null||(plain(s.daily)&&date(s.daily.date)&&Array.isArray(s.daily.ids)&&s.daily.ids.length===3&&s.daily.ids.every(id=>ids.has(id))))&&(s.last===null||(plain(s.last)&&ids.has(s.last.id)&&typeof s.last.reading==='boolean'))&&(s.arrivalDate===null||date(s.arrivalDate))&&typeof s.dirty==='boolean';}catch{return false;}
+ try{return plain(s)&&safe(s)&&s.version===1&&validProgress(s.progress)&&validReadState(s.progress)&&plain(s.positions)&&Object.entries(s.positions).every(([id,p])=>ids.has(id)&&plain(p)&&Number.isInteger(p.block)&&p.block>=0&&Number.isInteger(p.character)&&p.character>=0&&Number.isFinite(p.ratio)&&p.ratio>=0&&p.ratio<=1)&&plain(s.bookmarks)&&Object.entries(s.bookmarks).every(([id,b])=>ids.has(id)&&plain(b)&&typeof b.value==='boolean'&&Number.isFinite(Date.parse(b.at)))&&plain(s.settings)&&[18,20,22,24,26].includes(s.settings.size)&&(s.daily===null||(plain(s.daily)&&date(s.daily.date)&&Array.isArray(s.daily.ids)&&s.daily.ids.length===3&&s.daily.ids.every(id=>ids.has(id))))&&(s.last===null||(plain(s.last)&&ids.has(s.last.id)&&typeof s.last.reading==='boolean'))&&(s.arrivalDate===null||date(s.arrivalDate))&&typeof s.dirty==='boolean';}catch{return false;}
 }
 export function mergeShared(local,remote){
- if(!validProgress(remote))throw Error('The saved history is not a supported Bradbury backup. Your phone copy is unchanged.');
+ if(!validProgress(remote)||!validReadState(remote))throw Error('The saved history is not a supported Bradbury backup. Your phone copy is unchanged.');
  // The fresh remote copy owns unknown Quest fields. Never discard them on a phone's first sync.
- return {...structuredClone(remote),...mergeProgress(local,remote)};
+ return mergeReadState({...structuredClone(remote),...mergeProgress(local,remote)},local,remote);
 }
 export function acceptDaily(raw,progress,covered,today=berlinDateKey()){
  const parsed=parsePicks(raw,progress.days,{reservedIds:RESERVED_REWARD_IDS});
@@ -26,14 +27,16 @@ export class PhoneStore{
  constructor(storage,works,onWarning=()=>{}){this.storage=storage;this.works=works;this.ids=new Set(works.map(w=>w.id));this.onWarning=onWarning;this.state=freshState();this.durable=true;this.listeners=[];
   try{const raw=storage.getItem(KEY);if(raw){const value=JSON.parse(raw);if(!validateState(value,this.ids))throw Error('invalid');this.state=value;}}
   catch{this.durable=false;try{const value=JSON.parse(storage.getItem(BACKUP_KEY)||'null');if(validateState(value,this.ids)){this.state=value;this.onWarning('Recovered your previous saved copy. Export a backup before continuing.');}else this.onWarning('Your saved copy could not be opened. It has been kept unchanged; you can restore a backup.');}catch{this.onWarning('Saving is unavailable in this browser. Reading still works; export your progress before closing.');}}
+  projectReadState(this.state.progress);
  }
  subscribe(fn){this.listeners.push(fn);}
  update(fn,{shared=false}={}){const next=structuredClone(this.state);fn(next);if(shared){next.dirty=true;next.progress.savedAt=new Date().toISOString();}if(!validateState(next,this.ids))throw Error('The change could not be saved safely.');this.state=next;this.persist();this.listeners.forEach(fn=>fn(this.state));return this.durable;}
  persist(){try{const old=this.storage.getItem(KEY);if(old){try{const parsed=JSON.parse(old);if(validateState(parsed,this.ids))this.storage.setItem(BACKUP_KEY,old);}catch{}}
    this.storage.setItem(KEY,JSON.stringify(this.state));this.durable=true;
   }catch{this.durable=false;this.onWarning('Your latest changes are in this open app only. Export a backup before closing.');}return this.durable;}
- complete(work,clock=new Date()){this.update(s=>markWorkRead(s.progress,work,s.daily?.date,clock),{shared:true});}
- setDaily(parsed){this.update(s=>{s.daily={date:parsed.date,ids:parsed.works.map(w=>w.catalogueId)};const day=s.progress.days[parsed.date]||={};for(const w of parsed.works)if(day.ids?.[w.kind]&&day.ids[w.kind]!==w.catalogueId)day[w.kind]=false;rememberGuides(s.progress,parsed.date,parsed.works);},{shared:true});}
+ complete(work,clock=new Date()){this.update(s=>setWorkRead(s.progress,work,true,s.daily?.date,clock),{shared:true});}
+ toggleRead(work,clock=new Date()){const value=!workRead(this.state.progress,work);this.update(s=>setWorkRead(s.progress,work,value,s.daily?.date,clock),{shared:true});return value;}
+ setDaily(parsed){this.update(s=>{s.daily={date:parsed.date,ids:parsed.works.map(w=>w.catalogueId)};const day=s.progress.days[parsed.date]||={};for(const w of parsed.works)if(day.ids?.[w.kind]&&day.ids[w.kind]!==w.catalogueId)day[w.kind]=false;rememberGuides(s.progress,parsed.date,parsed.works);projectReadState(s.progress);},{shared:true});}
  export(){return JSON.stringify({format:'bradbury-phone-backup',version:1,exportedAt:new Date().toISOString(),state:this.state},null,2);}
  import(raw){if(typeof raw!=='string'||raw.length>8_000_000)throw Error('This backup is too large. Your current copy is unchanged.');const file=JSON.parse(raw);const incoming=file?.format==='bradbury-phone-backup'?file.state:null;
   if(!validateState(incoming,this.ids))throw Error('This is not a valid phone backup. Your current copy is unchanged.');

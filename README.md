@@ -13,7 +13,7 @@ Swipe between the three full-screen covers. Tap or pull up to read. Pull down fr
 - All 241 complete source-catalogue works and their real CC0 painting covers. No literary text is written by the app or supplied by a picks file.
 - Original spring physics and main poster/reader gestures, retained from the approved structure A.
 - Reading places survive close/reopen, using a paragraph and character anchor. Type size changes preserve the place.
-- Explicit Mark as read, bookmarks, a Shelf of read/saved/in-progress works, and Library search.
+- A Read toggle (tap again to undo), bookmarks, a Shelf of read/saved/in-progress works, and Library search. Undo keeps your place and bookmark; an unread work can remain on Shelf as Continue or Saved.
 - Optional 1–5 stars and a short, explicitly saved thought. Deletions survive merges.
 - Local storage plus a previous-save recovery copy. Export and merge-only restore of the full phone backup.
 - The established Google Drive sign-in and Claude picks parser, copied unchanged from the reference project. Ask Claude for the daily three or a swap as before. Sync with Drive receives the newest file; while connected, the app checks about once a minute. A swap waits until the open reading is closed before changing posters.

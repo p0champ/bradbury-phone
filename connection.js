@@ -2,18 +2,19 @@ import {DriveLink} from './core/drive.js?v=58';
 import {validProgress,berlinDateKey} from './core/progress.js?v=58';
 import {acceptDaily,mergeShared} from './state.js';
 import {rememberGuides} from './core/guide-archive.js?v=58';
+import {readStateNeedsSync} from './read-state.js';
 const clientId='379320678298-n7emu1el4qc84v3gepk0tn82rra4jglr.apps.googleusercontent.com';
 const namespaced={getItem:k=>sessionStorage.getItem('bradbury-phone:'+k),setItem:(k,v)=>sessionStorage.setItem('bradbury-phone:'+k,v),removeItem:k=>sessionStorage.removeItem('bradbury-phone:'+k)};
 export class PhoneConnection{
  constructor(store,onStatus,link){this.store=store;this.status=onStatus;this.link=link||new DriveLink({clientId,storage:namespaced});this.busy=null;this.lastCheck=null;this.revision=0;this.covered=store.ids;this.stopped=false;}
  get connected(){return this.link.connected;}
  async connect(){this.status('Connecting to Google Drive…');await this.link.signIn();return this.sync();}
- sync(){if(this.busy)return this.busy;this.busy=this.run().finally(()=>this.busy=null);return this.busy;}
+ sync(){if(this.busy){this.resyncRequested=true;return this.busy;}this.busy=(async()=>{let note;do{this.resyncRequested=false;note=await this.run();}while(this.resyncRequested&&this.connected);return note;})().finally(()=>this.busy=null);return this.busy;}
  async run(){if(!this.connected)throw Error('Tap Sync with Drive to connect. Your readings are kept here.');this.status('Checking Claude’s latest three…');
   // Read before every write. Failed/malformed remote reads never become an empty backup.
   const remoteRaw=await this.link.read('progress.json');let remote=null;
   if(remoteRaw!==null){try{remote=JSON.parse(remoteRaw);}catch{throw Error('The Drive backup could not be read. Your phone copy is safe; nothing was overwritten.');}if(!validProgress(remote))throw Error('The Drive backup needs checking. Your phone copy is safe; nothing was overwritten.');
-   this.store.update(s=>s.progress=mergeShared(s.progress,remote));}
+   this.store.update(s=>{s.progress=mergeShared(s.progress,remote);if(readStateNeedsSync(s.progress,remote))s.dirty=true;});}
   const result=await this.link.readPicksFor(berlinDateKey(),raw=>{try{return acceptDaily(raw,this.store.state.progress,this.covered);}catch(error){let date=null;try{date=JSON.parse(raw).date;}catch{}return{date,works:[],problems:[error.message]};}});
   let note='Connected. Ask Claude for the daily three as usual.';
   if(result){const parsed=result.parsed;const accepted=parsed.works.length===3&&!parsed.problems.length&&parsed.date<=berlinDateKey();this.lastCheck={accepted,date:parsed.date,problems:parsed.problems};this.link.lastCheck=this.lastCheck;
