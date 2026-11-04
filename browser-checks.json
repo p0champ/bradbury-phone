@@ -1,0 +1,30 @@
+{
+  "coverage": {
+    "total": 241,
+    "count": 241,
+    "cc0": true
+  },
+  "open": 1,
+  "font": "22px",
+  "shelfRows": 1,
+  "libraryRows": 241,
+  "realStory": "The Gift Of The Magi",
+  "resume": {
+    "reading": 1,
+    "before": 7145,
+    "after": 7153,
+    "intro": 0
+  },
+  "finished": 1,
+  "persisted": {
+    "completed": 1,
+    "thought": "A generous ending."
+  },
+  "offlineReady": "All 241 works and paintings are available offline.",
+  "offline": {
+    "mounted": true,
+    "title": "The Gift Of The Magi",
+    "images": true
+  },
+  "errors": []
+}

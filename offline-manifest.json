@@ -1,17 +1,14 @@
 {
-  "cache": "1ddb79d5efa8c738",
+  "cache": "af65a245debb5ec6",
   "files": [
     "./",
     "app.css",
     "app.js",
-    "browser-checks.json",
     "connection.js",
     "covers.js",
     "credits.json",
     "index.html",
     "manifest.webmanifest",
-    "phone-day.png",
-    "phone-night.png",
     "phone.css",
     "phone.js",
     "state.js",
@@ -321,5 +318,5 @@
     "core/study-guide.js",
     "core/thought-drafts.js"
   ],
-  "bytes": 26225094
+  "bytes": 25261740
 }
