@@ -2,3 +2,12 @@ html,body{height:100%;background:#261f24}#space{height:100dvh;--reading-size:20p
 .read-mode .reader-tools{visibility:visible}
 
 #today-sync{right:83px}#today-sync[aria-busy=true] svg{opacity:.55}.read-mode #today-sync{visibility:hidden}
+
+/* Paged reading: text flows in horizontal columns; one column is one page. */
+.reader-scroll{inset:132px 0 0 0;overflow:hidden;padding:0}
+.reader-pages{position:absolute;left:32px;right:32px;top:23px;bottom:calc(max(24px,env(safe-area-inset-bottom)) + 28px);column-width:var(--page-width,320px);column-gap:64px;column-fill:auto;will-change:transform}
+.reader-heading{break-inside:avoid}
+.passage p{widows:2;orphans:2}
+.passage .stanza{break-inside:avoid}
+.finish-reading{break-inside:avoid}
+.reader-footer{position:absolute;left:0;right:0;bottom:max(18px,calc(env(safe-area-inset-bottom) - 4px));text-align:center;font:400 13px/1.2 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;color:var(--muted);pointer-events:none;font-variant-numeric:tabular-nums}

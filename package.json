@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node --test tests/*.test.mjs",
     "start": "node serve.mjs",
-    "test:browser": "node tests/browser.cjs && node tests/arrivals.cjs && node tests/gestures.cjs && node tests/storage.cjs && node tests/read-toggle.cjs",
+    "test:browser": "node tests/browser.cjs && node tests/arrivals.cjs && node tests/gestures.cjs && node tests/storage.cjs && node tests/read-toggle.cjs && node tests/pagination.cjs",
     "build": "python tools/build.py"
   },
   "devDependencies": {
