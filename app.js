@@ -32,20 +32,21 @@ function render(){
  e.el.setAttribute('aria-hidden',String(i!==index));e.el.inert=i!==index;e.el.querySelector('.art-credit').style.visibility=open>.05?'hidden':'visible';
  const margin=isFan?24*(1-open):0,top=isFan?117*(1-open):0,bottom=isFan?128*(1-open):0;
  e.frame.style.left=margin+'px';e.frame.style.right=margin+'px';e.frame.style.top=top+'px';e.frame.style.bottom=bottom+'px';e.frame.style.borderRadius=isFan?26*(1-open)+'px':'0px';e.frame.style.transform=`scale(${1+open*.13})`;e.frame.style.opacity=1-open;
- e.copy.style.opacity=Math.max(0,1-open*1.8)*(isFan?Math.max(0,1-Math.abs(d)*2):1);e.copy.style.transform=`translateY(${-open*48}px)`;
+ const arrive=Math.max(0,Math.min(1,(1-intro.value-.12)/.5)),arriveHint=Math.max(0,Math.min(1,(1-intro.value-.35)/.5));e.copy.style.opacity=Math.max(0,1-open*1.8)*(isFan?Math.max(0,1-Math.abs(d)*2):1)*arrive;e.copy.style.transform=`translateY(${-open*48}px)`;
  e.pages.style.transform=`translate3d(${-e.pg.value*e.stride}px,0,0)`;if(i===index){const n=Math.max(0,Math.min(e.total-1,Math.round(e.pg.value)))+1,t='Page '+n+' of '+e.total;if(e.footer.textContent!==t)e.footer.textContent=t;}
  e.paper.style.visibility=open>.001&&(!isFan||i===index)?'visible':'hidden';
  e.paper.style.transform=`translate3d(0,${(1-open)*H}px,0)`;e.paper.style.borderRadius=32*(1-open)+'px '+32*(1-open)+'px 0 0';e.paper.style.pointerEvents=open>.96&&i===index?'auto':'none';
  });
- const bReader=structure==='b'&&open>.85;chooser.style.opacity=bReader?'1':String(1-open);chooser.style.visibility=structure!=='b'&&open>.98?'hidden':'visible';counter.textContent=(index+1)+' of 3';
+ const bReader=structure==='b'&&open>.85;chooser.style.opacity=bReader?'1':String(1-open);chooser.style.visibility=structure!=='b'&&open>.98?'hidden':'visible';counter.textContent=(index+1)+' of 3';counter.style.opacity=String(Math.max(0,Math.min(1,(1-intro.value)*2)));
  document.querySelectorAll('.dots i').forEach((d,i)=>d.classList.toggle('selected',i===index));
  hint.textContent=structure==='c'?'Swipe the covers · Pull up from the bottom for Shelf':structure==='b'?'Swipe to choose · Pull up to read':'Swipe to choose · Pull up to read';
- hint.style.display=bReader?'none':'block';document.querySelector('.dots').style.display=bReader?'none':'flex';
+ hint.style.display=bReader?'none':'block';hint.style.opacity=String(Math.max(0,Math.min(1,(1-intro.value-.35)/.5)));document.querySelector('.dots').style.display=bReader?'none':'flex';
  const sq=Math.max(0,Math.min(1,q.value));sheet.style.transform=`translate3d(0,${(1-sq)*H*.9}px,0)`;sheet.inert=sq<.05;sheet.setAttribute('aria-hidden',String(sq<.05));document.getElementById('sheet-shade').style.opacity=sq*.34;document.getElementById('sheet-shade').style.pointerEvents=sq>.1?'auto':'none';
  introEl.style.display=intro.value>.001?'block':'none';introEl.style.transform=`translate3d(0,${-(1-intro.value)*H}px,0)`;introEl.style.opacity=Math.min(1,intro.value*1.7);introEl.setAttribute('aria-hidden',String(intro.value<.01));
 }
 function tick(time){const dt=Math.min(.025,Math.max(.001,(time-last)/1000||.016));last=time;let active=false;[x,p,q,intro].forEach(s=>{active=s.step(dt)||active;});let paging=false;els.forEach(e=>{paging=e.pg.step(dt)||paging;});active=active||paging;if(wasPaging&&!paging&&!drag)space.dispatchEvent(new Event('pagesettled'));wasPaging=paging;if(momentum){const before=momentum.el.scrollTop;momentum.el.scrollTop+=momentum.velocity*dt;momentum.velocity*=Math.exp(-dt*6.5);if(Math.abs(momentum.velocity)<5||Math.abs(momentum.el.scrollTop-before)<.2)momentum=null;else active=true;}render();raf=active?requestAnimationFrame(tick):0;}
 function wake(){if(!raf){last=performance.now();raf=requestAnimationFrame(tick);}}
+function setupIntro(){const used=new Set(works.map(w=>w.art)),key=['436531','435991','436675'].find(k=>coverData.paintings[k]&&!used.has(k))||works.find(w=>w.art)?.art,paint=coverData.paintings[key],img=document.getElementById('intro-art');if(paint){img.src=paint.file;img.alt='Detail of '+paint.title+' by '+paint.artist;}const hour=new Date().getHours();document.getElementById('intro-hello').textContent=hour>=5&&hour<12?'Good morning, Bastian.':hour>=12&&hour<18?'Good afternoon, Bastian.':'Good evening, Bastian.';}
 function dismissIntro(){clearTimeout(introTimer);intro.to(0);}
 function openReading(index=selected){closeCredit();if(phoneReady)readingOpened(index);x.to(index);p.to(1);q.to(0);document.getElementById('announcement').textContent=works[index].title;}
 function closeReading(){if(phoneReady)readingClosed();p.to(0);document.getElementById('announcement').textContent='Today’s three';}
@@ -121,5 +122,5 @@ new ResizeObserver(()=>{W=space.clientWidth;H=space.clientHeight;fitTitles();lay
 window.prototypeState={get structure(){return structure},get x(){return x.value},get open(){return p.value},get sheet(){return q.value},get intro(){return intro.value},get index(){return selected},get target(){return p.target}};
 const api={get works(){return works},elements:els,get index(){return selected},get open(){return p.value},get sheet(){return q.value},get busy(){return !!drag},get tab(){return tab},set tab(value){tab=value},get listMoved(){return listMoved},chooseWork,layout,goPage,turnPage,get pageInfo(){const e=els[selected];return {page:Math.round(e.pg.target),total:e.total,stride:e.stride};},openReading,closeReading,dismissIntro,lighting,bookmarkIcon:icons.bookmark,setModal(value){modal=value;space.classList.toggle('modal-open',value);},installDaily(indices){indices.forEach((id,slot)=>chooseWork(id,false,slot));x.to(0);}};
 phoneReady=true;initialisePhone(api);
-document.getElementById('intro-art').src=works[0].cover.file;document.getElementById('intro-art').alt='Detail of '+works[0].cover.title;document.fonts.ready.then(()=>{fitTitles();layoutAll();});lighting(mode);collectionRows();render();if(intro.value>.01)introTimer=setTimeout(dismissIntro,reduced.matches?450:1850);
+setupIntro();document.fonts.ready.then(()=>{fitTitles();layoutAll();});lighting(mode);collectionRows();render();if(intro.value>.01)introTimer=setTimeout(dismissIntro,reduced.matches?1500:4300);
 })();

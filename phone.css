@@ -11,3 +11,21 @@ html,body{height:100%;background:#261f24}#space{height:100dvh;--reading-size:20p
 .passage .stanza{break-inside:avoid}
 .finish-reading{break-inside:avoid}
 .reader-footer{position:absolute;left:0;right:0;bottom:max(18px,calc(env(safe-area-inset-bottom) - 4px));text-align:center;font:400 13px/1.2 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;color:var(--muted);pointer-events:none;font-variant-numeric:tabular-nums}
+
+/* Arrival: "Lamp on". A warm light rises from the dark, a painting comes up through it, then a greeting. */
+#intro{background:#1b0f12}
+.intro-paint{opacity:0;filter:brightness(.8) saturate(1.1)!important;animation:intro-paint 3200ms ease-out 450ms forwards}
+.intro-veil{position:absolute;inset:0;background:linear-gradient(transparent 30%,#1b0f12b8 46%,#1b0f12b8 60%,transparent 74%),radial-gradient(ellipse at 50% 45%,transparent 25%,#1b0f12cc 100%);opacity:0;animation:intro-veil 2600ms ease-out 700ms forwards}
+.intro-glow{position:absolute;inset:-20%;background:radial-gradient(ellipse at 50% 62%,#fff0d6 0%,#ffd6a0f0 12%,#ffc48099 34%,#f0aa6944 56%,#f0aa6900 74%);opacity:0;transform:scale(.4);animation:intro-glow 4300ms cubic-bezier(.3,.1,.2,1) forwards}
+.intro-words{position:absolute;left:0;right:0;top:41%;text-align:center;padding:0 24px}
+.intro-words h1{white-space:nowrap;font:500 30px/1.2 Literata;margin:0;letter-spacing:-.4px;opacity:0;transform:translateY(10px);animation:intro-rise 1000ms ease-out 1300ms forwards}
+.intro-rule{width:84px;height:1px;background:#fff4e9;opacity:0;margin:22px auto 20px;transform:scaleX(.2);animation:intro-rule 900ms ease-out 2100ms forwards}
+.intro-line{font:400 italic 19px/1.5 Literata;opacity:0;margin:0;color:#fbe3cf;animation:intro-fade 1000ms ease-out 2500ms forwards}
+.intro-mark{position:absolute;bottom:max(64px,calc(env(safe-area-inset-bottom) + 40px));left:0;right:0;text-align:center;font-size:15px;opacity:0;text-shadow:0 1px 8px #000a;animation:intro-fade 900ms ease-out 3000ms forwards}
+@keyframes intro-glow{0%{opacity:0;transform:scale(.4)}22%{opacity:.95;transform:scale(.9)}60%{opacity:.6;transform:scale(1.05)}100%{opacity:.25;transform:scale(1.15)}}
+@keyframes intro-paint{from{opacity:0;transform:scale(1.07)}to{opacity:1;transform:scale(1)}}
+@keyframes intro-veil{from{opacity:0}to{opacity:1}}
+@keyframes intro-rise{to{opacity:1;transform:none}}
+@keyframes intro-rule{to{opacity:.55;transform:none}}
+@keyframes intro-fade{to{opacity:.92}}
+@media(prefers-reduced-motion:reduce){#intro *{animation-duration:1ms!important;animation-delay:0s!important}}
