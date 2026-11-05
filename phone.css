@@ -77,3 +77,13 @@ html,body{height:100%;background:#261f24}#space{height:100dvh;--reading-size:20p
 #collection-works{padding-bottom:84px;-webkit-mask-image:linear-gradient(#000 calc(100% - 96px),transparent calc(100% - 30px));mask-image:linear-gradient(#000 calc(100% - 96px),transparent calc(100% - 30px))}
 /* 10: page number is easier to read */
 .reader-footer{font-size:14px;color:var(--ink);opacity:.62}
+
+/* ---- Polish pass, second round ---- */
+#phone-notice{bottom:max(58px,calc(env(safe-area-inset-bottom) + 36px));padding:13px 19px;box-shadow:0 6px 28px #1409102e,0 0 0 1px #9e7b6a30}
+.empty-shelf .pill{align-items:center;justify-content:center;line-height:1;padding-top:0;padding-bottom:0}
+.dots i{width:9px;height:9px}.dots{gap:10px}
+.reader-tools{margin-right:-11px}
+.reader-tools .type-size{font-weight:500;font-size:18px}
+.reader-tools .reading-more{font-size:26px!important;padding-bottom:9px!important}
+.reader-footer{opacity:.75}
+.stars button.on{color:var(--accent)}
