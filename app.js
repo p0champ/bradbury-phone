@@ -4,6 +4,9 @@ const params=new URLSearchParams(location.search), structure='a';let phoneReady=
 const space=document.getElementById('space'), piecesRoot=document.getElementById('pieces'), reduced=matchMedia('(prefers-reduced-motion: reduce)');
 space.dataset.structure=structure;
 const coverData=window.COVERS,library=coverData.works;
+const SMALL=new Set(['a','an','and','as','at','but','by','for','from','in','nor','of','on','or','the','to','with']);
+function displayTitle(t){const words=t.split(/(\s+)/);const real=words.map((w,i)=>[w,i]).filter(([w])=>w.trim());return words.map((w,i)=>{if(!w.trim())return w;const pos=real.findIndex(([,j])=>j===i),edge=pos===0||pos===real.length-1;if(/^[IVXLC]+[.,:;]?$/.test(w))return w;const lower=w.toLowerCase().replace(/[^a-z]/g,'');if(!edge&&SMALL.has(lower))return w.toLowerCase();return w.replace(/(^|[-–—(“"'‘])([a-zà-ÿ])/g,(m,s,c)=>s+c.toUpperCase()).replace(/([A-ZÀ-Þ])([A-ZÀ-Þ]+)/g,(m,f,r)=>f+r.toLowerCase());}).join('');}
+library.forEach(w=>{w.title=displayTitle(w.title);});
 const material=w=>({...window.LIBRARY[w.index],...w,cover:coverData.paintings[w.art]});
 const works=initialIndices().map(i=>material(library[i]));
 const initial=Number(params.get('work'));if(params.has('work')&&library[initial]?.art)works[0]=material(library[initial]);
@@ -37,7 +40,7 @@ function render(){
  e.paper.style.visibility=open>.001&&(!isFan||i===index)?'visible':'hidden';
  e.paper.style.transform=`translate3d(0,${(1-open)*H}px,0)`;e.paper.style.borderRadius=32*(1-open)+'px '+32*(1-open)+'px 0 0';e.paper.style.pointerEvents=open>.96&&i===index?'auto':'none';
  });
- const bReader=structure==='b'&&open>.85;chooser.style.opacity=bReader?'1':String(1-open);chooser.style.visibility=structure!=='b'&&open>.98?'hidden':'visible';counter.textContent=(index+1)+' of 3';counter.style.opacity=String(Math.max(0,Math.min(1,(1-intro.value)*2)));
+ const bReader=structure==='b'&&open>.85;chooser.style.opacity=bReader?'1':String(Math.max(0,1-Math.max(open,q.value*1.6)));chooser.style.visibility=structure!=='b'&&open>.98?'hidden':'visible';counter.textContent=(index+1)+' of 3';counter.style.opacity=String(Math.max(0,Math.min(1,(1-intro.value)*2)));
  document.querySelectorAll('.dots i').forEach((d,i)=>d.classList.toggle('selected',i===index));
  hint.textContent=structure==='c'?'Swipe the covers · Pull up from the bottom for Shelf':structure==='b'?'Swipe to choose · Pull up to read':'Swipe to choose · Pull up to read';
  hint.style.display=bReader?'none':'block';hint.style.opacity=String(Math.max(0,Math.min(1,(1-intro.value-.35)/.5)));document.querySelector('.dots').style.display=bReader?'none':'flex';

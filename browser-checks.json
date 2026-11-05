@@ -8,7 +8,7 @@
   "font": "22px",
   "shelfRows": 1,
   "libraryRows": 241,
-  "realStory": "The Gift Of The Magi",
+  "realStory": "The Gift of the Magi",
   "resume": {
     "reading": 1,
     "before": 11,
@@ -23,7 +23,7 @@
   "offlineReady": "All 241 works and paintings are available offline.",
   "offline": {
     "mounted": true,
-    "title": "The Gift Of The Magi",
+    "title": "The Gift of the Magi",
     "images": true
   },
   "errors": []

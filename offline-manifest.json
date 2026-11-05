@@ -1,5 +1,5 @@
 {
-  "cache": "50c3c97d4ae7f6e0",
+  "cache": "eae8452f8287b9fb",
   "files": [
     "./",
     "app.css",
@@ -319,5 +319,5 @@
     "core/study-guide.js",
     "core/thought-drafts.js"
   ],
-  "bytes": 25276112
+  "bytes": 25282111
 }

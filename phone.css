@@ -29,3 +29,51 @@ html,body{height:100%;background:#261f24}#space{height:100dvh;--reading-size:20p
 @keyframes intro-rule{to{opacity:.55;transform:none}}
 @keyframes intro-fade{to{opacity:.92}}
 @media(prefers-reduced-motion:reduce){#intro *{animation-duration:1ms!important;animation-delay:0s!important}}
+
+/* ---- Polish pass ---- */
+:root{--accent:#bf4b35}
+[data-mode=night]{--accent:#f2a47c}
+/* 3: small labels on Today are easier to read */
+.daily-label{font-size:15px;opacity:1;text-shadow:0 1px 10px #1d0d1280}
+.gesture-hint{opacity:1;text-shadow:0 1px 10px #1d0d1280}
+.poster-frame::before{content:'';position:absolute;inset:0 0 auto 0;height:200px;background:linear-gradient(#26121a6b,transparent);z-index:1;pointer-events:none}
+/* 4: info button sits on the author line, page dots are visible */
+.art-credit{bottom:152px}
+@media(max-height:740px){.art-credit{bottom:130px}}
+.dots i{width:7px;height:7px;opacity:.42}.dots i.selected{opacity:1}
+/* buttons and quiet links in panels (1, 2) */
+.phone-panel .pill{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;min-height:48px;margin:12px 0 4px;padding:0 20px;border:1px solid #9e7b6a80;border-radius:24px;background:transparent;color:inherit;font:500 16px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;cursor:pointer}
+.phone-panel .pill:active{opacity:.7}
+.phone-panel .pill.read-pill.is-read{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.phone-panel .quiet{display:block;min-height:44px;padding:0;border:0;background:none;color:var(--muted);font-size:14px;text-decoration:underline;text-underline-offset:4px;text-align:left}
+.phone-panel .file-label{position:relative;overflow:hidden}.phone-panel .file-label input{position:absolute;inset:0;opacity:0;cursor:pointer}
+.stars{gap:4px}.stars button{color:var(--muted)}.stars button[aria-pressed=true]{color:var(--accent)}
+.finish-reading.is-read{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.finish-reading.is-read::after{content:'  ·  tap to undo';font-size:13px;opacity:.7}
+/* 2: shelf behind the settings card is quiet */
+.modal-open .collection-actions{visibility:hidden}
+.modal-open #collection-sheet{filter:brightness(.85)}
+/* 8: size panel fits its content */
+.phone-panel.compact{bottom:auto}
+.size-sample{font-family:Literata,serif;margin:0 0 18px;padding-bottom:16px;border-bottom:1px solid #9e7b6a35;color:var(--ink)}
+.size-controls{justify-content:space-between;margin-bottom:6px}.size-controls button{width:46px;height:46px;font-size:16px;color:inherit}
+/* 5: empty shelf */
+.shelf-empty #sample-note,.shelf-empty #library-search{display:none}
+.empty-shelf{max-width:none}.empty-shelf p{margin:0 0 4px;color:var(--muted);line-height:1.6;max-width:270px}.empty-shelf .pill{width:auto;display:inline-flex;margin:14px 0 0;min-height:46px;padding:0 22px;border:1px solid #9e7b6a80;border-radius:23px;background:transparent;color:inherit;font:500 16px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+/* 6: search field */
+#library-search{outline:none;padding:5px 4px;-webkit-appearance:none;appearance:none;transition:border-color .2s}
+#library-search:focus{border-bottom-color:var(--accent);box-shadow:0 1px 0 var(--accent)}
+#library-search::-webkit-search-cancel-button{-webkit-appearance:none;appearance:none;width:22px;height:22px;background:center/14px no-repeat url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23927a70' stroke-width='2.2' stroke-linecap='round'%3E%3Cpath d='m6 6 12 12M18 6 6 18'/%3E%3C/svg%3E");opacity:.9;cursor:pointer}
+/* 7: reader top bar */
+.reader-back{min-width:44px}
+.reader-tools{gap:0!important}
+.reader-tools button{min-width:44px!important;height:44px;min-height:44px!important;display:grid;place-items:center;padding:0!important}
+.reader-tools .type-size{font:600 17px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+.reader-tools .bookmark svg{width:21px;height:21px;display:block}
+.reader-tools .reading-more{font-size:22px!important;line-height:1;padding-bottom:6px!important}
+/* 9: library list and sheet */
+.sheet-tabs button{min-height:44px;padding:0 2px;font-size:22px}
+.sheet-head{align-items:center}
+#collection-works{padding-bottom:84px;-webkit-mask-image:linear-gradient(#000 calc(100% - 96px),transparent calc(100% - 30px));mask-image:linear-gradient(#000 calc(100% - 96px),transparent calc(100% - 30px))}
+/* 10: page number is easier to read */
+.reader-footer{font-size:14px;color:var(--ink);opacity:.62}
