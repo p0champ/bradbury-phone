@@ -1,0 +1,167 @@
+{
+  "id": "1170092011_object",
+  "created": "2020-03-22T02:11:59Z",
+  "modified": "2025-07-11T18:10:12Z",
+  "collection": [
+    ""
+  ],
+  "acquisition_date": "1764-05-14T00:00:00Z",
+  "acquisition_date_precision": "1764-05-14",
+  "dimensions": [
+    {
+      "notes": "280 x 355 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "28"
+    },
+    {
+      "notes": "280 x 355 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "35.5"
+    },
+    {
+      "notes": "426 x 496 x 70 mm",
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "42.6"
+    },
+    {
+      "notes": "426 x 496 x 70 mm",
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "49.6"
+    },
+    {
+      "notes": "426 x 496 x 70 mm",
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "7"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Der Riss im Himmel: Clemens August und seine Epoche",
+      "author": "Frank Günter Zehnder",
+      "notes": "p.114 kat.no. XXV.5, afb. p.114 fig. XXV.5 (farve)",
+      "shelfmark": "2000-353",
+      "year_of_publication": "2000"
+    },
+    {
+      "title": "Beschreibendes und kritisches Verzeichnis der Werke der hervorragendsten Holländischen Maler des XVII Jahrhunderts",
+      "author": "Cornelis Hofstede de Groot",
+      "notes": "vol. III: p. 286 nr. 458",
+      "shelfmark": "2119",
+      "year_of_publication": "1907-28"
+    },
+    {
+      "title": "Die Gemälde der Kurfürsten Clemens August",
+      "author": "Horst Vey",
+      "notes": "p. 223 (nr. 690/ cf. også p. 215 nr. 690: \"par Adrian van Ostade\")",
+      "shelfmark": "eks20 May 2009 14:15:26:060",
+      "year_of_publication": "1963"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "Av ostade 1636",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "wood"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Ostade, Adriaen van",
+      "creator_forename": "Adriaen van",
+      "creator_surname": "Ostade",
+      "creator_date_of_birth": "1610-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1685-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_lref": "1699_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1636-01-01T00:00:00.000Z",
+      "end": "1636-12-31T00:00:00.000Z",
+      "period": "1636"
+    }
+  ],
+  "techniques": [
+    "Oil on panel"
+  ],
+  "titles": [
+    {
+      "title": "A Room in a Cottage",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMSsp752",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSsp752",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMSsp752",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSsp752",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSsp752",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSsp752",
+  "production_dates_notes": [
+    "Værkdatering: 1636"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/qb98mg241_KMSKMSSP752.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/qb98mg241_KMSKMSSP752.tif.jp2/info.json",
+      "width": 4134,
+      "height": 3343,
+      "size": 14301119.655172415,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/qb98mg241_KMSKMSSP752.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/qb98mg241_KMSKMSSP752.tif.jp2/full/full/0/native.jpg",
+      "orientation": "landscape"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/d217qs973_KMSKMSSP752.tif.reconstructed.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/d217qs973_KMSKMSSP752.tif.reconstructed.tif.jp2/info.json",
+  "image_width": 3895,
+  "image_height": 3031,
+  "image_size": 10709756,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/d217qs973_KMSKMSSP752.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9kMjE3cXM5NzNfS01TS01TU1A3NTIudGlmLnJlY29uc3RydWN0ZWQudGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNU3NwNzUyIiwibnVtIjoiIn1d/KMSsp752.jpg",
+  "image_cropped": true,
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#593d1c",
+    "#333333",
+    "#b97438"
+  ],
+  "suggested_bg_color": [
+    "#b97438"
+  ],
+  "entropy": 9.789538,
+  "contrast": 1.3476982,
+  "saturation": 3.509447,
+  "colortemp": 4.8624787,
+  "brightness": 4.4066987,
+  "artist": [
+    "Adriaen van Ostade"
+  ]
+}

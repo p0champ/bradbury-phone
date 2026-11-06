@@ -1,0 +1,110 @@
+{
+  "id": "1170034217_object",
+  "created": "2020-03-21T15:09:11Z",
+  "modified": "2025-07-11T17:41:15Z",
+  "acquisition_date": "1907-01-01T00:00:00Z",
+  "acquisition_date_precision": "1907-12-31",
+  "dimensions": [
+    {
+      "notes": "940 x 1250 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "94"
+    },
+    {
+      "notes": "940 x 1250 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "125"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Gensyn. Statens Museum for Kunst gæster Faaborg Museum",
+      "date_start": "2014-06-20T00:00:00.000Z",
+      "date_end": "2014-10-25T00:00:00.000Z",
+      "venue": "Faaborg Museum"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "fnth: FS (monogram) 1905-06",
+      "type": "Inscription"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Syberg, Fritz",
+      "creator_forename": "Fritz",
+      "creator_surname": "Syberg",
+      "creator_date_of_birth": "1862-07-28T00:00:00.000Z",
+      "creator_date_of_death": "1939-12-20T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Fritz Sybergs fattige barndom og ungdom kvalte ikke drømmen om at blive maler. Samtidig med teoretisk undervisning i Faaborg og København fik han sin første kulturelle ballast i malermester Peter Syrak Hansens hjem i Faaborg. S. blev sammen med dennes søn Peter Hansen og studiekammeraten fra Zahrtmanns skole, Johannes Larsen fra Kerteminde, kendt som Fynboerne, samtidens fynske avant- garde. S. fulgte dansk landskabstradition med forbilleder som Dankvart Dreyer og P.C. Skovgaard. I tidlige værker mærkes påvirkningen fra Kr. Zahrtmanns stærke kolorit, kontrastfyldte farvesammensætninger og lysvirkninger. Han malede årets gang, vejrliget og livet, som det udfoldede sig på landet inde og ude. Denne trang til at beskrive tingene som de var, startede i 1907 den såkaldte Bondemalerstrid, der kort handlede om Fynboernes jordnære værker, som ikke faldt i en gruppe københavnske maleres smag, og med udgangspunkt i en småborgerlig indignation gik jagten ind i dagspressen på Bondemalerne, især S. og Peter Hansen. S. opfattede selv realismen som en dækkende stilbetegnelse for sine billeder. S.' stemningsmættede fortolkning af konfliktstof mellem kønnene behandles i monumentalmaleriet Aftenleg i Svanninge Bakker, hvor S. nærmer sig symbolismen. Kompositionen er på én gang stringent og følsom i liniespillet, kombineret med farvevirkninger, der kulminerer i horisonten. S. brugte skjult kunstig lyskilde i bl.a. Ved sengetid, hvor en mor betragter sit sovende barn, mens hun gør sig klar til at gå i seng, et tema, der i perioden ofte havde erotiske undertoner. S. behandlede det nyromantiske motiv usentimentalt og psykologisk set fængslende, ikke mindst på grund af lys- og skyggevirkningerne, der fremhæver noget og lader andet fortone sig. Farveændringer, opstået ved brydningen mellem dagslys og kunstigt lys, tog S. op i Dødsfald, et hovedværk med en realistisk visualisering af hans tragiske erindring om moderens død på fattiggården. S.' ægteskab med Anna Hansen, Peter Hansens søster, skabte med den hurtigt voksende børneflok nye motiver, for eksempel indendørs figurbilleder som Mor og datter, og i adskillige landskabsbilleder fortolkes egnen omkring Svanninge. Familien flyttede 1902 til omegnen af Kerteminde, hvor de nordfynske landskaber gav S. nye udfordringer. Stiftelsen i 1910 af Faaborg Museum gav Fynboerne både status, bedre økonomi og vægplads, og størstedelen af S.' omfattende produktion af malerier, akvareller, tegninger og grafik findes der. Sideløbende med maleriet tegnede S. med pen og blyant. Motiverne fulgte i store træk maleriernes, men et hovedværk er 18 store pennetegninger til H.C. Andersens Historien om en moder. Familie og venner blev brugt som modeller og interiører og landskaber taget fra hjemmet i Svanninge og den nærmeste omegn, hvilket giver motiverne en hverdagsagtig karakter. Under Italiensopholdet med familien fra 1910-13 malede S. udelukkende akvareller, enten med vandfarver alene eller i lighed med Johannes Larsen som akvarellerede pennetegninger. Først 1916 genoptog han oliemaleriet, tilskyndet af Annas søster Marie, der efter Annas død blev S.' anden hustru, og svigersønnen Harald Giersing. En ny fase indtrådte i denne periode, hvor billeder som Selvportræt fra 1916, landskabet Over Kærby Bakke og Ved morgenkaffen indvarsler modernismen i hans kunst. S. formidlede livet igennem det han så, men var åben over for et nyt billedsyn, hvor vægten i højere grad blev lagt på de æstetiske værdier end på virkelighedsgengivelse.",
+      "creator_lref": "1021_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1905-01-01T00:00:00.000Z",
+      "end": "1906-12-31T00:00:00.000Z",
+      "period": "1905-1906"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "Winter Landscape near Taarby Beach on Funen",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS2032",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS2032",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS2032",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS2032",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS2032",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS2032",
+  "production_dates_notes": [
+    "Værkdatering: 1905-1906"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1600,
+  "image_height": 1214,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/8365cbad-9e16-453e-bce6-19da223fcc43.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/8365cbad-9e16-453e-bce6-19da223fcc43.jpg",
+  "colors": [
+    "#382510",
+    "#475c2b",
+    "#5a5527"
+  ],
+  "suggested_bg_color": [
+    "#475c2b"
+  ],
+  "entropy": 9.690596,
+  "contrast": 1.8628335,
+  "saturation": 5.0945554,
+  "colortemp": 4.468016,
+  "brightness": 5.3234673,
+  "geo_location": "55.46309049407171,10.641261804968271",
+  "artist": [
+    "Fritz Syberg"
+  ]
+}

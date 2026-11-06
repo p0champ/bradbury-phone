@@ -1,0 +1,334 @@
+{
+  "id": "1170041088_object",
+  "created": "2020-03-21T16:57:57Z",
+  "modified": "2025-07-11T17:45:13Z",
+  "backside_protection": true,
+  "current_location_name": "Sal 228",
+  "current_location_date": "2024-11-05T00:00:00Z",
+  "acquisition_date": "1935-01-01T00:00:00Z",
+  "acquisition_date_precision": "1935-12-31",
+  "dimensions": [
+    {
+      "notes": "1210 x 950 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "121"
+    },
+    {
+      "notes": "1210 x 950 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "95"
+    },
+    {
+      "notes": "1320 x 1072 x 72 mm",
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "132"
+    },
+    {
+      "notes": "1320 x 1072 x 72 mm",
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "107.2"
+    },
+    {
+      "notes": "1320 x 1072 x 72 mm",
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "7.2"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Sjælebilleder: symbolismen i dansk og europæisk maleri 1870-1910",
+      "author": "Peter Nørgaard Larsen",
+      "notes": "heri: Peter Nørgaard Larsen, \"Skønheden og døden\", p. 42,50, kat. nr. 17",
+      "shelfmark": "2000-548",
+      "year_of_publication": "2000"
+    },
+    {
+      "title": "La dignité des humbles: Jean-Francois Millet et le naturalisme en Europe",
+      "author": "Masao Miyazawa",
+      "notes": "omt. p. 194, ill. p. 195 (kat. nr. 74).",
+      "shelfmark": "2003-263",
+      "year_of_publication": "2003"
+    },
+    {
+      "title": "Nordiske stemninger: Harald Sohlberg (1869-1935), L.A. Ring (1854-1933)",
+      "author": "Tone Sinding Steinsvik",
+      "notes": "omt. pp. 13, 28-29",
+      "shelfmark": "2004-073",
+      "year_of_publication": "2003"
+    },
+    {
+      "title": "L.A. Ring - på kanten af verden",
+      "author": "Peter Nørgaard=nørgård Larsen",
+      "notes": "Kat. 17-10, omt. pp. 44, 148, 180 og 224, ill. pp. 45, 148, 180.",
+      "shelfmark": "2006-212",
+      "year_of_publication": "2006"
+    },
+    {
+      "title": "Ny dansk Billedkunst",
+      "author": "Niels Th. Mortensen",
+      "notes": "ill. p. 119",
+      "shelfmark": "25107",
+      "year_of_publication": "1957"
+    },
+    {
+      "title": "Northern light: Nordic art at the turn of the century",
+      "author": "Kirk Varnedoe",
+      "notes": "omt. p. 213, ill. p. 212, kat. nr. 89",
+      "shelfmark": "88-522",
+      "year_of_publication": "1988"
+    },
+    {
+      "title": "Tranches de vie: le naturalisme en Europe 1875-1915",
+      "author": "Ubekendt",
+      "notes": "omt. og ill. (s/h) p. 31",
+      "shelfmark": "96-877",
+      "year_of_publication": "1996"
+    },
+    {
+      "title": "For hundrede år siden: Danmark og Tyskland 1864-1900: modstandere og naboer: Statens Museum for Kunst, København, Aarhus Kunstmuseum, Århus, Kunsthalle zu Kiel der Christian-Albrechts-Universität, Kiel, Orangerie Schloss Charlottenburg, Berlin",
+      "author": "Ubekendt",
+      "notes": "omt. og ill., fig. 23",
+      "shelfmark": "C 14094:1-2",
+      "year_of_publication": "[1981]"
+    },
+    {
+      "title": "Den bevingede knokkelmand: L.A. Ring imellem realisme og symbolisme",
+      "author": "Finn Terman Frederiksen",
+      "notes": "fig. 1, ill. p. 8, omt. p 9 ff.",
+      "shelfmark": "C 38432",
+      "year_of_publication": "2007"
+    },
+    {
+      "title": "Nyt lys over 1800-tallets danske maleri",
+      "author": "Patricia G. Berman",
+      "notes": "afb. p. 185 (fig 144) og omt. p. 186: \"...Balancerende mellem en socialt baseret symbolisme, som universaliserer og poetiserer scenen, repræsenterer 'Aften (...)' den overgang fre beskrivelse til poetisk opvækken, som karakteriserede denne genrations socialt engagerede kunst.\"",
+      "shelfmark": "C 39042",
+      "year_of_publication": "2007"
+    },
+    {
+      "title": "In another light: Danish painting in the nineteenth century",
+      "author": "Patricia G. Berman",
+      "notes": "afb. p. 185 (fig. 144) og omt. p. 186",
+      "shelfmark": "C 39045",
+      "year_of_publication": "2007"
+    },
+    {
+      "title": "Søren Martinsen: danskeren",
+      "author": "Ubekendt",
+      "notes": "Afb. p. 14. Omt. p. 15.",
+      "shelfmark": "C 54224",
+      "year_of_publication": "2012"
+    },
+    {
+      "title": "Ny dansk kunsthistorie",
+      "author": "Ubekendt",
+      "notes": "bd. 5, Henrik Wivel, Symbolisme og impressionisme. Kbh. 1994, p.91",
+      "shelfmark": "D 22097",
+      "year_of_publication": "1993-1996"
+    },
+    {
+      "title": "Pas de Deux Royal: Et kunstnerisk møde",
+      "author": "Jens Erik Sørensen",
+      "notes": "afb. p. 30, omt. p. 29ff",
+      "year_of_publication": "2013"
+    },
+    {
+      "title": "Kunstnerbrødre: L. A. Ring og H. A. Brendekilde",
+      "author": "Jeppesen, Lise",
+      "notes": "afb. p. 70, 127"
+    },
+    {
+      "title": "Nolde und der Norden",
+      "author": "Kathrin Baumstark",
+      "notes": "abb. 22, afb. p. 42",
+      "year_of_publication": "2021"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "KUNSTNERBRØDRE L.A. Ring og H.A. Brendekilde",
+      "date_start": "2018-11-24T00:00:00.000Z",
+      "date_end": "2019-03-31T00:00:00.000Z",
+      "venue": "Randers Kunstmuseum"
+    },
+    {
+      "exhibition": "Luz del norte",
+      "date_start": "1995-03-30T00:00:00.000Z",
+      "date_end": "1995-05-15T00:00:00.000Z",
+      "venue": "Museo Nacional Centro de Arte Reina Sofia"
+    },
+    {
+      "exhibition": "Luz del norte",
+      "date_start": "1995-05-30T00:00:00.000Z",
+      "date_end": "1995-07-15T00:00:00.000Z",
+      "venue": "Museu Nacional d'Art de Catalunya, Barcelona"
+    },
+    {
+      "exhibition": "Luz del norte",
+      "date_start": "1995-08-11T00:00:00.000Z",
+      "date_end": "1995-09-30T00:00:00.000Z",
+      "venue": "Listasafn Islands"
+    },
+    {
+      "exhibition": "Luz del norte",
+      "date_start": "1995-10-25T00:00:00.000Z",
+      "date_end": "1996-01-06T00:00:00.000Z",
+      "venue": "Nationalmuseum, Stockholm"
+    },
+    {
+      "exhibition": "KUNSTNERBRØDRE. L.A. Ring og H.A. Brendekilde",
+      "date_start": "2019-04-12T00:00:00.000Z",
+      "date_end": "2019-08-25T00:00:00.000Z",
+      "venue": "Brandts, Odense"
+    },
+    {
+      "exhibition": "KUNSTNERBRØDRE. L.A. Ring og H.A. Brendekilde",
+      "date_start": "2019-09-22T00:00:00.000Z",
+      "date_end": "2020-01-26T00:00:00.000Z",
+      "venue": "Nivaagaards Malerisamling"
+    },
+    {
+      "exhibition": "La dignité des humbles: Jean-Francois Millet et le naturalisme en Europe",
+      "date_start": "2003-04-10T00:00:00.000Z",
+      "date_end": "2003-07-13T00:00:00.000Z",
+      "venue": "The Bunkamura Museum of Art, Tokyo"
+    },
+    {
+      "exhibition": "La dignité des humbles: Jean-Francois Millet et le naturalisme en Europe",
+      "date_start": "2003-07-23T00:00:00.000Z",
+      "date_end": "2003-09-25T00:00:00.000Z",
+      "venue": "Fukuoka Art Museum, Japan"
+    },
+    {
+      "exhibition": "L.A. Ring - på kanten af verden",
+      "date_start": "2006-09-02T00:00:00.000Z",
+      "date_end": "2007-01-07T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "L.A. Ring - på kanten af verden",
+      "date_start": "2007-01-25T00:00:00.000Z",
+      "date_end": "2007-04-28T00:00:00.000Z",
+      "venue": "Randers Kunstmuseum"
+    },
+    {
+      "exhibition": "Sjælebilleder : symbolismen i dansk og europæisk maleri 1870-1910",
+      "date_start": "2000-09-29T00:00:00.000Z",
+      "date_end": "2001-01-14T00:00:00.000Z",
+      "venue": "SMK København"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "L. A. Ring 87",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Ring, L.A.",
+      "creator_forename": "L.A.",
+      "creator_surname": "Ring",
+      "creator_date_of_birth": "1854-08-15T00:00:00.000Z",
+      "creator_date_of_death": "1933-09-10T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "L.A. Ring kom fra landet, og han glemte det aldrig. Ikke alene tog han navn efter den landsby i Sydsjælland, hvor han var født, han tog også landbefolkningens vilkår på sig som sin skæbne. Som maler distancerede han sig således aldrig fra sin ydmyge oprindelse, men gjorde den tværtimod til sit altdominerende tema og satte den dermed et minde, der hører mellem de stolteste i dansk kunst. Modsat mange andre malere i både ind- og udland, bl.a. hans franske forbilleder Jules Bastien-Lepage og Jean Franois Rafaëlli, der tog samme motivkreds op i anden halvdel af 1800-tallet, forlenede R. aldrig sine skildringer af landbefolkningen med de sentimentale eller anekdotiske træk, der kunne gøre billederne salgbare i storbyen, og han forfaldt heller aldrig til det facile håndelag, der ellers karakteriserede tidens realistiske maleri. Hans billeder er malet med en fuldkommen selvfølgelig solidaritet og så direkte og utilsløret, at en samtidig kritiker kaldte ham \"Hæslighedens Apostel\". Når man alligevel ikke kan rubricere R. som bondemaler, endsige som genremaler, skyldes det træk ved hans kunst, der rækker ud over det lokale og knytter ham til tidens symbolistiske strømninger. Han kan her sidestilles med Vilhelm Hammershøi, både m.h.t. format og betydning. R. var socialist i sin ungdom, men denne overbevisning prægede ikke hans kunst i propagandistisk retning. Den sociale indignation lå snarere i selve registreringens præcision. Hans skildringer af landsbyen og det dyrkede land omkring den er indtrængende og nøjeregnende i positivistisk forstand. Men de er også mere end det. Ved sin overraskende beskæring af motiverne, sin raffinerede kompositionsteknik og sin særegne pointering af de enkelte elementer formår R. at tilføre billederne en ekstra dimension, hinsides det skildrede. Et af ledemotiverne i hans kunst er vejen, og her ikke kun landevejen, hulvejen og markstien, men også vandveje som bække, åløb, flodmundinger og åbent hav og de mere moderne som broer, jernbanespor og telefontråde. Vejene leder blikket ind i billederne og videre ud af dem igen, og de skal ikke kun forstås bogstaveligt, men også symbolistisk som sindbilleder på den menneskelige tilværelse. R. var depressivt anlagt, men hans fortolkning af livets vej er det modsatte. Der er snarere noget dynamisk over den og noget moderne. Det er verden her og nu, der optager ham, også når han skildrer sine bondestuer. Her kommer gæster på besøg udefra, og her kommer postbudet ind med aviser og breve. Der er tydeligvis en større verden udenfor. Tærskler som vinduer og døre pointeres, tanker og længsler antydes upåfaldende i de impliceredes ansigter. I enkelte værker træder det symbolistiske dog mere entydigt frem. Som i de billeder, hvor R. i monumental form, og inspireret af Jean-Franois Millet, skildrer bønder der sår, og bønder der høster, eller i de meget få, hvor han som i et syn suggererer døden som knokkelmand i nattehimmelen over en gammel, udslidt kone eller maner den frem på lignende vis under muren omkring Melby Kirkegård. R. hører mellem de betydligste danske landskabsmalere overhovedet. Han trækker på traditionen fra Lundbye og Kyhn og fastholder og uddyber den gennem et langt liv uden et øjeblik at slække på kravene til sig selv. Hans sidste landskabsbilleder fra Skt. Jørgensbjerg ved Roskilde står på ingen måde tilbage for dem, han havde malet tidligere i karrieren. Han var i stand til at mobilisere en kolossal præcision i detaljen uden et øjeblik at tabe sit overordnede sigte af syne. Det var essensen af det danske landskab og vejrlig, han uddrog, og ved at lade vejene skære sig igennem det som spor af menneskelig aktivitet kom landskaberne til at stå frem som sindbilleder på selve eksistensen.",
+      "creator_lref": "1049_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1887-01-01T00:00:00.000Z",
+      "end": "1887-12-31T00:00:00.000Z",
+      "period": "1887"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "Evening",
+      "language": "engelsk"
+    },
+    {
+      "title": "Evening. Death and the Old Woman",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS4102",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS4102",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS4102",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS4102",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS4102",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS4102",
+  "production_dates_notes": [
+    "Værkdatering: 1887"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": true,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/sf268599s_KMSKMS4102.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/sf268599s_KMSKMS4102.tif.jp2/info.json",
+      "width": 2953,
+      "height": 3744,
+      "size": 11445838.620689655,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/sf268599s_KMSKMS4102.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/sf268599s_KMSKMS4102.tif.jp2/full/full/0/native.jpg",
+      "orientation": "portrait"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/sq87c052p_KMS4102.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/sq87c052p_KMS4102.tif.jp2/info.json",
+  "image_width": 3231,
+  "image_height": 4096,
+  "image_size": 13700314,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/sq87c052p_KMS4102.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9zcTg3YzA1MnBfS01TNDEwMi50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TNDEwMiIsIm51bSI6IiJ9XQ==/KMS4102.jpg",
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#444444",
+    "#593d1c",
+    "#333333",
+    "#3a351f",
+    "#d0da83"
+  ],
+  "suggested_bg_color": [
+    "#444444"
+  ],
+  "entropy": 9.676853,
+  "contrast": 1.8162848,
+  "saturation": 2.1917315,
+  "colortemp": 3.4248757,
+  "brightness": 4.3939395,
+  "artist": [
+    "L.A. Ring"
+  ]
+}

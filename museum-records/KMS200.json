@@ -1,0 +1,132 @@
+{
+  "id": "1170016623_object",
+  "created": "2020-03-21T11:39:44Z",
+  "modified": "2025-07-11T17:33:29Z",
+  "acquisition_date": "1831-01-01T00:00:00Z",
+  "acquisition_date_precision": "1831-12-31",
+  "dimensions": [
+    {
+      "notes": "1500 x 1990 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "150"
+    },
+    {
+      "notes": "1500 x 1990 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "199"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Blunck. En biografisk og kulturhistorisk fortælling om en anderledes guldaldermaler og hans samtidige",
+      "author": "Karin Bechmann Søndergaard",
+      "notes": "afb. p. 88, omt. pp. 86-88",
+      "year_of_publication": "2017"
+    },
+    {
+      "title": "Den anden guldalder. Johan Ludvig Lund over alle grænser",
+      "author": "Anna Schram Vejlby",
+      "notes": "Fig. 30, afb. p. 92",
+      "year_of_publication": "2019"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Blunck, Ditlev",
+      "creator_forename": "Ditlev",
+      "creator_surname": "Blunck",
+      "creator_date_of_birth": "1798-06-22T00:00:00.000Z",
+      "creator_date_of_death": "1854-01-07T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Ditlev Blunck startede på Kunstakademiet i København i perioden efter Juels og Abildgaards død og blev elev af C.A. Lorentzen. Velsagtens i utilfredshed med undervisningen søgte han i 1818 til München, hvor han var indskrevet på kunstakademiet til ca. 1820. Efter sin tilbagekomst til København blev han elev af J.L. Lund. Skønt han i starten især dyrkede historiemaleriet, bidrog han med en række genremalerier til at skabe den hverdagsrealisme, som for alvor brød igennem i dansk kunst midt i 1820rne. Her mærkes påvirkning fra C.W. Eckersberg, men hans kunst rummer også elementer, som formodentlig er overtaget fra samtidig tysk kunst. Hans billeder af kunstnere i deres atelier synes at have inspireret Wilhelm Bendz til lignende skildringer. Under indflydelse fra J.L. Lund satsede han mere og mere på de religiøse motiver, og under sit lange udenlandsophold blev han, som en af de meget få danske malere, påvirket af de tyske nazarenere. Dette ses især i det strenge, stiliserede portræt af Troels Lund. I Rom sluttede han sig til kredsen omkring Thorvaldsen. Her malede han ud over religiøse malerier også folkelivsbilleder, først og fremmest Danske kunstnere i osteriet La Gensola i Rom. I 1838 vendte B. tilbage til København, hvor han påbegyndte sit hovedværk, De fire menneskealdre på bestilling fra kongen. Både med sit allegoriske indhold og med den stiliserede udformning skiller de fire malerier sig klart ud fra de dominerende strømninger i dansk kunst. Efter en dom for en seksuel overtrædelse, B. var homoseksuel, forlod han Danmark for stedse i 1841. Hans sene arbejder er præget af mørke farver og virker tunge. Under krigen 1848-50 sluttede han sig til slesvig-holstenerne og mistede derefter helt forbindelsen med det danske kunstliv.",
+      "creator_lref": "259_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1830-01-01T00:00:00.000Z",
+      "end": "1830-12-31T00:00:00.000Z",
+      "period": "1830"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "The Vision of the Prophet Ezekiel",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS200",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS200",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS200",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS200",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS200",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS200",
+  "production_dates_notes": [
+    "Værkdatering: 1830",
+    "afsluttet: dokumenteret"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/2f75r892j_kms200.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/2f75r892j_kms200.tif.jp2/info.json",
+      "width": 3135,
+      "height": 4281,
+      "size": 13891560.344827587,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/2f75r892j_kms200.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/2f75r892j_kms200.tif.jp2/full/full/0/native.jpg",
+      "orientation": "portrait"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/v118rh906_kms200-cropped.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/v118rh906_kms200-cropped.tif.jp2/info.json",
+  "image_width": 3646,
+  "image_height": 2857,
+  "image_size": 10784685,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/v118rh906_kms200-cropped.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi92MTE4cmg5MDZfa21zMjAwLWNyb3BwZWQudGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNUzIwMCIsIm51bSI6IiJ9XQ==/KMS200.jpg",
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#444444",
+    "#191909",
+    "#140604",
+    "#111111",
+    "#593d1c",
+    "#aaaaaa"
+  ],
+  "suggested_bg_color": [
+    "#444444"
+  ],
+  "entropy": 9.571278,
+  "contrast": 2.3782604,
+  "saturation": 3.088306,
+  "colortemp": 3.664015,
+  "brightness": 2.9016914,
+  "artist": [
+    "Ditlev Blunck"
+  ]
+}

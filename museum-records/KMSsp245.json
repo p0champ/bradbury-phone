@@ -1,0 +1,97 @@
+{
+  "id": "1170026990_object",
+  "created": "2020-03-21T13:37:14Z",
+  "modified": "2025-07-11T17:38:07Z",
+  "collection": [
+    ""
+  ],
+  "acquisition_date": "1801-01-01T00:00:00Z",
+  "acquisition_date_precision": "1801-12-31",
+  "dimensions": [
+    {
+      "notes": "850 x 628 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "85"
+    },
+    {
+      "notes": "850 x 628 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "62.8"
+    }
+  ],
+  "materials": [
+    "wood"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Dyck, Anthony van",
+      "creator_forename": "Anthony van",
+      "creator_surname": "Dyck",
+      "creator_date_of_birth": "1599-03-22T00:00:00.000Z",
+      "creator_date_of_death": "1641-12-09T00:00:00.000Z",
+      "creator_nationality": "Flemish",
+      "creator_gender": "MALE",
+      "creator_qualifier": "school of",
+      "creator_role": "school of",
+      "creator_lref": "1626_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1614-01-01T00:00:00.000Z",
+      "end": "1741-12-31T00:00:00.000Z",
+      "period": "1614-1741"
+    }
+  ],
+  "techniques": [
+    "Oil on panel"
+  ],
+  "titles": [
+    {
+      "title": "Portrait of a Mathematician",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMSsp245",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSsp245",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMSsp245",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSsp245",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSsp245",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSsp245",
+  "production_dates_notes": [
+    "Værkdatering"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/469b263c-1826-464d-8afc-b320928628e5.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/469b263c-1826-464d-8afc-b320928628e5.jpg",
+  "colors": [
+    "#333333",
+    "#000000",
+    "#ffffff",
+    "#555555"
+  ],
+  "suggested_bg_color": [
+    "#555555"
+  ],
+  "entropy": 8.999867,
+  "contrast": 4.5532455,
+  "colortemp": 3.1102805,
+  "brightness": 2.7510917,
+  "artist": [
+    "Unknown"
+  ]
+}

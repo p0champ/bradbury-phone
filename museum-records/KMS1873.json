@@ -1,0 +1,107 @@
+{
+  "id": "1170091885_object",
+  "created": "2020-03-22T02:09:04Z",
+  "modified": "2025-07-11T18:10:08Z",
+  "acquisition_date": "1905-01-01T00:00:00Z",
+  "acquisition_date_precision": "1905-12-31",
+  "dimensions": [
+    {
+      "notes": "355 x 270 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "35.5"
+    },
+    {
+      "notes": "355 x 270 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "27"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "T.G.",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "copper"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Gelton, Toussaint",
+      "creator_forename": "Toussaint",
+      "creator_surname": "Gelton",
+      "creator_date_of_birth": "1628-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1680-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_history": "Toussaint Geltons baggrund og uddannelse er ukendt, men han kopierede billeder af C. Pohlenburg og er i sin malemåde påvirket af denne. Han var teknisk meget dygtig og hans billeder er alle meget minutiøst og detaljeret udført, ofte med en temmelig direkte brug af forbilleder, foruden Pohlenburg også Elsheimer, Gerrit Dou, F. Mieris og G. Schalken. Skovlandskaberne og Noahs ark er tydeligt inspireret af R. Savery. Da han arbejdede ti uger i Göteborg for Karl X Gustav, kaldtes han \"Den königl. Dehnischen Contrafeyer\". Udover de bevarede billeder leverede han i 1670erne også skilderier med fugle og dyr, bl.a. marekatte. G. fungerede også som kontaktmand til udenlandske kunstnere. Med ham som mellemmand udførte hollænderen Romeyn de Hooghe en serie kobberstik med motiver fra Skånske krig. Forlægget er måske de billeder af G., som 1696 var på Rosenborg Slot. Sine efterladenskaber testamenterede G. kirken på Christianshavn. Af hans bo udtog kongen en række portrætter, som imidlertid brændte med Frederiksborg Slot i 1859.",
+      "creator_lref": "2587_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1645-01-01T00:00:00.000Z",
+      "end": "1680-12-31T00:00:00.000Z",
+      "period": "1645-1680"
+    }
+  ],
+  "techniques": [
+    "Oil on copper"
+  ],
+  "titles": [
+    {
+      "title": "Sleeping Nymph",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS1873",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS1873",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS1873",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS1873",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS1873",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS1873",
+  "production_dates_notes": [
+    "Værkdatering"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1190,
+  "image_height": 1600,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/6730f471-e9e5-4990-b9fa-20591ca7b36c.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/6730f471-e9e5-4990-b9fa-20591ca7b36c.jpg",
+  "colors": [
+    "#c9e1f6",
+    "#111111",
+    "#140604",
+    "#a9c9ed",
+    "#101933",
+    "#aaaaaa",
+    "#888888",
+    "#ffffff",
+    "#475c2b"
+  ],
+  "suggested_bg_color": [
+    "#888888"
+  ],
+  "entropy": 9.792103,
+  "contrast": 5.863794,
+  "saturation": 2.0926647,
+  "colortemp": 2.784167,
+  "brightness": 5.0861864,
+  "artist": [
+    "Toussaint Gelton"
+  ]
+}

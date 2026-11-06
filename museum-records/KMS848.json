@@ -1,0 +1,118 @@
+{
+  "id": "1170090708_object",
+  "created": "2020-03-22T01:48:31Z",
+  "modified": "2025-07-11T18:09:23Z",
+  "acquisition_date": "1866-01-01T00:00:00Z",
+  "acquisition_date_precision": "1866-12-31",
+  "dimensions": [
+    {
+      "notes": "1560 x 2490 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "156"
+    },
+    {
+      "notes": "1560 x 2490 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "249"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Simonsen, Niels",
+      "creator_forename": "Niels",
+      "creator_surname": "Simonsen",
+      "creator_date_of_birth": "1807-12-10T00:00:00.000Z",
+      "creator_date_of_death": "1885-12-11T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Niels Simonsen uddannede sig både som billedhugger og maler, men fravalgte tilsyneladende skulpturen efter forgæves at have konkurreret om den store guldmedalje. Som flere samtidige danske kunstnerkolleger valgte S. at rejse til München, hvor han opholdt sig i årene 1834-45, kun afbrudt af kortere rejser i Sydtyskland og Tyrol samt til Italien og Algeriet. München var dengang et af Europas førende kunstcentre og især attraktiv, hvis man som S. ønskede at dygtiggøre sig inden for bataljemaleriet. S.' foretrukne motivkreds var slagscener mellem franske og arabiske soldater, motiver der var blevet populære efter Frankrigs nordafrikanske felttog og erobringen af Algeriet 1830. Som sit forbillede, den franske historiemaler Horace Vernet, besøgte S. Algeriet og samlede indtryk, studier og etnografika, som ved hjemkomsten til München blev anvendt til arabiske motiver, der sikrede S. en fremtrædende plads i Münchens kunstliv. Med den europæiske kolonialisme og voksende interesse for de fremmede kulturer blev de orientalske motiver stærkt efterspurgte, og S. gjorde flittigt brug af sit arabiske materiale efter hjemrejsen til Danmark, til tider i form af noget rutineprægede variationer og gentagelser. S. fremstår som den mest rendyrkede danske orientalist, for hvem Orienten, som for Vernet, E. Fromentin og A.-G. Decamps, hovedsagelig var leverandør af et farverigt og eksotisk motivpotentiale, som fandt anvendelse som forlæg for slagscener, herunder piratoverfald, og etnografiske genrebilleder samt i mindre omfang landskabsbilleder. Den internationale stil og motivkreds viste sig hurtigt at være i modstrid med den toneangivende hjemlige kunstpolitiske strømning, der med N.L. Høyen som talerør foretrak en i dansk natur og kultur forankret national billedkunst. S. blev i stedet en vigtig figur blandt anti-Høyenianerne, europæerne. Høyen kritiserede S.' ofte virtuost anlagte kompositioner for at være præget af overfladisk effektjageri, også når S. søgte at nærme sig det institutionaliserede kunstsyn gennem nationalhistoriske emner og nordiske folkelivsbilleder. Til gengæld nød S. som de øvrige europæere stor bevågenhed fra de mere konservative kredse, herunder adel og kongehus, og han blev 1854 udnævnt til at efterfølge Eckersberg som professor ved Kunstakademiet. Som fremtrædende historie- og figurmaler blev S. tildelt en række offentlige bestillingsopgaver, fortrinsvis slagscener og andre begivenheder med tilkytning til Treårskrigen og krigen i 1864, både i form af dramatiske, sejrrige slagscener under Treårskrigen og heroiserende skildringer af den anonyme soldats storhed under nederlaget i 1864. Sidstnævnte som Infanterister, der redder en kanon på tilbagetoget fra Dannevirke og Episode af træfningen ved Sankelmark er med de knappe afskæringer og den dramatiske handlingskoncentration på linie med bestræbelserne i det samtidige historiemaleri, som det bl.a. praktiseredes af Carl Bloch. Som professor og med sin internationale skoling har S. formodentlig haft betydning for den voksende interesse for det europæiske figurmaleri, der i begyndelsen af 1860erne ses i dansk maleri hos kunstnere som Bloch og L.A. Schou.",
+      "creator_lref": "564_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1822-01-01T00:00:00.000Z",
+      "end": "1866-12-31T00:00:00.000Z",
+      "period": "1822-1866"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS848",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS848",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS848",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS848",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS848",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS848",
+  "production_dates_notes": [
+    "Værkdatering: 1822-1866",
+    "Påbegyndt: baseret på kunstnerens årstal afsluttet: tilgået museet"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/ft848r48k_KMS848.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/ft848r48k_KMS848.tif.jp2/info.json",
+      "width": 5400,
+      "height": 3390,
+      "size": 18947417.931034483,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/ft848r48k_KMS848.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/ft848r48k_KMS848.tif.jp2/full/full/0/native.jpg",
+      "orientation": "landscape"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/gm80hz504_KMS848.tif.reconstructed.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/gm80hz504_KMS848.tif.reconstructed.tif.jp2/info.json",
+  "image_width": 5396,
+  "image_height": 3376,
+  "image_size": 6596635,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/gm80hz504_KMS848.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9nbTgwaHo1MDRfS01TODQ4LnRpZi5yZWNvbnN0cnVjdGVkLnRpZi5qcDIvZnVsbC9mdWxsLzAvbmF0aXZlLmpwZyIsInB1YmxpY19kb21haW4iOnRydWUsIm9iamVjdF9udW1iZXIiOiJLTVM4NDgiLCJudW0iOiIifV0=/KMS848.jpg",
+  "image_cropped": true,
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#222222",
+    "#555555",
+    "#333333",
+    "#795025"
+  ],
+  "suggested_bg_color": [
+    "#795025"
+  ],
+  "entropy": 9.213308,
+  "contrast": 1.5886056,
+  "saturation": 2.3713522,
+  "colortemp": 4.0720654,
+  "brightness": 4.5526695,
+  "titles": [
+    {
+      "title": "Stormen på Frederiksstad den 4. oktober 1850",
+      "type": "museumstitel",
+      "language": "dansk"
+    }
+  ],
+  "artist": [
+    "Niels Simonsen"
+  ]
+}

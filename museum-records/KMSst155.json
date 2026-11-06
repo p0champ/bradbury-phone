@@ -1,0 +1,180 @@
+{
+  "id": "1170021258_object",
+  "created": "2020-03-21T12:28:17Z",
+  "modified": "2026-11-02T09:49:25Z",
+  "collection": [
+    ""
+  ],
+  "current_location_name": "Sal 211B",
+  "current_location_date": "2023-11-13T00:00:00Z",
+  "acquisition_date": "1698-01-01T00:00:00Z",
+  "acquisition_date_precision": "1698-12-31",
+  "dimensions": [
+    {
+      "notes": "980 x 725 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "98"
+    },
+    {
+      "notes": "980 x 725 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "72.5"
+    },
+    {
+      "type": "height",
+      "unit": "cm",
+      "value": "121.5"
+    },
+    {
+      "type": "width",
+      "unit": "cm",
+      "value": "96"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Barok. 1600-tallets kunst i SMK's samlinger",
+      "author": "Eva de la Fuente Pedersen",
+      "notes": "omt. p. 55, 89, 196, afb. p. 91, 198, katalog p. 215",
+      "year_of_publication": "2023"
+    },
+    {
+      "title": "Italian paintings and sculpture in Denmark",
+      "author": "Harald Olsen",
+      "notes": "p. 97, afb. LXVId",
+      "shelfmark": "28349",
+      "year_of_publication": "1961"
+    },
+    {
+      "title": "Det kongelige danske Kunstkammer 1737",
+      "author": "Bente Gundestrup",
+      "notes": "vol. I: p. 13 nr. 642/10 ill.",
+      "shelfmark": "91-342",
+      "year_of_publication": "1991"
+    },
+    {
+      "title": "Un dimenticato pittore del tardo seicento. Gerolamo Troppa",
+      "author": "Andrea Busiri Vici",
+      "notes": "p. 24, fig. 8",
+      "shelfmark": "2003-053",
+      "year_of_publication": "[s.a.]"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Barok - Ud af mørket",
+      "date_start": "2023-05-27T00:00:00.000Z",
+      "date_end": "2023-11-05T00:00:00.000Z",
+      "venue": "SMK København"
+    }
+  ],
+  "labels": [
+    {
+      "text": "Sheltered by an outcrop of rock, overlooking the restless sea, we see Saint Peter wringing his hands, eyes turned heavenwards – an iconography typical of this era’s depictions of ‘Saint Peter Penitent’. The literary source of the scene appears in all four gospels of the New Testament, which give almost identical accounts of an episode from the Passion in which a fearful Peter betrays Christ three times in the gateway and courtyard of Pilate’s house. When Peter realises that Jesus’s prediction, ‘this very night, before the rooster crows, you will deny me three times’, has just come true, he cries tears of despair and repentance. The weeping Saint Peter was not just a model image of remorse and penitence within the Catholic church. During the Danish Baroque era, particularly under the reign of Frederik III, the teachings of Lutheran orthodoxy were closely associated with the concept of ‘pønitense’. The road to salvation was paved with penance and atonement, remorse and conversion.",
+      "type": "OTHERTEXT",
+      "source": "Eva de la Fuente Pedersen",
+      "date": "2017-12-01T00:00:00.000Z"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Troppa, Girolamo",
+      "creator_forename": "Girolamo",
+      "creator_surname": "Troppa",
+      "creator_date_of_birth": "1637-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1708-01-01T00:00:00.000Z",
+      "creator_nationality": "Italian",
+      "creator_gender": "MALE",
+      "creator_history": "død: kunstnerens årstal er baseret på et fagligt skøn",
+      "creator_lref": "1993_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1665-01-01T00:00:00.000Z",
+      "end": "1668-12-31T00:00:00.000Z",
+      "start_prec": "ca.",
+      "period": "1665-1668"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "Saint Peter Penitent",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMSst155",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSst155",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMSst155",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSst155",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSst155",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSst155",
+  "production_dates_notes": [
+    "Værkdatering: ca. 1665-1668"
+  ],
+  "work_status": [
+    "pendant"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": true,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/vt150k099_kmsst155.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/vt150k099_kmsst155.tif.jp2/info.json",
+      "width": 8650,
+      "height": 11984,
+      "size": 107244085.51724139,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/vt150k099_kmsst155.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/vt150k099_kmsst155.tif.jp2/full/full/0/native.jpg",
+      "orientation": "portrait"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/5999n6552_kmsst155.tif.reconstructed.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/5999n6552_kmsst155.tif.reconstructed.tif.jp2/info.json",
+  "image_width": 5017,
+  "image_height": 6843,
+  "image_size": 30218758,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/5999n6552_kmsst155.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi81OTk5bjY1NTJfa21zc3QxNTUudGlmLnJlY29uc3RydWN0ZWQudGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNU3N0MTU1IiwibnVtIjoiIn1d/KMSst155.jpg",
+  "image_cropped": true,
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#222222",
+    "#111111",
+    "#956830",
+    "#908d41"
+  ],
+  "suggested_bg_color": [
+    "#908d41"
+  ],
+  "entropy": 9.739732,
+  "contrast": 1.9224026,
+  "saturation": 2.5573287,
+  "colortemp": 4.506084,
+  "brightness": 2.953605,
+  "artist": [
+    "Girolamo Troppa"
+  ]
+}

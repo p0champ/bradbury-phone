@@ -1,0 +1,126 @@
+{
+  "id": "1170091447_object",
+  "created": "2020-03-22T02:00:41Z",
+  "modified": "2025-07-11T18:09:52Z",
+  "acquisition_date": "1839-01-01T00:00:00Z",
+  "acquisition_date_precision": "1839-12-31",
+  "dimensions": [
+    {
+      "notes": "840 x 1170 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "84"
+    },
+    {
+      "notes": "840 x 1170 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "117"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "CHolm.",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Holm, Christian",
+      "creator_forename": "Christian",
+      "creator_surname": "Holm",
+      "creator_date_of_birth": "1803-02-18T00:00:00.000Z",
+      "creator_date_of_death": "1846-07-24T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Christian Holm har øjensynligt været i tvivl, om han skulle uddannes som kobberstikker hos J.F. Clemens eller eventuelt skulle lære at modellere. Da han blev elev af C.D. Gebauer, lå hans valg af genre fast. Det var hans ambition at blive bataljemaler, og dermed fulgte naturligt, at han udførte et stort antal studier af heste, køer og hunde. Med Gebauer studerede han heste ved Fredriksborg og J.M. Thiele sørgede for, at han kunne fortsætte studierne på Krabbesholm. Herfra stammer flere malerier af heste, som tumler sig livligt. Under indtryk af en rejse til Norge, malede og solgte H. billeder af rener, bjørne og af dramatiske jagtscener. Hans store slagscener fra stormen på København og af Daniel Rantzau ved Tureby Bro fik en hård kritik af N.L. Høyen, som med rette påpegede, at han ikke bekerskede det store format og kompositioner med mange figurer. H.s styrke lå i at iagttage sit motiv i de naturlige omgivelser, hvilket også hans sidste stemningsfulde, italienske genremotiver bevidner. På trods af, at hans tyske orientering vakte Christian VIIIs interesse, havde H. svært ved at blive anerkendt. Han fik nogen betydning for Theodor Julius Kiellerup, Thorald Læssøe og Johan Thomas Lundbye.",
+      "creator_lref": "662_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1837-01-01T00:00:00.000Z",
+      "end": "1838-12-31T00:00:00.000Z",
+      "period": "1837-1838"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS367",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS367",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS367",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS367",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS367",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS367",
+  "production_dates_notes": [
+    "Værkdatering: Ca. 1839",
+    "Maleriet er uden tvivl udført umiddelbart inden udstillingen på Charlottenborg i 1839."
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/0r967482s_KMS367.TIF.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/0r967482s_KMS367.TIF.jp2/info.json",
+      "width": 5603,
+      "height": 4096,
+      "size": 23751849.655172415,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/0r967482s_KMS367.TIF.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/0r967482s_KMS367.TIF.jp2/full/full/0/native.jpg",
+      "orientation": "landscape"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/gh93h2481_KMS367.TIF.reconstructed.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/gh93h2481_KMS367.TIF.reconstructed.tif.jp2/info.json",
+  "image_width": 4968,
+  "image_height": 3432,
+  "image_size": 8149238,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/gh93h2481_KMS367.TIF.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9naDkzaDI0ODFfS01TMzY3LlRJRi5yZWNvbnN0cnVjdGVkLnRpZi5qcDIvZnVsbC9mdWxsLzAvbmF0aXZlLmpwZyIsInB1YmxpY19kb21haW4iOnRydWUsIm9iamVjdF9udW1iZXIiOiJLTVMzNjciLCJudW0iOiIifV0=/KMS367.jpg",
+  "image_cropped": true,
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#541f0e",
+    "#666666",
+    "#999999",
+    "#140604",
+    "#b7ac3e",
+    "#230b09"
+  ],
+  "suggested_bg_color": [
+    "#666666"
+  ],
+  "entropy": 9.770782,
+  "contrast": 3.3791566,
+  "saturation": 4.3536325,
+  "colortemp": 4.572358,
+  "brightness": 4.0030594,
+  "titles": [
+    {
+      "title": "Daniel Rantzau bemægtiger sig Tureby Bro i Skåne under Syvårskrigen 1563-1570",
+      "type": "museumstitel",
+      "language": "dansk"
+    }
+  ],
+  "artist": [
+    "Christian Holm"
+  ]
+}

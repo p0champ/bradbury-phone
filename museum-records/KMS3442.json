@@ -1,0 +1,251 @@
+{
+  "id": "1170014841_object",
+  "created": "2020-03-21T11:19:29Z",
+  "modified": "2025-07-11T17:32:44Z",
+  "current_location_name": "Sal 217B",
+  "current_location_date": "2021-12-06T00:00:00Z",
+  "acquisition_date": "1919-01-01T00:00:00Z",
+  "acquisition_date_precision": "1919-12-31",
+  "content_person_full": [
+    {
+      "full_name": "Anakreon",
+      "surname": "Anakreon",
+      "gender": "UNKNOWN"
+    }
+  ],
+  "dimensions": [
+    {
+      "notes": "470 x 375 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "47"
+    },
+    {
+      "notes": "470 x 375 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "37.5"
+    },
+    {
+      "notes": "560 x 465 x 62 mm",
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "56.1"
+    },
+    {
+      "notes": "560 x 465 x 62 mm",
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "46.6"
+    },
+    {
+      "notes": "560 x 465 x 62 mm",
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "6.5"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Abildgaard=abildgård: kunstneren mellem oprørerne",
+      "author": "Patrick Kragelund",
+      "notes": "Ill. p. 104 (s/h), 561. Omtales p. 103, 172-173, 556-557, 559-560. Kragelund forelår titlen \"Anakreon og Bathyllos\".",
+      "shelfmark": "2000-057",
+      "year_of_publication": "1999"
+    },
+    {
+      "title": "Maleren Nicolai Abildgaard",
+      "author": "Charlotte Christensen",
+      "notes": "p.233-34 (om billedernes erotiske indhold, bl.a. i relation til samtidens tyske anakreoniske digtning), afb. p. 236 (f)",
+      "shelfmark": "99-498",
+      "year_of_publication": "1999"
+    },
+    {
+      "title": "Abildgaard=abildgård, 1743-1809",
+      "author": "Ubekendt",
+      "notes": "kat. nr. 44, omt. p. 156, ill. p. 157",
+      "shelfmark": "C 42692",
+      "year_of_publication": "2008"
+    },
+    {
+      "title": "Nicolai Abildgaard: der Lehrer von Friedrich und Runge",
+      "author": "Ubekendt",
+      "notes": "kat. 44, omt. p. 170, ill. p. 171",
+      "shelfmark": "C 43272",
+      "year_of_publication": "2009"
+    },
+    {
+      "title": "Nicolai Abildgaard: Kroppen i oprør",
+      "author": "Thomas Lederballe",
+      "notes": "Afb. p. 148 og 268 (kat. 71). Omt. p. 150. Katalogtekst p. 268.",
+      "shelfmark": "C 44316",
+      "year_of_publication": "2009"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Then from the sky, a banner should have fallen ... called Dannebrog",
+      "date_start": "2019-06-13T00:00:00.000Z",
+      "date_end": "2019-10-15T00:00:00.000Z",
+      "venue": "Kadriorg Art Museum / Art Museum of Estonia"
+    },
+    {
+      "exhibition": "Nicolai Abildgaard - Kroppen i oprør",
+      "date_start": "2008-11-12T00:00:00.000Z",
+      "date_end": "2009-02-09T00:00:00.000Z",
+      "venue": "Louvre"
+    },
+    {
+      "exhibition": "Nicolai Abildgaard - Kroppen i oprør",
+      "date_start": "2009-03-02T00:00:00.000Z",
+      "date_end": "2009-06-13T00:00:00.000Z",
+      "venue": "Hamburger Kunsthalle"
+    },
+    {
+      "exhibition": "Nicolai Abildgaard - Kroppen i oprør",
+      "date_start": "2009-08-28T00:00:00.000Z",
+      "date_end": "2010-01-23T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "Nordic Highlights",
+      "date_start": "2017-04-08T00:00:00.000Z",
+      "date_end": "2017-08-13T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "Awakening of Nations",
+      "date_start": "2021-09-16T00:00:00.000Z",
+      "date_end": "2021-11-21T00:00:00.000Z",
+      "venue": "Vytautas Kasiulis Art Museum, Vilnius"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "fnth: N. Abildgaard 1808",
+      "type": "Inscription"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Abildgaard, Nicolai",
+      "creator_forename": "Nicolai",
+      "creator_surname": "Abildgaard",
+      "creator_date_of_birth": "1743-09-11T00:00:00.000Z",
+      "creator_date_of_death": "1809-06-04T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Nicolai Abildgaard hørte allerede i læreårene på Akademiet hos Edv. Mandelberg og Johs. Wiedewelt om nyklassicismens patriarker, grev de Caylus, Rafael Mengs og J.J. Winckelmann. I 1771 vandt han Akademiets rejsestipendium, og lagde sig i Rom efter historiemaleriet i den store stil (Carracci, Rafael, Michelangelo, Giulio Romano og Tizian). I kredsen omkring billedhuggeren Tobias Sergel og maleren Johann Füssli modtog han impulser, der førte bort fra hans læreres klassicisme. A. udviklede her sin sans for det sublime i drama og poesi hos Shakespeare, Homer og Ossian. Hans arbejde med oldnordiske motiver fra Edda og Saxo foregreb de opgaver, der ventede derhjemme. Med Den sårede Filoktet placerede A. sig markant i før-romantikernes avantgarde, men Michelangelos patos fordunklede aldrig hans beundring for Rafaels \"disegno\". Natlige genfærd og drømmesyn befolker hans lærreder, men som oplysningsmand hyldede han samtidig idealerne om fornuftens forrang og kunstens opdragende mission. De krav til kunstnerens lærdom og filosofiske dannelse, som Winckelmann havde genfremsat, blev i vid udstrækning retningsgivende for A., der i allegorien og historiemaleriet så kunstens højeste udtryksform. Portrætter og landskaber var under den \"philosopherende Malers\" værdighed. I lighed med samtidige som Füssli og William Blake vendte A. konsekvent virkelighedsgengivelsen ryggen. Figurtegning og farve præges af en vidtgående og til tider bizar stilisering, selv efter 1790, da hans formsprog bliver mere klassicistisk. 1778 modtog A. bestillingen på 10 malerier af de Oldenborgske konger til Christiansborgs riddersal og fuldførte projektet i 1791. Ved slotsbranden 1794 gik næsten alt til grunde. Hvad der er bevaret, røber et overlegent greb om opgavens krav. Den hierarkiske rumfølge, der fra Potentatgemakkets Europa førte frem til riddersalens Danmark, var anlagt som én sammenhængende \"geographisk\" allegori. I pagt med tidens gryende nationale selvbevidsthed var nationen i selve riddersalen sidestillet med kongehuset. A. udførte flere mindre bestillinger, gravmæler, mindesten, vignetter og illustrationer. Til opførelsen af Johannes Ewalds Balders død (1779), leverede A. udkast til kostumer i oldnordisk stil. Uden for de britiske øer var han den første, der illustrerede Ossian. Samarbejdet med kobberstikkeren J.F. Clemens gjorde hans Sokrates og Ossian kendte, også uden for landets grænser. A. bidrog som kunstner til reformtidens samfundsdebat med en række anonymt udgivne satiriske stik fra 1785-87, igen s.m. Clemens. Ligesom illustrationerne til Holbergs Niels Klim er de højdepunkter inden for genren. Også A.s store bogsamling røber sympati for religiøse fritænkere og politisk reform. A. hilste den franske revolution med begejstring og søgte i 1789-90 at give den ny tids frihedsidealer en plads i riddersalens kongeserie, men skitsen Christian VII, der ophæver stavnsbåndet blev afvist. I 1791 blev maleren afskediget og udsmykningen af riddersalen indstillet. Samme forår offentliggjorde A. subskribtionsindbydelsen til Frihedsstøtten, hvis billedprogram han i alt væsentligt udarbejdede. Også medaljen om forbuddet mod slavehandelen blev finansieret ved offentlig subskription. Hans revolutionære sympatier kommer klart til udtryk i den allegoriske Jupiter, udstillet på Salonen 1794. Men nu var den politiske stemning vendt, og A. blev som kunstner i stigende grad isoleret. Han var dog fortsat aktiv i sit private atelier, men efter 1791 fuldførte han som maler ikke flere officielle opgaver. Med censurens genindførelse 1799 ophørte hans deltagelse i den offentlige debat. 1804 fik han bestilling på en serie malerier til tronsalen i det nye kongeslot, men kronprins Frederik ville ikke som maleren, og maleren ville ikke gå på akkord. Forbindelsen med hoffet opretholdt han dog i sine arbejder som arkitekt med udkast til møbler og rumdekorationer. Antikken blev i løbet af 1790erne en stadig vigtigere inspirationskilde. De to serier malerier med motiv fra skuespil af Voltaire og Terents blev A.s sidste store rumdekorationer. De var ikke bestemt for hoffet, men for et borgerhjem og malerens egne stuer, Terents-serien en brudegave til A.s anden hustru. Den indledte en række muntert erotiske arbejder, der vidner om en stor fortrolighed med den antikke kærlighedsdigtning. A. var for excentrisk til at danne skole, men for A.J. Carstens var han afgørende, og for Thorvaldsen mere end en mentor. A. blev en af den danske kunsts fædre, men hans idealer stod romantikken og naturalismen fjernt. I det 20. århundrede har et mere mangfoldigt kunstsyn mindsket afstanden.",
+      "creator_lref": "241_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1808-01-01T00:00:00.000Z",
+      "end": "1808-12-31T00:00:00.000Z",
+      "period": "1808"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "The Greek Poet Anacreon and Bathyll",
+      "notes": "Engelsk titel efter den danske, jvf. Kragelund, 1999, p. 103-104",
+      "language": "engelsk"
+    },
+    {
+      "title": "Anacreon and Amaryllis (Bathyll)",
+      "notes": "Engelsk titel ifølge kataloget \"Ældre Dansk Malerkunst\" 2001",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS3442",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS3442",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS3442",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS3442",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS3442",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS3442",
+  "production_dates_notes": [
+    "Værkdatering: 1808"
+  ],
+  "work_status": [
+    "part of a series"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": true,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/k643b229x_KMSKMS3442.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/k643b229x_KMSKMS3442.tif.jp2/info.json",
+      "width": 5704,
+      "height": 6752,
+      "size": 39845980,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/k643b229x_KMSKMS3442.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/k643b229x_KMSKMS3442.tif.jp2/full/full/0/native.jpg",
+      "orientation": "portrait"
+    },
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/bv73c3363_KMSKMS3442.tif.reconstructed.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/bv73c3363_KMSKMS3442.tif.reconstructed.tif.jp2/info.json",
+      "width": 4900,
+      "height": 6255,
+      "size": 16716854.48275862,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/bv73c3363_KMSKMS3442.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/bv73c3363_KMSKMS3442.tif.reconstructed.tif.jp2/full/full/0/native.jpg",
+      "cropped": [
+        "true"
+      ],
+      "orientation": "portrait"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/hh63t028d_kms3442.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/hh63t028d_kms3442.tif.jp2/info.json",
+  "image_width": 4724,
+  "image_height": 5935,
+  "image_size": 29011817,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/hh63t028d_kms3442.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9oaDYzdDAyOGRfa21zMzQ0Mi50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TMzQ0MiIsIm51bSI6IiJ9XQ==/KMS3442.jpg",
+  "image_cropped": true,
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#3a351f",
+    "#222222",
+    "#382510",
+    "#191909",
+    "#77733d"
+  ],
+  "suggested_bg_color": [
+    "#77733d"
+  ],
+  "entropy": 9.77259,
+  "contrast": 1.9260342,
+  "saturation": 3.6641455,
+  "colortemp": 4.476913,
+  "brightness": 4.418182,
+  "artist": [
+    "Nicolai Abildgaard"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "1170023420_object",
+  "created": "2020-03-21T12:52:47Z",
+  "modified": "2025-07-11T17:36:17Z",
+  "acquisition_date": "1847-01-01T00:00:00Z",
+  "acquisition_date_precision": "1847-03-31",
+  "dimensions": [
+    {
+      "notes": "2500 x 1800 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "250"
+    },
+    {
+      "notes": "2500 x 1800 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "180"
+    },
+    {
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "259.3"
+    },
+    {
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "193.2"
+    },
+    {
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "5.2"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Two golden ages: masterpieces of Dutch and Danish painting",
+      "author": "Lene Bøgh Rønberg",
+      "notes": "omt. p. 145-46, afb. p. 147 fig. 5 (f)",
+      "shelfmark": "2001-085",
+      "year_of_publication": "2001"
+    },
+    {
+      "title": "Den orientalske Anden: maleren Niels Simonsens En Arabisk Familie i Ørkenen",
+      "author": "Alena Marchwinski",
+      "notes": "afb. p. 131 og omt. p. 132f: omhyggelig beskrivelse og analyse set i \"orientalismens stærkt kodede fantasiverden\"",
+      "shelfmark": "2003-283"
+    },
+    {
+      "title": "En sag for hele Folkets Dannelse: skiftende udstillingskontekster for gipsafstøbninger i Det Kongelige Danske Kunstkammer og Statens Museum for Kunst",
+      "author": "Britta Tøndborg",
+      "notes": "Omt. p. 48. Ill. p. 50",
+      "shelfmark": "2005-263",
+      "year_of_publication": "2005"
+    },
+    {
+      "title": "Hafnia: Copenhagen papers in the history of art",
+      "author": "Ubekendt",
+      "notes": "Mortensen, Erik. \"Eine arabische Familie in Kopenhagen\", 34-50, Hafnia, 8, 1981",
+      "shelfmark": "35679",
+      "year_of_publication": "1970-2003"
+    },
+    {
+      "title": "Hverdagsbilleder: dansk guldalder",
+      "author": "Kasper Monrad",
+      "notes": "s. 218, 270f, fig. 213",
+      "shelfmark": "89-586",
+      "year_of_publication": "1989"
+    },
+    {
+      "title": "Tusmørkemesteren: 10 kapitler om Lorenz Frølich",
+      "author": "Lotte Thrane",
+      "notes": "afb. bd. II, p. 106",
+      "shelfmark": "C 42130:1-2",
+      "year_of_publication": "2008"
+    },
+    {
+      "title": "Mødet med den anden: et motiv i dansk kunst fra Wilhelm Bendz til L.A. Schou",
+      "author": "Alena Marchwinski",
+      "notes": "Fig. 16; omt. p. 71",
+      "shelfmark": "C 43624",
+      "year_of_publication": "2009"
+    },
+    {
+      "title": "Dansk Guldalder: Lyset, landskabet og hverdagslivet",
+      "author": "Kasper Monrad",
+      "notes": "s. 281.",
+      "year_of_publication": "2013"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "BILLEDSTORM // Blasfemi // Køn // Fremmedhed – fra reformationen til i dag",
+      "date_start": "2017-09-29T00:00:00.000Z",
+      "date_end": "2017-12-30T00:00:00.000Z",
+      "venue": "Museet for religiøs kunst, Lemvig"
+    },
+    {
+      "exhibition": "Fokus på fremmede",
+      "date_start": "2002-01-19T00:00:00.000Z",
+      "date_end": "2002-06-09T00:00:00.000Z",
+      "venue": "SMK København"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Simonsen, Niels",
+      "creator_forename": "Niels",
+      "creator_surname": "Simonsen",
+      "creator_date_of_birth": "1807-12-10T00:00:00.000Z",
+      "creator_date_of_death": "1885-12-11T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Niels Simonsen uddannede sig både som billedhugger og maler, men fravalgte tilsyneladende skulpturen efter forgæves at have konkurreret om den store guldmedalje. Som flere samtidige danske kunstnerkolleger valgte S. at rejse til München, hvor han opholdt sig i årene 1834-45, kun afbrudt af kortere rejser i Sydtyskland og Tyrol samt til Italien og Algeriet. München var dengang et af Europas førende kunstcentre og især attraktiv, hvis man som S. ønskede at dygtiggøre sig inden for bataljemaleriet. S.' foretrukne motivkreds var slagscener mellem franske og arabiske soldater, motiver der var blevet populære efter Frankrigs nordafrikanske felttog og erobringen af Algeriet 1830. Som sit forbillede, den franske historiemaler Horace Vernet, besøgte S. Algeriet og samlede indtryk, studier og etnografika, som ved hjemkomsten til München blev anvendt til arabiske motiver, der sikrede S. en fremtrædende plads i Münchens kunstliv. Med den europæiske kolonialisme og voksende interesse for de fremmede kulturer blev de orientalske motiver stærkt efterspurgte, og S. gjorde flittigt brug af sit arabiske materiale efter hjemrejsen til Danmark, til tider i form af noget rutineprægede variationer og gentagelser. S. fremstår som den mest rendyrkede danske orientalist, for hvem Orienten, som for Vernet, E. Fromentin og A.-G. Decamps, hovedsagelig var leverandør af et farverigt og eksotisk motivpotentiale, som fandt anvendelse som forlæg for slagscener, herunder piratoverfald, og etnografiske genrebilleder samt i mindre omfang landskabsbilleder. Den internationale stil og motivkreds viste sig hurtigt at være i modstrid med den toneangivende hjemlige kunstpolitiske strømning, der med N.L. Høyen som talerør foretrak en i dansk natur og kultur forankret national billedkunst. S. blev i stedet en vigtig figur blandt anti-Høyenianerne, europæerne. Høyen kritiserede S.' ofte virtuost anlagte kompositioner for at være præget af overfladisk effektjageri, også når S. søgte at nærme sig det institutionaliserede kunstsyn gennem nationalhistoriske emner og nordiske folkelivsbilleder. Til gengæld nød S. som de øvrige europæere stor bevågenhed fra de mere konservative kredse, herunder adel og kongehus, og han blev 1854 udnævnt til at efterfølge Eckersberg som professor ved Kunstakademiet. Som fremtrædende historie- og figurmaler blev S. tildelt en række offentlige bestillingsopgaver, fortrinsvis slagscener og andre begivenheder med tilkytning til Treårskrigen og krigen i 1864, både i form af dramatiske, sejrrige slagscener under Treårskrigen og heroiserende skildringer af den anonyme soldats storhed under nederlaget i 1864. Sidstnævnte som Infanterister, der redder en kanon på tilbagetoget fra Dannevirke og Episode af træfningen ved Sankelmark er med de knappe afskæringer og den dramatiske handlingskoncentration på linie med bestræbelserne i det samtidige historiemaleri, som det bl.a. praktiseredes af Carl Bloch. Som professor og med sin internationale skoling har S. formodentlig haft betydning for den voksende interesse for det europæiske figurmaleri, der i begyndelsen af 1860erne ses i dansk maleri hos kunstnere som Bloch og L.A. Schou.",
+      "creator_lref": "564_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1847-01-01T00:00:00.000Z",
+      "end": "1847-12-31T00:00:00.000Z",
+      "period": "1847"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "An Arab Family in the Desert",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS2064",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS2064",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS2064",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS2064",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS2064",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS2064",
+  "production_dates_notes": [
+    "Værkdatering: 1847",
+    "Udstillet 1847"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/2v23vx743_kms2064.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/2v23vx743_kms2064.tif.jp2/info.json",
+  "image_width": 7087,
+  "image_height": 9687,
+  "image_size": 71026674,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/2v23vx743_kms2064.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi8ydjIzdng3NDNfa21zMjA2NC50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TMjA2NCIsIm51bSI6IiJ9XQ==/KMS2064.jpg",
+  "image_cropped": true,
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#222222",
+    "#555555",
+    "#444444"
+  ],
+  "suggested_bg_color": [
+    "#555555"
+  ],
+  "entropy": 9.250247,
+  "contrast": 1.415772,
+  "saturation": 2.514321,
+  "colortemp": 4.1868367,
+  "brightness": 4.111946,
+  "artist": [
+    "Niels Simonsen"
+  ]
+}

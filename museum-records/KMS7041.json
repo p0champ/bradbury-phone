@@ -1,0 +1,155 @@
+{
+  "id": "1170090366_object",
+  "created": "2020-03-22T01:43:52Z",
+  "modified": "2025-07-11T18:09:12Z",
+  "backside_protection": true,
+  "acquisition_date": "1978-01-01T00:00:00Z",
+  "acquisition_date_precision": "1978-12-31",
+  "dimensions": [
+    {
+      "notes": "205 x 305 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "20.5"
+    },
+    {
+      "notes": "205 x 305 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "30.5"
+    },
+    {
+      "notes": "306 x 404 x 40 mm",
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "30.6"
+    },
+    {
+      "notes": "306 x 404 x 40 mm",
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "40.4"
+    },
+    {
+      "notes": "306 x 404 x 40 mm",
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "4"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Tusmørkemesteren: 10 kapitler om Lorenz Frølich",
+      "author": "Lotte Thrane",
+      "notes": "Bind I: omtalt kort p. 163. Bind II: Værkoversigt p. 171",
+      "shelfmark": "C 42130:1-2",
+      "year_of_publication": "2008"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Lorenz Frølich",
+      "date_start": "2008-09-26T00:00:00.000Z",
+      "date_end": "2009-01-03T00:00:00.000Z",
+      "venue": "Ribe Kunstmuseum"
+    },
+    {
+      "exhibition": "Lorenz Frølich",
+      "date_start": "2009-01-16T00:00:00.000Z",
+      "date_end": "2009-04-12T00:00:00.000Z",
+      "venue": "Sorø Kunstmuseum"
+    },
+    {
+      "exhibition": "Lorenz Frølich",
+      "date_start": "2009-04-23T00:00:00.000Z",
+      "date_end": "2009-08-22T00:00:00.000Z",
+      "venue": "Skovgaard Museet i Viborg"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "fnth: LF (monogram) 5 54",
+      "type": "Inscription"
+    }
+  ],
+  "materials": [
+    "Paper",
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Frølich, Lorenz",
+      "creator_forename": "Lorenz",
+      "creator_surname": "Frølich",
+      "creator_date_of_birth": "1820-10-25T00:00:00.000Z",
+      "creator_date_of_death": "1908-10-25T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Lorenz Frølich tegnede allerede som barn, især dyr. Et par besøg hos kunstkenderen og samleren C.F. Rumohr på gården Rothenhausen i Nordtyskland i 1835 og 1836 fik stor betydning for F.s kunstneriske løbebane. Rumohr, der selv tegnede, rådede F. til at gå sine egne veje og undgå enhver akademisk undervisning. Venskabet med P.C. Skovgaard og J.Th. Lundbye fik også betydning for F. I disses kreds, som bl.a. bestod af folk som Thorald Læssøe, Svend Grundtvig og lægen J.D. Brandis, læste man ivrigt sagaer, Snorre, Oehlenschläger, Ingemann og Grundtvig, hvilket var stærkt befordrende for F.s billedskabende fantasi. Over Lübeck, Hamburg, Berlin og Dresden rejste F. 1840 til München, hvor han opholdt sig til slutningen af 1842. Her kopierede han antikke skulpturer og studerede lokale malere som W. Kaulbach, Peter Cornelius og Jul. Schnorr von Carolsfeld. I disse år tilegnede han sig de tyske illustratorers stil; især spores påvirkninger fra Aug. Richter, Moritz Retsch, Jul. Hübner og Jul. Schnorr von Carolsfeld. I 1844 udførte han med udgangspunkt i tegninger fra 1839-40 raderinger til A. Oehlenschläger: De tvende kirketårne. De monumentale kompositioner er muligvis præget af Købkes arkitekturbilleder. En sammenligning mellem tegningerne og de grafiske blade viser, hvor langt F. i de mellemliggende år var nået rent teknisk. Under sit ophold i København 1844-45 tegnede og malede han sammen med Lundbye og Skovgaard de store dekorationer til Studenterfesten 13.1.1845: Den nordiske højtid. Under opholdet i Paris 1851-75 stiftede han på Thomas Coutures skole bekendtskab med fransk maletradition. I begyndelsen af 1852 fik han fra Danmark til opgave at levere 30 illustrationer til A. Fabricius' Danmarkshistorie (bindene med sagnhistorie, oldtid og middelalder). I en sammensmeltning mellem fantasi, romantik og realisme gav F. en skildring af sagnfigurer og historiske personer, som den dag i dag står som hævdvundne typer. Bogillustrationerne bevirkede uden tvivl, at F. i 1854 af den danske stat fik overdraget den officielle opgave at male to store billeder til Appellationsrettens bygning i Flensborg. Den franske forlægger Hetzel så i F.s hjem i Paris nogle tegninger forestillende kunstnerens lille datter og opfordrede ham til at forsøge sig som børnebogsillustrator. Det blev en stor succes og omkring 100 titler udkom. En billedbog for børn kom på fransk slet og ret til at hedde \"un Froelich\". De ca. 1000 tegninger hertil blev ikke altid ydet fuld retfærdighed i reproduktionerne. De bedste viser imidlertid, at F. var kommet langt siden læreårene i Dresden. Børneskildringerne er livfulde og graciøse med et sikkert blik for børns naturlige bevægelser. Bedst er bøgerne om Lili, f.eks. La journée de Mlle Lili, 1862. Fra Danmark fik F. opgaven at videreføre Vilh. Pedersens illustrering af H.C. Andersens eventyr (udgaverne 1867, 1870, 1871 og 1874). Illustrationerne blev i samtiden anset for at være alt for fantastiske og satiriske. Indtryk fra f.eks. C.A. Bertall, Gustave Doré, Pierre Gavarni, J.I.I. G. Grandville og Tony Johannot synes da også at være smeltet sammen med, hvad F. havde lært i Danmark og Tyskland. Grundlaget for hans arbejde med de klassiske motiver var, ud over det græske vasemaleri, Thorvaldsens og Bissens relieffer samt Asmus Carstens' og John Flaxmans tegninger. Desuden spores indtryk fra Ingres og de engelske prærafaelitter. F.s personlige venskab med Edouard Manet og Edgar Degas synes derimod ikke at have sat sig nogen spor i hans kunst. Den overvejende del af F.s talrige malerier består af studier og skitser i beskedne formater. Landskabs- og figurstudierne er i den eckersbergske tradition, hvorimod emner fra den danske sagnverden og historie viser en mere eklektisk holdning. Loftmaleriet af Gefion på Frederiksborg er præget af det franske salonmaleri, medens nogle landskabsbilleder fra slutningen af 1850erne afslører et intimt kendskab til f.eks. Camille Corots kunst. Med sit kosmopolitiske liv og virke indtager F. en særstilling blandt samtidens danske kunstnere. Hans virke som illustrator, tegner og grafiker gjorde hans navn kendt også uden for landets grænser.",
+      "creator_lref": "536_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1854-01-01T00:00:00.000Z",
+      "end": "1854-12-31T00:00:00.000Z",
+      "period": "1854"
+    }
+  ],
+  "techniques": [
+    "Oil on paper, mounted on canvas"
+  ],
+  "titles": [
+    {
+      "title": "Meadow with a Black Horse Grazing",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS7041",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS7041",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS7041",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS7041",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS7041",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS7041",
+  "production_dates_notes": [
+    "Værkdatering: 1854"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1600,
+  "image_height": 1079,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/89df943e-f3bd-464b-bd2e-19f477cea2ae.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/89df943e-f3bd-464b-bd2e-19f477cea2ae.jpg",
+  "colors": [
+    "#eeeeee",
+    "#777777",
+    "#999999",
+    "#000000",
+    "#444444",
+    "#555555"
+  ],
+  "suggested_bg_color": [
+    "#777777"
+  ],
+  "entropy": 8.98419,
+  "contrast": 5.0685472,
+  "colortemp": 3.1102805,
+  "brightness": 5.9402814,
+  "artist": [
+    "Lorenz Frølich"
+  ]
+}

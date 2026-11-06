@@ -1,0 +1,135 @@
+{
+  "id": "1170088839_object",
+  "created": "2020-03-22T01:21:44Z",
+  "modified": "2025-07-11T18:08:15Z",
+  "acquisition_date": "1920-01-01T00:00:00Z",
+  "acquisition_date_precision": "1920-12-31",
+  "dimensions": [
+    {
+      "notes": "510 x 330 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "51"
+    },
+    {
+      "notes": "510 x 330 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "33"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Mindre meddelelser: nogle gaver til museet",
+      "author": "Karl Madsen",
+      "notes": "p. 411",
+      "shelfmark": "2002-328",
+      "year_of_publication": "1926"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "V. Ruths",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "wood"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Ruths, Valentin",
+      "creator_forename": "Valentin",
+      "creator_surname": "Ruths",
+      "creator_date_of_birth": "1825-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1905-01-01T00:00:00.000Z",
+      "creator_nationality": "German",
+      "creator_gender": "MALE",
+      "creator_lref": "1906_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1840-01-01T00:00:00.000Z",
+      "end": "1905-12-31T00:00:00.000Z",
+      "period": "1840-1905"
+    }
+  ],
+  "techniques": [
+    "Oil on panel"
+  ],
+  "titles": [
+    {
+      "title": "Wooded Hills behind a Meadow with a Peat Bog",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS3476",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS3476",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS3476",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS3476",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS3476",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS3476",
+  "production_dates_notes": [
+    "Værkdatering: 1840-1905",
+    "Påbegyndt: baseret på kunstnerens årstal afsluttet: baseret på kunstnerens årstal"
+  ],
+  "work_status": [
+    "study"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/8623hz825_KMS3476.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/8623hz825_KMS3476.tif.jp2/info.json",
+      "width": 1552,
+      "height": 2074,
+      "size": 3342410.6896551726,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/8623hz825_KMS3476.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/8623hz825_KMS3476.tif.jp2/full/full/0/native.jpg",
+      "orientation": "portrait"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/x346d729v_KMS3476.tif.reconstructed.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/x346d729v_KMS3476.tif.reconstructed.tif.jp2/info.json",
+  "image_width": 878,
+  "image_height": 1341,
+  "image_size": 641235,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/x346d729v_KMS3476.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi94MzQ2ZDcyOXZfS01TMzQ3Ni50aWYucmVjb25zdHJ1Y3RlZC50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TMzQ3NiIsIm51bSI6IiJ9XQ==/KMS3476.jpg",
+  "image_cropped": true,
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#5a5527",
+    "#3a351f",
+    "#ffcfa5",
+    "#d7eac3",
+    "#382510"
+  ],
+  "suggested_bg_color": [
+    "#5a5527"
+  ],
+  "entropy": 9.791066,
+  "contrast": 4.483752,
+  "saturation": 3.349041,
+  "colortemp": 4.126542,
+  "brightness": 4.934529,
+  "artist": [
+    "Valentin Ruths"
+  ]
+}

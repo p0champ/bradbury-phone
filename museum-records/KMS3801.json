@@ -1,0 +1,106 @@
+{
+  "id": "1170090241_object",
+  "created": "2020-03-22T01:41:54Z",
+  "modified": "2025-07-11T18:09:07Z",
+  "acquisition_date": "1927-01-01T00:00:00Z",
+  "acquisition_date_precision": "1927-12-31",
+  "dimensions": [
+    {
+      "notes": "635 x 1015 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "63.5"
+    },
+    {
+      "notes": "635 x 1015 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "101.5"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "fnth: PH",
+      "type": "Inscription"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Hansen, Peter",
+      "creator_forename": "Peter",
+      "creator_surname": "Hansen",
+      "creator_date_of_birth": "1868-05-13T00:00:00.000Z",
+      "creator_date_of_death": "1928-10-06T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Peter Hansen blev varigt præget af Zahrtmanns frie syn på maleriet. Som Johannes Larsen og Fritz Syberg var han blandt dennes første elever, og der opstod et kammeratskab mellem de 3, som kom til at danne kernen i Fynboerne. H. og hans barndomshjem i Fåborg blev et samlingspunkt for Fynboerne, som blev opfattet som kontroversielle på grund af deres farver, teknik og motiver, der af nogle kritikere ansås for landlige og pågående. H.s produktion viser fra starten en veludviklet fornemmelse for form og en fin koloristisk sans. Billederne beskriver den virkelighed, H. var omgivet af. Hans landskaber har høj horisont, udbredte kornmarker og dybdeskabende hegn eller er bakkede under en skyet sommerhimmel, f.eks. Bølgende rug (1894), der i farve og komposition er inspireret af Van Gogh, hvis billeder var udstillet i København i 1893. Mennesker indgår i de fleste landskabsbilleder, der ofte er i slægt med naturalismens genrebilleder, mens andre er præget af den franske impressionisme, som H. havde kunnet se på udstillinger i København sidst i 1880erne. Hans lys- og farvesyn blev fra omkring 1896 påvirket af Th. Philipsens malemåde. Fra 1905 boede H. med sin familie om vinteren i København på Vesterbro, hvor han især malede kvarteret omkring Enghave Plads. H.s åbenhed over for nye strømninger i kunsten afspejles i disse billeder bl.a. som bevægelse, intensivering af lyset og farven med gul, orange, rød, violet og en kølig blå som karaktergivende farver. Billederne veksler mellem en stram komposition og skitsepræget uhøjtidelighed i skildringen af spadserende med barnevogne, legende børn, avislæsere foran ophængsskabe, mænd med søndagsbajerne og tidens tekniske fremskridt: De gule sporvogne, som H. hurtigt inddrog i sin motivkreds. H. var socialt bevidst, men ikke socialrealist som vennen Jens Birkholm, og han malede uden indignation. Italiensopholdene bibragte H. nye emner som fremmede landskaber, folkeliv m.m., men selv om motiverne svarer til ældre danske maleres, er gengivelsen ny på grund af den frie komposition og dristige farveholdning. H.s figurbilleder er usentimentale og ligefremme, portrætterne er bedst når modellerne er familie og venner, eller når de er udført som studier, f.eks. skitserne til monumentalmaleriet Faaborg Museums Indvielse (1910-12), der vel nok er H.s mest ambitiøse værk.",
+      "creator_lref": "188_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1916-01-01T00:00:00.000Z",
+      "end": "1920-12-31T00:00:00.000Z",
+      "period": "1916-1920"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS3801",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS3801",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS3801",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS3801",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS3801",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS3801",
+  "production_dates_notes": [
+    "Værkdatering: Ca. 1918",
+    "afsluttet: fagligt skøn"
+  ],
+  "work_status": [
+    "sketch"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1600,
+  "image_height": 994,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/9f33a72b-cb52-404d-9195-910ebe87ec75.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/9f33a72b-cb52-404d-9195-910ebe87ec75.jpg",
+  "colors": [
+    "#444444",
+    "#555555",
+    "#5a5527"
+  ],
+  "suggested_bg_color": [
+    "#555555"
+  ],
+  "entropy": 9.786146,
+  "contrast": 1.7279264,
+  "saturation": 2.519056,
+  "colortemp": 3.7683098,
+  "brightness": 5.6501975,
+  "titles": [
+    {
+      "title": "Grevens Fejde",
+      "type": "museumstitel",
+      "language": "dansk"
+    }
+  ],
+  "artist": [
+    "Peter Hansen"
+  ]
+}

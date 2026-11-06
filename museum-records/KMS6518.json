@@ -1,0 +1,108 @@
+{
+  "id": "1170090663_object",
+  "created": "2020-03-22T01:47:52Z",
+  "modified": "2025-07-11T18:09:21Z",
+  "acquisition_date": "1967-01-01T00:00:00Z",
+  "acquisition_date_precision": "1967-12-31",
+  "dimensions": [
+    {
+      "notes": "210 x 365 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "21"
+    },
+    {
+      "notes": "210 x 365 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "36.5"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "fntv: 6 August 1853 Katvay C.S",
+      "type": "Inscription"
+    },
+    {
+      "content": "6 August 1853 Katvay CS",
+      "type": "Inscription"
+    }
+  ],
+  "materials": [
+    "Paper",
+    "millboard"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Sørensen, C.F.",
+      "creator_forename": "C.F.",
+      "creator_surname": "Sørensen",
+      "creator_date_of_birth": "1818-02-08T00:00:00.000Z",
+      "creator_date_of_death": "1879-01-24T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "C.F. Sørensen var som dansk maler ikke upåvirket af C.W. Eckersbergs marinemaleri, skønt han aldrig var direkte elev af denne. S.' temperament gik dog i en anden retning end det tålmodighedsarbejde, som den minutiøse gengivelse af master og takkelage krævede. Til gengæld interesserede han sig for elementerne, som skibene var underlagt, og hans opfattelse var mere umiddelbar og romantisk, ligesom hans stil var mere malerisk og glansfuld. Også brødrene Melbye kan have haft nogen indflydelse på S.' marinemaleri, men denne udviklede dog hurtigt sit eget stilistiske særpræg, så man sjældent er i tvivl om, hvem kunstneren er, når man står over for et af hans søstykker. Oftest er penselføringen livfuld og koloritten spontan og kraftfuld. S. havde en udpræget sans for dramatiske scener, men han malede lige så gerne rene idyller, fyldt af charme og atmosfære. Mødet med Düsseldorf-skolen tilføjede hændelsesvis hans billeder noget tungt i virkningen, men hans effektfulde scener fra søen vandt stor popularitet, også uden for landets grænser. Under Treårskrigen fulgte S. Nordsø-eskadren omkring Helgoland i 1849 og Østersø-eskadren i 1850 og malede således en række billeder af den danske flåde under krig. Han opsøgte gerne for en dansker lidt usædvanlige rejsemål til søs, bl.a. Madeira, De engelske kanaløer og Island, sidstnævnte i Christian IXs følge. Herfra stammer en række mere afdæmpede, men topografisk interessante billeder, som regnes blandt de ypperste i hans produktion. S.' mariner er internationalt efterspurgt som samlerobjekter.",
+      "creator_lref": "743_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1853-01-01T00:00:00.000Z",
+      "end": "1853-12-31T00:00:00.000Z",
+      "period": "1853"
+    }
+  ],
+  "techniques": [
+    "Oil on paper, mounted on millboard"
+  ],
+  "titles": [
+    {
+      "title": "Low Beach and Sand Dunes. Cattwijk",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS6518",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS6518",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS6518",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS6518",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS6518",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS6518",
+  "production_dates_notes": [
+    "Værkdatering: 1853"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1600,
+  "image_height": 936,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/92947ca4-1785-4b65-a59e-8eafc10eb9ef.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/92947ca4-1785-4b65-a59e-8eafc10eb9ef.jpg",
+  "colors": [
+    "#888888",
+    "#666666",
+    "#3a351f",
+    "#382510",
+    "#999999"
+  ],
+  "suggested_bg_color": [
+    "#888888"
+  ],
+  "entropy": 9.774266,
+  "contrast": 2.3493474,
+  "saturation": 2.5867884,
+  "colortemp": 3.8317678,
+  "brightness": 5.10033,
+  "artist": [
+    "C.F. Sørensen"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "1170091039_object",
+  "created": "2020-03-22T01:53:46Z",
+  "modified": "2026-01-05T07:33:54Z",
+  "collection": [
+    ""
+  ],
+  "acquisition_date": "1744-01-01T00:00:00Z",
+  "acquisition_date_precision": "1744-12-31",
+  "dimensions": [
+    {
+      "notes": "1000 x 1295 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "100"
+    },
+    {
+      "notes": "1000 x 1295 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "129.5"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Rembrandt och hans tid: människan i centrum",
+      "author": "Mårten Snickare",
+      "notes": "p. 288, nr. 105, afb. farveplanche 289",
+      "shelfmark": "54904",
+      "year_of_publication": "1992"
+    },
+    {
+      "title": "Jan Victors and the bible",
+      "author": "Eric Zafran",
+      "notes": "p. 97 fig. 5",
+      "shelfmark": "61884",
+      "year_of_publication": "1977"
+    },
+    {
+      "title": "Rembrandt and his school: a critical study of the master and his pupils with a new assignment of their pictures",
+      "author": "John C. van Dyke",
+      "notes": "p. 154",
+      "shelfmark": "8316",
+      "year_of_publication": "1923"
+    },
+    {
+      "title": "Govaert Flinck 1615-1660",
+      "author": "J.W. von Moltke",
+      "notes": "p. 228, cat. 21: \"repetition\" i New York, COll. Johen Bess",
+      "shelfmark": "C 9298 mb",
+      "year_of_publication": "1965"
+    },
+    {
+      "title": "Samlingssteder. Udenlandsk billedkunst i danske samlermiljøer 1690-1840",
+      "author": "Jesper Svenningsen",
+      "notes": "Fig. 8",
+      "year_of_publication": "2023"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "[utydeligt:] Jan Victor f 164(2).",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Victors, Jan",
+      "creator_forename": "Jan",
+      "creator_surname": "Victors",
+      "creator_date_of_birth": "1619-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1676-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_lref": "2043_person"
+    },
+    {
+      "creator": "Flinck, Govert",
+      "creator_forename": "Govert",
+      "creator_surname": "Flinck",
+      "creator_date_of_birth": "1615-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1660-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_history": "Tegninger: Tu 46 Rembrandts lærling 1633-36",
+      "creator_qualifier": "earlier ascribed to",
+      "creator_role": "earlier ascribed to",
+      "creator_lref": "30513_person"
+    },
+    {
+      "creator": "Lievens, Jan",
+      "creator_forename": "Jan",
+      "creator_surname": "Lievens",
+      "creator_date_of_birth": "1607-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1674-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_history": "Har været elev hos Joris van Schooten og Pieter Lastman",
+      "creator_qualifier": "earlier ascribed to",
+      "creator_role": "earlier ascribed to",
+      "creator_lref": "849_person"
+    },
+    {
+      "creator": "Bol, Ferdinand",
+      "creator_forename": "Ferdinand",
+      "creator_surname": "Bol",
+      "creator_date_of_birth": "1616-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1680-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_qualifier": "earlier ascribed to",
+      "creator_role": "earlier ascribed to",
+      "creator_lref": "1494_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1642-01-01T00:00:00.000Z",
+      "end": "1644-12-31T00:00:00.000Z",
+      "period": "1642-1644"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "The Dying David Admonishes Solomon",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMSsp464",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSsp464",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMSsp464",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSsp464",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSsp464",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSsp464",
+  "production_dates_notes": [
+    "Værkdatering: 1642 eller 1644",
+    "afsluttet: fagligt skøn"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1600,
+  "image_height": 1219,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/6bde2f58-c3ec-4368-a54a-5a873a5ba444.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/6bde2f58-c3ec-4368-a54a-5a873a5ba444.jpg",
+  "colors": [
+    "#170e06",
+    "#230b09",
+    "#000000",
+    "#593d1c",
+    "#77733d",
+    "#795025"
+  ],
+  "suggested_bg_color": [
+    "#77733d"
+  ],
+  "entropy": 9.760593,
+  "contrast": 1.8916762,
+  "saturation": 6.9638777,
+  "colortemp": 6.6925936,
+  "brightness": 3.0755131,
+  "artist": [
+    "Jan Victors"
+  ]
+}

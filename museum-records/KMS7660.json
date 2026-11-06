@@ -1,0 +1,151 @@
+{
+  "id": "1170012533_object",
+  "created": "2020-03-21T10:48:11Z",
+  "modified": "2025-07-11T17:31:46Z",
+  "acquisition_date": "1994-01-01T00:00:00Z",
+  "acquisition_date_precision": "1994-12-31",
+  "dimensions": [
+    {
+      "notes": "333 x 393 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "33.3"
+    },
+    {
+      "notes": "333 x 393 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "39.3"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "C.A. Jensen",
+      "author": "Sigurd Schultz",
+      "notes": "bd. 2, p. 152, Værkfortegnelse, Savnede Arbejder, nr. 472.",
+      "shelfmark": "11148",
+      "year_of_publication": "1932"
+    },
+    {
+      "title": "Detaljer",
+      "author": "Thomas Lederballe",
+      "notes": "fig. 4",
+      "shelfmark": "D 49600",
+      "year_of_publication": "2012"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Detaljer",
+      "date_start": "2012-10-12T00:00:00.000Z",
+      "date_end": "2013-03-17T00:00:00.000Z",
+      "venue": "SMK København"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "C.A. Iensen. fec.",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Jensen, C.A.",
+      "creator_forename": "C.A.",
+      "creator_surname": "Jensen",
+      "creator_date_of_birth": "1792-06-26T00:00:00.000Z",
+      "creator_date_of_death": "1870-07-13T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "C.A. Jensen blev på Kunstakademiet i København uddannet som portrætmaler hos C.A. Lorentzen i en gammeldags stil og opfattelse af farve og spillet mellem lys og skygge. Under studierejsen til Rom blev han bekendt med 1820rnes udvikling af portrættet i et lille format og en intim skildring af ansigtstrækkene, stærkt påvirket af Renæssancens portrætopfattelse. Bortset fra enkelte kopier af ældre mestre synes han udelukkende at have koncentreret sig om at male portrætter bl.a. af kredsen af kunstnere og videnskabsmænd omkring Thorvaldsen under opholdet i Italien. Mange af disse personer fik han senere lejlighed til at portrættere igen på bestilling i officielt øjemed til institutioner og portrætsamlingen på Frederiksborg Slot. Tilbage igen i København blev J. først påvirket af C.W. Eckersbergs personlige opfattelse af det nyklassicistiske portrætmaleri, inden han sikrede sig et større antal bestillinger i det lille format, som er karakteristisk for mange af hans bedste portrætter. I slutningen af 1820rne var han meget produktiv og udviklede en sikker sans for samspillet mellem ansigtets form og udtryk og farverne i påklædningen. Såvel mænd som kvinder, unge som gamle, er i disse år overordentlig indtagende malet, harmoniske i karakteristikken og sikre i gengivelsen af de stoflige kvaliteter og farvesammensætninger. Ved Lorentzens død søgte J. hans professorat uden dog at få det. I de efterfølgende år udførte han et stort antal officielle portrætter i et større format, med en mere dæmpet palet og strammere malemåde. På sine rejser søgte han at udvide antallet af bestillere, for på trods af, at han havde kongehusets bevågenhed og således både har portrætteret standspersoner ved Frederik VIIs hof, siden kredsen omkring Christian VIII, og talrige repræsentanter for det bedre borgerskab, videnskabsmænd og kunstnere, så havde han svært ved at ernære sin familie. Han synes at have haft planer om at lave en kobberstiksamling af berømte mænd, men han gennemførte ikke sit forehavende. Ved Christian VIIIs mellemkomst fik han i en årrække som opgave at male først kopier og siden egne arbejder til samlingen på Frederiksborg Slot. Denne ordning var meget imod N.L. Høyens ønsker, og han udtrykte i sin omtale af J.s farveholdning og maleteknik med årene en så skarp kritik, at den ikke kunne undgå at påvirke antallet af bestillinger. J.s frie og temperamentsfulde penselsføring, som skulle blive værdsat af eftertiden, blev i samtiden betragtet som sjusket og uakademisk, samtidig med at hans evne til at fastholde den ydre lighed kunne friste til en vis overfladiskhed. Ikke desto mindre har J. malet portrætter bl.a i tilknytning til de mange udenlandsrejser, som kan tåle sammenligning i en international sammenhæng. Da hans økonomiske situation forværredes ved Christian VIIIs død, foranledigede J.M. Thiele, at han blev tilknyttet Den kongelige Kobberstiksamling. Dermed holdt J. stort set op med at male, men det skulle vise sig, at han ikke glemte sine færdigheder. Da han i 1858 blev opfordret til at portrættere provst, dr. theol. Rudelbach, præsterede han en personkarakteristik med en maleteknik, som med rette har udråbt ham til sin tids Frans Hals. J. malede mere end 400 portrætter, og det kan således ikke undre, at kvaliteten kan være meget svingende. Alligevel er dette ikke nok til at forklare, hvorfor J. havde så svært ved at blive respekteret, mens han levede, og derefter nærmest blev glemt indtil udstillingerne efter århundredskiftet. Muligvis har Sigurd Schultz ret, når han antyder, at det skulle tage flere generationer af kunsthistorikere at gøre op med Høyens kritik.",
+      "creator_lref": "231_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1714-01-01T00:00:00.000Z",
+      "end": "1814-01-01T00:00:00.000Z",
+      "period": "1714-1814"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "Skull and Hourglass",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS7660",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS7660",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS7660",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS7660",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS7660",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS7660",
+  "production_dates_notes": [
+    "Værkdatering: Udstillet 1814",
+    "afsluttet: fagligt skøn"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/5712m7309_KMS7660.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/5712m7309_KMS7660.tif.jp2/info.json",
+      "width": 5656,
+      "height": 4020,
+      "size": 23532994.482758623,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/5712m7309_KMS7660.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/5712m7309_KMS7660.tif.jp2/full/full/0/native.jpg",
+      "orientation": "landscape"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/2b88qg33r_KMS7660.tif.reconstructed.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/2b88qg33r_KMS7660.tif.reconstructed.tif.jp2/info.json",
+  "image_width": 3743,
+  "image_height": 3174,
+  "image_size": 5775337,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/2b88qg33r_KMS7660.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi8yYjg4cWczM3JfS01TNzY2MC50aWYucmVjb25zdHJ1Y3RlZC50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TNzY2MCIsIm51bSI6IiJ9XQ==/KMS7660.jpg",
+  "image_cropped": true,
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#080614",
+    "#541f0e",
+    "#000000",
+    "#651c21",
+    "#d0da83",
+    "#5a5527",
+    "#908d41"
+  ],
+  "suggested_bg_color": [
+    "#908d41"
+  ],
+  "entropy": 9.485413,
+  "contrast": 2.524321,
+  "saturation": 3.6046915,
+  "colortemp": 5.544746,
+  "brightness": 1.8526473,
+  "has_text": true,
+  "artist": [
+    "C.A. Jensen"
+  ]
+}

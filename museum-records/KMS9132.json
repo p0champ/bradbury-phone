@@ -1,0 +1,157 @@
+{
+  "id": "1170286678_object",
+  "created": "2024-11-19T13:33:48Z",
+  "modified": "2026-11-03T14:40:02Z",
+  "current_location_name": "Sal 102",
+  "current_location_date": "2026-11-02T00:00:00Z",
+  "acquisition_date": "2024-09-20T00:00:00Z",
+  "acquisition_date_precision": "2024-09-20",
+  "dimensions": [
+    {
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "67.5"
+    },
+    {
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "47"
+    },
+    {
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "33.8"
+    },
+    {
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "55"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "50 værker du skal se på SMK",
+      "author": "Camilla Jalving",
+      "notes": "omt. 49, afb. 48",
+      "year_of_publication": "2024"
+    },
+    {
+      "title": "50 Favourites in the SMK Collection",
+      "author": "Camilla Jalving",
+      "notes": "ill. 48",
+      "year_of_publication": "2024"
+    },
+    {
+      "title": "Clara Peeters",
+      "author": "Pamela Hibbs Decoteau",
+      "notes": "ill. 50, p. 65",
+      "year_of_publication": "1992"
+    },
+    {
+      "title": "Ornithological report on the painting (Still life) \"Peregrine Falcon and its prey\" by Clara Peeters from the year 1615",
+      "author": "Prof. Dr. habil. Martin Kraft"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "CLARA . P .",
+      "type": "signature"
+    }
+  ],
+  "labels": [
+    {
+      "text": "This skillfully executed painting by Clara Peeters represents\r\na majestic peregrine falcon with its prey, arranged on a\r\ntabletop. The dark background highlights the soft plumage\r\nof the falcon. Proudly standing on the breast of a grey\r\npartridge, his talons firmly clutching his prey while his\r\ngaze, accentuated by the glittering reflections, rests on the\r\nbeholder. The diversity of feather textures is depicted with\r\ngreat skill. The accurate depiction of the birds’ anatomy and\r\nproportions enables their identification, reflecting Peeters’s\r\nmeticulous observation of the natural world.\r\nPeeters is one of the few women artists known to\r\nhave worked professionally in the seventeenth century.\r\nThirty-nine known paintings bear her signature, and this\r\npainting is one of the rare examples of her work that has\r\nsurvived to the present day. She was among the first artists\r\nto popularise still life paintings at the beginning of the\r\nseventeenth century and is regarded as one of the pioneers\r\nof falconry pieces (50 Favorites in the SMK Collection).",
+      "type": "CATALOGUETEXT",
+      "source": "Michèle Seehafer",
+      "date": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "materials": [
+    "Wood",
+    "oil paint"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Peeters, Clara",
+      "creator_forename": "Clara",
+      "creator_surname": "Peeters",
+      "creator_date_of_birth": "1587-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1636-01-01T00:00:00.000Z",
+      "creator_nationality": "Flemish",
+      "creator_gender": "FEMALE",
+      "creator_lref": "49455_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1615-01-01T00:00:00.000Z",
+      "end": "1615-01-01T00:00:00.000Z",
+      "start_prec": "ca. 1615",
+      "end_prec": "ca. 1615",
+      "period": "1615"
+    }
+  ],
+  "techniques": [
+    "Oil on panel"
+  ],
+  "titles": [
+    {
+      "title": "Still Life with a Peregrine Falcon and Birds",
+      "language": "engelsk"
+    }
+  ],
+  "object_history_note": [
+    "- His Excellency Johan Willem Baron Huyssen van Kattendijke (1782–1854), Foreign Minister of the Netherlands and personal confidant of King Willem II.\r\n- By marriage with Baron Huyssens van Kattendijke's daughter Ida Jacqueline Juliette (1832–1897) to Jean Dollfus, Jean Dollfus Collection (1823–1911).\r\n- Adrien Dollfus Collection (1858–1921).\r\n- By descent, Jean Dollfus Collection (1891–1983).\r\n- By donation, private collection, Germany"
+  ],
+  "object_number": "KMS9132",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS9132",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS9132",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS9132",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS9132",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS9132",
+  "production_dates_notes": [
+    "Værkdatering: ca. 1615 På baggrund af en dendrokronologisk analyse kan maleriet dateres til omkring 1615. Et tavlemærke på trætavlens bagside af tavlemageren Guilliam Gabron fra Antwerpen (aktiv 1609-efter 1662) viser to G’er forbundet med en keltisk knude. Tavlemærket var i brug indtil 1626.",
+    "Dendrochronological analysis has shown that the painting can be dated to around 1615. A stamp on the reverse of the panel by the Antwerp panel maker Guilliam Gabron (active 1609-after 1662) bears two G’s joined by a Celtic knot, and was in use until 1626."
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": true,
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/cz30pz30k_kms9132__1_.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/cz30pz30k_kms9132__1_.tif.jp2/info.json",
+  "image_width": 11116,
+  "image_height": 6920,
+  "image_size": 79583270,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/cz30pz30k_kms9132__1_.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9jejMwcHozMGtfa21zOTEzMl9fMV8udGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNUzkxMzIiLCJudW0iOiIifV0=/KMS9132.jpg",
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#222222",
+    "#191909",
+    "#908d41",
+    "#795025"
+  ],
+  "suggested_bg_color": [
+    "#908d41"
+  ],
+  "entropy": 9.539505,
+  "contrast": 1.9379809,
+  "saturation": 2.8518665,
+  "colortemp": 4.293459,
+  "brightness": 2.3301435,
+  "artist": [
+    "Clara Peeters"
+  ]
+}

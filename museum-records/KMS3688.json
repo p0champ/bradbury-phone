@@ -1,0 +1,248 @@
+{
+  "id": "1170019583_object",
+  "created": "2020-03-21T12:14:00Z",
+  "modified": "2025-07-11T17:34:43Z",
+  "acquisition_date": "1924-01-01T00:00:00Z",
+  "acquisition_date_precision": "1924-12-31",
+  "dimensions": [
+    {
+      "notes": "400 x 470 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "40"
+    },
+    {
+      "notes": "400 x 470 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "47"
+    },
+    {
+      "notes": "544 x 614 x 90 mm",
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "52.3"
+    },
+    {
+      "notes": "544 x 614 x 90 mm",
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "59.4"
+    },
+    {
+      "notes": "544 x 614 x 90 mm",
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "9"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Lysets malere: nordisk malerkunst fra klassicisme til modernisme",
+      "author": "Bengt-Arne Person",
+      "notes": "omt. p. 98",
+      "shelfmark": "2000-393",
+      "year_of_publication": "1999"
+    },
+    {
+      "title": "Dansk kunst: tusind års kunsthistorie",
+      "author": "Hans Edvard Nørregård-Nielsen",
+      "notes": "afb. p. 392 og omt p. 394",
+      "shelfmark": "2003-520",
+      "year_of_publication": "2003"
+    },
+    {
+      "title": "Med solen i øjnene: en Theodor Philipsen-studie",
+      "author": "Finn Terman Frederiksen",
+      "notes": "p. 82, Værkfortegnelse nr. 226.",
+      "shelfmark": "92-437",
+      "year_of_publication": "c1992"
+    },
+    {
+      "title": "Bovins Bahrain",
+      "author": "Henning Jørgensen",
+      "notes": "afb. p. 8 (f), omt. p. 7",
+      "shelfmark": "99-442",
+      "year_of_publication": "1999"
+    },
+    {
+      "title": "1880-årene i nordisk maleri: Nasjonalgalleriet, 24. august - 13. oktober 1985: [Stockholm, Nationalmuseum, 25. oktober 1985 - 6 januar 1986: Helsingfors, Amos Anderssons Konstmuseum, 19 januar - 9 mars 1986: København, Statens Museum for Kunst, 22 mars - 18 mai 1986]",
+      "author": "Ubekendt",
+      "notes": "kat. 94.",
+      "shelfmark": "C 15653",
+      "year_of_publication": "1985"
+    },
+    {
+      "title": "The Scandinavian pupils of the Atelier Bonnat, 1867-1894",
+      "author": "Siulolovao Challons-Lipton",
+      "notes": "Omt. p. 140, afb. fig. 41",
+      "shelfmark": "D 28063 B",
+      "year_of_publication": "2001"
+    },
+    {
+      "title": "Philipsen og fynboerne",
+      "author": "Ubekendt",
+      "notes": "Afb. p. 43, fig. 14 (f), omt. p. 43 ff, 72",
+      "shelfmark": "ka2001-202",
+      "year_of_publication": "2001"
+    },
+    {
+      "title": "Theodor Philipsen - en traditionsbevidst nyskaber",
+      "author": "Finn Terman Frederiksen",
+      "notes": "kap. 3 fig. 56 - afb. p. 182",
+      "year_of_publication": "2016"
+    },
+    {
+      "title": "I lyset af Nordafrika",
+      "author": "Lisbeth Lund",
+      "notes": "p. 24",
+      "year_of_publication": "2023"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Koloristiske gennembrud : tre forudsætninger for moderne dansk maleri : Philipsen, Larsen Stevns, Hoppe",
+      "date_start": "1996-11-23T00:00:00.000Z",
+      "date_end": "1997-03-09T00:00:00.000Z",
+      "venue": "Holstebro Kunstmuseum"
+    },
+    {
+      "exhibition": "Theodor Philipsen – Lysets og farvens mester",
+      "date_start": "2016-08-12T00:00:00.000Z",
+      "date_end": "2016-11-19T00:00:00.000Z",
+      "venue": "Randers Kunstmuseum"
+    },
+    {
+      "exhibition": "Theodor Philipsen – Lysets og farvens mester",
+      "date_start": "2017-01-15T00:00:00.000Z",
+      "date_end": "2017-06-11T00:00:00.000Z",
+      "venue": "Sorø Kunstmuseum"
+    },
+    {
+      "exhibition": "I lyset af Nordafrika. Nordafrika og de nordafrikanske kulturer hos J.F. Willumsen og hans samtidige danske kollegaer",
+      "date_start": "2023-09-02T00:00:00.000Z",
+      "date_end": "2024-01-07T00:00:00.000Z",
+      "venue": "Willumsens Museum"
+    },
+    {
+      "exhibition": "I lyset af Nordafrika. Nordafrika og de nordafrikanske kulturer hos J.F. Willumsen og hans samtidige danske kollegaer",
+      "date_start": "2024-01-27T00:00:00.000Z",
+      "date_end": "2024-05-20T00:00:00.000Z",
+      "venue": "Ribe Kunstmuseum"
+    },
+    {
+      "exhibition": "I lyset af Nordafrika. Nordafrika og de nordafrikanske kulturer hos J.F. Willumsen og hans samtidige danske kollegaer",
+      "date_start": "2024-06-14T00:00:00.000Z",
+      "date_end": "2024-09-15T00:00:00.000Z",
+      "venue": "Fuglsang Kunstmuseum"
+    }
+  ],
+  "materials": [
+    "oilcloth"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Philipsen, Theodor",
+      "creator_forename": "Theodor",
+      "creator_surname": "Philipsen",
+      "creator_date_of_birth": "1840-06-10T00:00:00.000Z",
+      "creator_date_of_death": "1920-03-03T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Theodor Philipsen fandt sin kunstneriske identitet i 1880ernes friluftsmaleri og fik gennem sit engagement i den franske impressionisme stor betydning for de efterfølgende generationer af danske kolorister. Han voksede op i en velhavende københavnsk grossererfamilie i en stor ejendom i det indre København. Faderen tilhørte en af borgerskabets jødiske slægter, og hjemmet var præget af frisind, en rationalistisk tankegang og en vidtgående kulturel dannelse, og P. og hans brødre kom som børn på årlige dannelsesrejser rundt i Europa. P.s største interesse var imidlertid dyr, han som barn ivrigt tegnede og modellerede. Det var derfor naturligt, at han fik en landbrugsuddannelse hos en onkel på Højagergård. Først i 1860erne lærte P. gennem en af sine brødre maleren Hans Smidth at kende, hvilket bidrog til hans beslutning om selv at blive kunstner. P.s uddannelse på Akademiet blev afbrudt af krigen 1864, hvor han blev indkaldt og kæmpede ved fronten. Efter nederlaget fortsatte han på modelskolen, hvor F. Vermehrens krav til studiet af virkeligheden og respekten for fortiden kom til at præge hans udvikling. Fra de offentlige samlinger i København kendte P. allerede J.Th. Lundbyes skildringer af dyr og havde lært at værdsætte 1600-tallets hollandske landskabs- og dyremalere, især Paulus Potter. Al skoling til trods var og blev det kærligheden til naturen og til husdyrene, der blev P.s egentlige drivkraft i kunsten. De tidligste bevarede arbejder af ham er oliestudier af dyr i stalden fra 1860ernes begyndelse. Han debuterede 1865 med en statuette af et par køer. Om sommeren tog P. på landet for at finde motiver, i 1865 malede han sammen med Vilhelm Groth i Kalø Vig. Ungkvæg på en eng herfra er stærkt præget af Vilhelm Kyhn, hvis \"Huleakademi\" P. var begyndt at frekventere. Fra Trommesalen tæt ved malede P. i 1870 en flok får, der lukkes ud til nogle kalve, et billede med klar hollandsk inspiration. P.s naturopfattelse var imidlertid langt mere realistisk end de kunstneriske forbilleder. Det skyldtes ikke blot hans indgående kendskab til dyrenes adfærd, men også den tidsbundne stræben mod en større sandhed. I 1872 fik han en mæcen i Christian Juel-Brockdorff, der til sin død sidst i 1880erne inviterede ham til at tilbringe somrene på Mejlgaard på Djursland, hvor han malede en række af sine bedste arbejder. Med P.s fordomfrie og kritiske indstilling var det naturligt for ham at søge inspiration i Paris, og sammen med L. Tuxen tog han undervisning på Bonnats skole, et usædvanligt skridt for en kunstner på 35 år. Her lærte P. gennem intensiv croquistegning at fange det karakteristiske i en bevægelse og at give sine billeder en mere overlegen helhedsvirkning. Tuxen fortæller i sine erindringer 1928, at han og P. var særlig optaget af impressionismen, hvis malere i 1870erne holdt deres protestudstillinger, men samtidige kilder tyder ikke på, det skete så tidligt. P. fik først nærmere kendskab til den radikale franske farvekunst gennem venskabet med den belgiske maler Rémy Cogghe, som han var sammen med i Spanien 1882 og året efter i Rom. Først derefter udviklede P. hjemme, mere end 40 år gammel, sit karakteristiske maleri, der gælder lys, farve, natur og dyr, og som uløseligt har knyttet hans navn til Saltholm og Amager. Mens P. under sit første ophold i Italien havde malet det monumentale En drift okser i den romerske campagne, 1878, der var forankret i en ældre billedtradition, var de lysfyldte billeder, han malede i 1882 i Spaniens og Nordafrikas stærke sol under sit andet lange udlandsophold af en helt ny karakter. Uden for en accisebod i Granada adskiller sig radikalt fra hans tidligere maleri og viser ham desuden som en glimrende arkitekturmaler. I Æselstald i Tunis er både farvevalg og penselsføring frigjort. Gade med kameler i Tunis rummer et raffineret spil af reflekser, og dyreflokkens voldsomme fart vidner om et studium af Delacroix. Landskabsbillederne fra Sora 1883 og hestene, der vandes på Via Flaminia i Rom, betegner en definitiv ændring. Blandt P.s nye billeder fra Danmark er Malkepladsen ved Mejlgård fra 1884 det første. P. udviklede nu et yderst personligt friluftsmaleri, der gradvist blev en farvekunst, idet han samtidig begrænsede sin motivverden til kalve og køer, landskab og vejrlig. Saltholm midt i Øresund, hvor køerne går frit hele sommeren, gjorde han til sit foretrukne opholdsted, og her skabte han gennem de næste godt og vel 30 år et stort antal værker, ikke blot i olie, men også i pastel. P.s interesse for impressionismen blev styrket gennem den franske maler Paul Gauguin, der i vinteren 1884-85 opholdt sig i København. Af ham lærte P. at bruge små pensler og korte, faste strøg, beretter Karl Madsen. P. ejede desuden et af hans billeder. Omkring 1890, hvor P. havde bosat sig i Kastrup, malede han hovedværker som Kastrupvejen ad København og Fra vejen til Kastrup efter impressionistisk forbillede, men i en personlig tolkning. Saltholmbillederne og skovbillederne fra bl.a. Dyrehaven kan betragtes som en stræben efter helt at beherske farve- og lysfænomenerne i en given motivverden, og P.s maleri er altid præget af en inderlig kærlighed til den uspolerede natur. Sideløbende dyrkede P. modelleringen og var sidst i 1880erne med i kredsen omkring Dekorationsforeningen. Sammen med brødrene Skovgaard, Th. Bindesbøll og Elise Konstantin-Hansen arbejdede han hos pottemager J. Wallmann i Utterslev og senere hos G. Eifrig i Valby med modellering af små keramiske grupper af dyr, hvis bevægelser og indbyrdes psykologiske samspil han skildrer. Teknisk er de ufuldkomne, kluntede som dyrene selv, men altid charmerende. Hans evner demonstreres imidlertid i et fornemt arbejde som den romerske tyr fra 1889, støbt i bronze. En enkelt gang gav han udkast til et større arbejde, et springvand på Blågaards Plads på Nørrebro i København, der ikke blev realiseret. P. spillede en betydelig rolle i 1880ernes moderne gennembrud, men var kun direkte meddelsom gennem sit maleri. Om hans sympatier herskede ingen tvivl, men han deltog ikke i kunstpolitik, hvilket ærgrede bl.a. Karl Madsen, som han stod nær. Diskretionen havde han tilfælles med vennen Viggo Johansen. Raadhusudstillingen 1901 skyldes dog i høj grad P.s initiativ. P. var helt usnobbet og uinteresseret i ydre hæder, hvilket vanskeliggjorde hans økonomi. Trods sin alder var det typisk for ham i 1891 at slutte sig til opponentudstillingen Den frie Udstilling, og han blev forbillede bl.a. for de unge bondemalere, Fynboerne. Gennem sin kunst, der aldrig søgte det spektakulære, kom P. til at spille en betydningsfuld rolle som formidler af den franske impressionismes ideer, der næsten frem til vor tid har domineret store dele af dansk maleri.",
+      "creator_lref": "987_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1882-01-01T00:00:00.000Z",
+      "end": "1882-12-31T00:00:00.000Z",
+      "period": "1882"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Camels in a Street in Tunisia",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS3688",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS3688",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS3688",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS3688",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS3688",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS3688",
+  "production_dates_notes": [
+    "Værkdatering: 1882",
+    "afsluttet: dokumenteret"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/0c483k26f_KMS3688.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/0c483k26f_KMS3688.tif.jp2/info.json",
+      "width": 4134,
+      "height": 3502,
+      "size": 14984982.068965517,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/0c483k26f_KMS3688.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/0c483k26f_KMS3688.tif.jp2/full/full/0/native.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/p5547v60x_KMS3688.tif.reconstructed.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/p5547v60x_KMS3688.tif.reconstructed.tif.jp2/info.json",
+      "width": 4134,
+      "height": 3502,
+      "size": 11172079.310344828,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/p5547v60x_KMS3688.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/p5547v60x_KMS3688.tif.reconstructed.tif.jp2/full/full/0/native.jpg",
+      "cropped": [
+        "true"
+      ],
+      "orientation": "landscape"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/70795d07g_kms3688.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/70795d07g_kms3688.tif.jp2/info.json",
+  "image_width": 10630,
+  "image_height": 9020,
+  "image_size": 99196721,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/70795d07g_kms3688.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi83MDc5NWQwN2dfa21zMzY4OC50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TMzY4OCIsIm51bSI6IiJ9XQ==/KMS3688.jpg",
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#a9c97f",
+    "#bed69f",
+    "#908d41"
+  ],
+  "suggested_bg_color": [
+    "#908d41"
+  ],
+  "entropy": 9.787134,
+  "contrast": 1.8045355,
+  "saturation": 2.5809672,
+  "colortemp": 3.8116705,
+  "brightness": 7.1087513,
+  "artist": [
+    "Theodor Philipsen"
+  ]
+}

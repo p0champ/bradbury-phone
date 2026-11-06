@@ -1,0 +1,170 @@
+{
+  "id": "1170027468_object",
+  "created": "2020-03-21T13:44:42Z",
+  "modified": "2025-07-11T17:38:17Z",
+  "acquisition_date": "1987-01-13T00:00:00Z",
+  "acquisition_date_precision": "1987-01-13",
+  "dimensions": [
+    {
+      "notes": "977 x 755 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "97.7"
+    },
+    {
+      "notes": "977 x 755 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "75.5"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Bernardo Keilhau detto Monsù Bernardo",
+      "author": "Minna Heimbürger",
+      "notes": "pp. 80f, 111, 160 kat. nr. 26 (afb. i farver): Allegori på \"Vandet\". ca. 1650",
+      "shelfmark": "89-107",
+      "year_of_publication": "1988"
+    },
+    {
+      "title": "Christian 4. og Frederiksborg",
+      "author": "Ubekendt",
+      "notes": "afb. p. 293",
+      "shelfmark": "C 31123",
+      "year_of_publication": "2006"
+    },
+    {
+      "title": "Important Paintings by Old Masters",
+      "author": "Ubekendt",
+      "notes": "p. 85, nr. 105 (afb i farver)",
+      "year_of_publication": "1987"
+    },
+    {
+      "title": "Eberhart Keilhau alias Bernardo Keilhau, kaldet Monsù Bernardo: en dansk barokmaler i Holland og Italien",
+      "author": "Olaf Koester",
+      "notes": "p. 4, afb p. 5 fig. 3, omt. p. 7",
+      "shelfmark": "eks20 May 2009 13:26:33:063",
+      "year_of_publication": "1991"
+    },
+    {
+      "title": "Rembrandt?: mesteren og hans værksted",
+      "author": "Lene Bøgh Rønberg",
+      "notes": "Kat. nr. 54, omt. p. 272-273, afb. p. 273",
+      "shelfmark": "2006-020",
+      "year_of_publication": "2006"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Rembrandt? Mesteren og hans værksted",
+      "date_start": "2006-02-04T00:00:00.000Z",
+      "date_end": "2006-05-14T00:00:00.000Z",
+      "venue": "SMK København"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Keilhau, Bernardo Eberhart",
+      "creator_forename": "Bernardo Eberhart",
+      "creator_surname": "Keilhau",
+      "creator_date_of_birth": "1624-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1687-01-01T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Eberhart, senere Bernardo Keilhau tog som ung på uddannelsesrejse til udlandet, men vendte aldrig tilbage til Danmark. Gennem familieforbindelser kom han i kontakt med Rembrandt i Amsterdam. I Bergamo blev han husmaler hos byens statholder, og i Ravenna hofmaler hos den pavelige gesandt. I Rom besluttede han at etablere sig definitivt, gik over til den katolske tro, stiftede familie og blev en efterspurgt maler med kunder fra både verdslige og gejstlige kredse i Italien og udlandet, især Frankrig og Spanien. I Venezia accepterede han at blive kaldt Monsù (monsieur) Bernardo, og med dette påtagne fornavn figurerer han i de romerske arkivalier samt på de få signerede lærreder. Selvom K.s billeder var skattede af samtiden, glemtes hans navn hurtigt, og først i allernyeste tid har det været muligt takket være Baldinuccis samtidsbiografi at trække ham frem fra glemslen og genfinde en række af hans værker, der i tidens løb var blevet påhæftet andre kunstnernavne. Mange italienske malere fra tiden ca. 1660-1740 har kopieret, efterlignet eller været inspireret af hans værker. Da K. normalt hverken signerede eller daterede sine billeder, og da han livet igennem malede de samme motiver, benyttede de samme figurtyper og praktisk talt ikke ændrede stil, er det forbundet med stor vanskelighed i dag at etablere en kronologi for hans malerier. Som følge af hans mangeårige ophold i ikke mindre end tre forskellige lande har det ligeledes været problematisk, hvor han rent geografisk skal placeres i kunsthistorien. Foruden portrætter og billeder med religiøse sujetter udførte K. især genremalerier med en, to eller flere figurer, som oftest halvfigurer trukket helt frem i billedfeltet, hvor kompositionerne næsten altid ejer et skjult, allegorisk indhold. De i dag kendte ca. 250 billeder af ham viser indflydelse fra forskellige malere som Karel van Mander III, Peter Isaacsz, Rembrandt, Ribera, Veronese, Strozzi, Fetti, Guercino, Caravaggio og dennes efterfølgere.",
+      "creator_lref": "795_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1648-01-01T00:00:00.000Z",
+      "end": "1651-12-31T00:00:00.000Z",
+      "period": "1648-1651"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "Old man washing his Hands",
+      "type": "museum title",
+      "language": "engelsk"
+    },
+    {
+      "title": "Old Man washing his Hands. (Allegory of \"Water\")",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS7393",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS7393",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS7393",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS7393",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS7393",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS7393",
+  "production_dates_notes": [
+    "Værkdatering: Ca. 1650",
+    "Dateringen er baseret på et fagligt skøn (Heimburger, 1988, p. 160)"
+  ],
+  "work_status": [
+    "pendant"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/gh93h0330_KMSKMS7393.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/gh93h0330_KMSKMS7393.tif.jp2/info.json",
+      "width": 3269,
+      "height": 3894,
+      "size": 13178127.586206896,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/gh93h0330_KMSKMS7393.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/gh93h0330_KMSKMS7393.tif.jp2/full/full/0/native.jpg",
+      "orientation": "portrait"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/k0698b724_KMSKMS7393.tif.reconstructed.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/k0698b724_KMSKMS7393.tif.reconstructed.tif.jp2/info.json",
+  "image_width": 2650,
+  "image_height": 3619,
+  "image_size": 8005633,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/k0698b724_KMSKMS7393.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9rMDY5OGI3MjRfS01TS01TNzM5My50aWYucmVjb25zdHJ1Y3RlZC50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TNzM5MyIsIm51bSI6IiJ9XQ==/KMS7393.jpg",
+  "image_cropped": true,
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#3a351f",
+    "#593d1c",
+    "#431716",
+    "#956830",
+    "#999999"
+  ],
+  "suggested_bg_color": [
+    "#956830"
+  ],
+  "entropy": 9.792355,
+  "contrast": 2.5887034,
+  "saturation": 3.9767475,
+  "colortemp": 5.0344744,
+  "brightness": 3.6331496,
+  "artist": [
+    "Bernardo Eberhart Keilhau"
+  ]
+}

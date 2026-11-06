@@ -1,0 +1,161 @@
+{
+  "id": "1170089159_object",
+  "created": "2020-03-22T01:26:25Z",
+  "modified": "2026-05-13T12:22:36Z",
+  "collection": [
+    ""
+  ],
+  "acquisition_date": "1809-01-01T00:00:00Z",
+  "acquisition_date_precision": "1809-12-31",
+  "dimensions": [
+    {
+      "notes": "690 x 560 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "69"
+    },
+    {
+      "notes": "690 x 560 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "56"
+    },
+    {
+      "type": "height",
+      "unit": "cm",
+      "value": "83"
+    },
+    {
+      "type": "width",
+      "unit": "cm",
+      "value": "70"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Barok. 1600-tallets kunst i SMK's samlinger",
+      "author": "Eva de la Fuente Pedersen",
+      "notes": "omt. p. 55, 118, afb. p. 119, katalog p. 210",
+      "year_of_publication": "2023"
+    },
+    {
+      "title": "Raisonneret Catalog over Consul West's Samling af Malerier med Indledning samt Liste over Haandtegninger, Figurer, Kobberstik og trykte Værker Samlingen tilhörende",
+      "author": "Hans West",
+      "notes": "kat.nr. 6 (benævnt 'Gierrigheden').",
+      "shelfmark": "5660",
+      "year_of_publication": "1807"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "At krydse grænser - Spot på Europæisk Kunst 1300-1800",
+      "date_start": "2017-08-12T00:00:00.000Z",
+      "date_end": "2017-11-26T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "Barok - Ud af mørket",
+      "date_start": "2023-05-27T00:00:00.000Z",
+      "date_end": "2023-11-05T00:00:00.000Z",
+      "venue": "SMK København"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Honthorst, Gerard van",
+      "creator_forename": "Gerard van",
+      "creator_surname": "Honthorst",
+      "creator_date_of_birth": "1592-11-04T00:00:00.000Z",
+      "creator_date_of_death": "1656-04-27T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_history": "Gerrit van Honthorst fik af Christian IV i anledning af Det store Bilager 1634 (den udvalgte prins Christians formæling med Magdalena Sibylla af Sachsen) bestilling på udsmykningen af Kongens Kammer på Kronborg. De valgte scener fra Heliodors roman Aethiopica kan da også opfattes som allegorier på den fyrstelige formæling. I 1639 fik H. udbetalt 37.000 gylden af Christian IV for 25 billeder fra de danske kongers historie. Fortegningerne skulle udføres af Utrecht- kobberstikkeren Simon de Pas, der ligeledes var i den danske konges tjeneste. De fædrelandshistoriske billeder blev i 1659 bortført af svenskerne som krigbytte, hvorfor en del stadig er at finde i svenske offentlige (især de kgl. slotte) og private samlinger. H. var en meget efterspurgt portrætmaler, bl.a. ved hofferne i England og Nederlandene. Da Christian IVs datter Leonore Christine ledsagede sin mand Corfitz Ulfeldt på en rejse i Frankrig og Nederlandene 1646-47, lod hun sig i Utrecht portrættere af H. Alle de til Danmark udførte arbejder er malet i en klassicerende stil, kun med svage mindelser fra H.s tidligere, stærkt Caravaggio-påvirkede stil. Eksempler fra denne periode findes også i danske samlinger, bl.a. Musicerende selskab omkring et bord, et karakteristisk \"natstykke\" med anvendelse af en tælleprås som eneste lyskilde.",
+      "creator_lref": "2619_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1623-01-01T00:00:00.000Z",
+      "end": "1623-01-01T00:00:00.000Z",
+      "period": "1623"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "An Old Woman",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMSsp380",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSsp380",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMSsp380",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSsp380",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSsp380",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSsp380",
+  "production_dates_notes": [
+    "Værkdatering"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/n583xv96w_KMSsp380.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/n583xv96w_KMSsp380.tif.jp2/info.json",
+      "width": 3453,
+      "height": 4390,
+      "size": 15692282.75862069,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/n583xv96w_KMSsp380.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/n583xv96w_KMSsp380.tif.jp2/full/full/0/native.jpg",
+      "orientation": "portrait"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/vm40xv57g_KMSsp380.tif.reconstructed.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/vm40xv57g_KMSsp380.tif.reconstructed.tif.jp2/info.json",
+  "image_width": 3450,
+  "image_height": 4385,
+  "image_size": 6955564,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/vm40xv57g_KMSsp380.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi92bTQweHY1N2dfS01Tc3AzODAudGlmLnJlY29uc3RydWN0ZWQudGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNU3NwMzgwIiwibnVtIjoiIn1d/KMSsp380.jpg",
+  "image_cropped": true,
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#000000",
+    "#230b09",
+    "#795025",
+    "#f99c47",
+    "#593d1c",
+    "#febd84",
+    "#952b29"
+  ],
+  "suggested_bg_color": [
+    "#795025"
+  ],
+  "entropy": 9.699727,
+  "contrast": 3.2103243,
+  "saturation": 6.327639,
+  "colortemp": 8.848916,
+  "brightness": 2.5121212,
+  "artist": [
+    "Gerard van Honthorst"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "1170024050_object",
+  "created": "2020-03-21T13:00:29Z",
+  "modified": "2025-07-11T17:36:39Z",
+  "acquisition_date": "2016-12-20T00:00:00Z",
+  "acquisition_date_precision": "2016-12-20",
+  "content_person_full": [
+    {
+      "full_name": "Johan Hörner",
+      "forename": "Johan",
+      "surname": "Hörner",
+      "gender": "MALE",
+      "nationality": "Swedish"
+    }
+  ],
+  "dimensions": [
+    {
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "58.3"
+    },
+    {
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "44.7"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Om nogle arbejder af Johan Hørner",
+      "author": "Christian Elling",
+      "notes": "p. 45 (\"i et andet Natstykke havde Hörner indføljet den kungelige Familie og vistnok ogsaa portrætteret sig selv.\").",
+      "shelfmark": "15139",
+      "year_of_publication": "1937"
+    },
+    {
+      "title": "Svenska målare i Danmark under 1700-talet",
+      "author": "Bo G. Wennberg",
+      "notes": "p. 260 (under Försvunna arbeten: \"Ett för närvarande likaledes försvunnet men tidigare flerstädes omtalat arbete är ”Kong Friedrich V og Dronning Juliane Marie malede i et Nattstykke af Hörner, som tillige har tegnet sig selv der paa…\" se Museum Klevenfeldianum, Kbhvn 1777.\"",
+      "shelfmark": "14867",
+      "year_of_publication": "1940"
+    },
+    {
+      "title": "Vilhelm Hammershøi: Mesterværker af Vilhelm Hammershøi fra SMK",
+      "author": "Cecilie Høgsbro",
+      "notes": "afb. p. 22, omt. p. 22",
+      "year_of_publication": "2015"
+    },
+    {
+      "title": "Mareridt og lyse nætter. Natten i dansk kunst",
+      "author": "Sidsel Maria Søndergaard",
+      "notes": "p. 15",
+      "year_of_publication": "2024"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Mareridt og lyse nætter. Natten i dansk kunst",
+      "date_start": "2024-09-12T00:00:00.000Z",
+      "date_end": "2025-02-16T00:00:00.000Z",
+      "venue": "Øregaard Museum"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "Hörner Svec. [plus utydelig latinsk inskription]",
+      "language": "English",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Hörner, Johan",
+      "creator_forename": "Johan",
+      "creator_surname": "Hörner",
+      "creator_date_of_birth": "1711-01-28T00:00:00.000Z",
+      "creator_date_of_death": "1763-03-04T00:00:00.000Z",
+      "creator_nationality": "Swedish",
+      "creator_gender": "MALE",
+      "creator_history": "Johan Hörners pietistiske religiøsitet skabte ham vanskeligheder i Sverige. Han rejste af den grund til Danmark, hvor han også i de første år mødte mistænksomhed og måtte forlade København. Men fra 1740 til sin død boede han fast i hovedstaden under vekslende adresser, og uden at nyde støtte fra hoffet og uden tilknytning til Kunstakademiet ernærede han sig af sin kunst. Hans religiøse overbevisning kom ikke blot til at præge hans liv, men også hans kunst. Karakteristisk for hans portrætter er den jævne, ærlige menneskelighed, de udstråler. Han skildrede sine modeller med overbærenhed og kærlighed uden ydre pomp på samme måde som Balthasar Denner, hvis kunst han må have kendt, og som han ud fra lignende religiøse følelser må have følt sig åndeligt beslægtet med. Ingen kunstner i 1700-tallet har malet så mange portrætter af gejstligheden som han. Ved sin ankomst til landet var han, så vidt man kan skønne af stikket efter Peder Horrebows portræt vel skolet i sin lærer J.H. Scheffels stil. I hans næste arbejder, portrætterne af Frederik Rostgaard og H.C. Warnstedt, er hans kunstneriske evner som sjælfuld menneskeskildrer og som kolorist åbenbare. Den frontale komposition, som han benyttede i Rostgaardportrættet og andre steder, havde han sandsynligvis overtaget fra Andreas Møller, men med en anden virkning, intimitet, og ikke som hos Møller afstand. Den livlige kolorit, som i løbet af 1740rne blev stadig mere udtalt i hans malerier, er helt hans egen. I arbejder fra 1750erne spores ikke mindst i portrætternes komposition nogen påvirkning fra C.G. Pilo, f.eks. i portrætterne af C.D. Reventlow og fru Brorson. Det Peltske familiebillede er H.s største komposition med 3 udmærkede portrætter og på bordet foran dem et fint nature morte. H. var af sin samtid skattet for sine natstykker, sine genrebilleder og sine nature mortes. I Otto Thotts Malerisamling fandtes 14 eksempler og hoffet, der næsten aldrig anvendte ham som portrætmaler, formentlig fordi han savnede evner for repræsentativ portrætkunst, købte 15 nature mortes af ham. Også i sådanne billeder kommer hans koloristiske evner helt til deres ret. Frugt- og blomsterstykkerne på Statens Museum for Kunst og Rosenborg har en stilfærdig intensitet af stor virkning.",
+      "creator_lref": "216_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1752-01-01T00:00:00.000Z",
+      "end": "1762-12-31T00:00:00.000Z",
+      "period": "1752-1762"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "Interior at Night",
+      "language": "engelsk"
+    }
+  ],
+  "object_number": "KMS8821",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS8821",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS8821",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS8821",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS8821",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS8821",
+  "production_dates_notes": [
+    "Værkdatering: Ca. 1760",
+    "Portrætterne på væggen sandsynliggør en datering mellem 1752 (kongeparrets bryllup) og 1763 (kunstnerens død)."
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 762,
+  "image_height": 999,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/af3efb48-abd8-4b09-a32b-ad2ddb19938e.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/af3efb48-abd8-4b09-a32b-ad2ddb19938e.jpg",
+  "artist": [
+    "Johan Hörner"
+  ]
+}

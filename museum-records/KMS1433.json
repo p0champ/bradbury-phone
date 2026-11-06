@@ -1,0 +1,543 @@
+{
+  "id": "1170090603_object",
+  "created": "2020-03-22T01:47:03Z",
+  "modified": "2026-09-21T09:35:23Z",
+  "backside_protection": true,
+  "current_location_name": "Sal 224",
+  "current_location_date": "2024-10-07T00:00:00Z",
+  "acquisition_date": "1891-01-01T00:00:00Z",
+  "acquisition_date_precision": "1891-12-31",
+  "dimensions": [
+    {
+      "notes": "1035 x 1245 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "103.5"
+    },
+    {
+      "notes": "1035 x 1245 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "124.5"
+    },
+    {
+      "notes": "1208 x 1428 x 95 mm",
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "120.8"
+    },
+    {
+      "notes": "1208 x 1428 x 95 mm",
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "142.8"
+    },
+    {
+      "notes": "1208 x 1428 x 95 mm",
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "9.5"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Dansk Kunst",
+      "author": "Preben Wilmann",
+      "notes": "p. 85",
+      "shelfmark": "14912",
+      "year_of_publication": "1941"
+    },
+    {
+      "title": "Malere ved Staffeliet: Seks Kunstnerportrætter fra Skagens store Tid",
+      "author": "Walter Schwartz",
+      "notes": "omt. p. 72",
+      "shelfmark": "15071",
+      "year_of_publication": "1941"
+    },
+    {
+      "title": "De gode gamle dage: vore oldeforældres og bedsteforældres liv, illustreret af danske malere, 1800-1900",
+      "author": "Ubekendt",
+      "notes": "ill. p. 84",
+      "shelfmark": "15105",
+      "year_of_publication": "1941"
+    },
+    {
+      "title": "Danmarks malerkunst fra middelalder til nutid",
+      "author": "Erik Zahle",
+      "notes": "Omt. 266",
+      "shelfmark": "16038",
+      "year_of_publication": "1943"
+    },
+    {
+      "title": "Från Skovgaard till Martin Emond: Skånskt och danskt måleri",
+      "author": "Hakon Hedemann-Gade",
+      "notes": "pp. 41-42",
+      "shelfmark": "16535",
+      "year_of_publication": "1944"
+    },
+    {
+      "title": "Lysets malere: nordisk malerkunst fra klassicisme til modernisme",
+      "author": "Bengt-Arne Person",
+      "notes": "omt. p. 32, ill. p. 33 (f)",
+      "shelfmark": "2000-393",
+      "year_of_publication": "1999"
+    },
+    {
+      "title": "Clinch: danske kunstnere markerer Kunstakademiets 250 års jubilæum på Statens Museum for Kunst",
+      "author": "Sven Bjerkhof",
+      "notes": "Omt. p. 114",
+      "shelfmark": "2004-276",
+      "year_of_publication": "2004"
+    },
+    {
+      "title": "SMK highlights: Statens Museum for Kunst",
+      "author": "Sven Bjerkhof",
+      "notes": "omt. og ill. p. 106",
+      "shelfmark": "2005-071",
+      "year_of_publication": "2005"
+    },
+    {
+      "title": "At male sit privatliv: skagensmalernes selviscenesættelse",
+      "author": "Mette Bøgh Jensen",
+      "shelfmark": "2005-229",
+      "year_of_publication": "2005"
+    },
+    {
+      "title": "Moderne dansk maleri: With an English version",
+      "author": "Jan Zibrandtsen",
+      "notes": "p. 24",
+      "shelfmark": "33534",
+      "year_of_publication": "1967"
+    },
+    {
+      "title": "Skagensmalerne og deres billeder på Skagens Museum",
+      "author": "Knud Voss",
+      "notes": "p. 92",
+      "shelfmark": "64134",
+      "year_of_publication": "1975"
+    },
+    {
+      "title": "Fremsyn - snæversyn: dansk dagbladskunstkritik 1880-1901",
+      "author": "Bente Scavenius",
+      "notes": "s, 85-87.",
+      "shelfmark": "65548",
+      "year_of_publication": "1983"
+    },
+    {
+      "title": "Dreams of a summer night: Scandinavian painting at the turn of the century: Hayward Gallery, London, 10 July to 5 October 1986",
+      "author": "Ubekendt",
+      "notes": "Kat. 1. omt. p. 64, ill. p. 63",
+      "shelfmark": "86-512",
+      "year_of_publication": "cop. 1986"
+    },
+    {
+      "title": "Kunstkritikkens og kunstopfattelsens historie i Danmark",
+      "author": "Erik Mortensen",
+      "notes": "Bind II, 60, pl. 15",
+      "shelfmark": "91-39",
+      "year_of_publication": "1990"
+    },
+    {
+      "title": "Luz del norte: Museo Nacional Centro de Arte Reina Sofia, Madrid 30 de marzo - 15 de mayo, 1995; Museu d'Art Modern del MNAC, Barcelona 2 de junio - 16 de julio, 1995",
+      "author": "Ubekendt",
+      "notes": "omt. p. 62, ill. p. 63, kat.nr. 2",
+      "shelfmark": "95-245",
+      "year_of_publication": "1995"
+    },
+    {
+      "title": "Nordiskt sekelskifte",
+      "author": "Ubekendt",
+      "notes": "kat. 2.",
+      "shelfmark": "95-613",
+      "year_of_publication": "1995"
+    },
+    {
+      "title": "Skagens Malere og Skagens Museum",
+      "author": "Karl Madsen",
+      "notes": "pp. 59-60",
+      "shelfmark": "9982",
+      "year_of_publication": "1929"
+    },
+    {
+      "title": "Nordens Billedkunst",
+      "author": "Sigurd Müller",
+      "notes": "p. 184",
+      "shelfmark": "C 1333",
+      "year_of_publication": "1905"
+    },
+    {
+      "title": "Nyt lys over 1800-tallets danske maleri",
+      "author": "Patricia G. Berman",
+      "notes": "afb. p. 153 og omt. p. 154f (fig. 112): ..ambitiøs fugurkomposition af Stine Bollerhus' begravelse, Stines mand Per står alene tv.",
+      "shelfmark": "C 39042",
+      "year_of_publication": "2007"
+    },
+    {
+      "title": "In another light: Danish painting in the nineteenth century",
+      "author": "Patricia G. Berman",
+      "notes": "afb. p. 152-3 (fig. 112) og omt. p. 154",
+      "shelfmark": "C 39045",
+      "year_of_publication": "2007"
+    },
+    {
+      "title": "L'arte delle donne: dal Rinascimento al Surrealismo",
+      "author": "Vittorio Sgarbi",
+      "notes": "ill. p. 166",
+      "shelfmark": "C 39687",
+      "year_of_publication": "2007"
+    },
+    {
+      "title": "Anna Anchers pasteller",
+      "author": "Elisabeth Fabritius",
+      "notes": "ill. + omt. p. 87",
+      "shelfmark": "C 42801",
+      "year_of_publication": "2008"
+    },
+    {
+      "title": "Becoming Edvard Munch: influence, anxiety, and myth",
+      "author": "Jay A. Clarke",
+      "notes": "kat. 88, fig. nr. 105, omt. p. 104, ill. p. 105",
+      "shelfmark": "C 43957",
+      "year_of_publication": "2009"
+    },
+    {
+      "title": "Skagen i nordisk Kunst: Fra Michael Ancher til Ludvig Karsten",
+      "author": "Walter Schwartz",
+      "notes": "omt. p. 108",
+      "shelfmark": "C 44221",
+      "year_of_publication": "1952"
+    },
+    {
+      "title": "Kvinden som skabende Kunstner",
+      "author": "Else Kai Sass",
+      "notes": "omt. p. 719",
+      "shelfmark": "C 5416",
+      "year_of_publication": "1942"
+    },
+    {
+      "title": "Ny dansk kunsthistorie",
+      "author": "Ubekendt",
+      "notes": "Bind 4, Peter Michael Hornung, Realismen, p. 126 (ill. og omt.), 130.",
+      "shelfmark": "D 22097",
+      "year_of_publication": "1993-1996"
+    },
+    {
+      "title": "Todesmutig: das siebte Werk der Barmherzigkeit",
+      "author": "Jeanne Rehnig",
+      "notes": "fig. nr. 30, ill. p. 46",
+      "shelfmark": "D 39328",
+      "year_of_publication": "2006"
+    },
+    {
+      "title": "Faaborg i blodet. Kunstnerkoloni 1880-1928.",
+      "author": "Gry Hedin",
+      "notes": "Afb. p. 59. Fig. 7.",
+      "year_of_publication": "2019"
+    },
+    {
+      "title": "Anna Anchers rum",
+      "author": "Lilian Munk Rösing",
+      "notes": "afb. pp. 134-35",
+      "year_of_publication": "2018"
+    },
+    {
+      "title": "Anna Ancher. Sonne, Licht, Skagen",
+      "author": "Ulrike Wolff-Thomsen",
+      "notes": "afb. cat. 37, p. 127",
+      "year_of_publication": "2022"
+    },
+    {
+      "title": "Harriet Backer",
+      "author": "Tove Haugsbø",
+      "notes": "Ill. 10",
+      "year_of_publication": "2023"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Den danske Kunstudstilling",
+      "date_start": "1931-12-31T00:00:00.000Z",
+      "venue": "Kunstnernes Hus, Oslo"
+    },
+    {
+      "exhibition": "Jylland i dansk malerkunst",
+      "date_start": "1956-01-01T00:00:00.000Z",
+      "date_end": "1956-06-30T00:00:00.000Z",
+      "venue": "Aarhus Kunstmuseum"
+    },
+    {
+      "exhibition": "100 Mesterværker",
+      "date_start": "1996-06-23T00:00:00.000Z",
+      "date_end": "1996-08-04T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "Zolotoj vek datskoj zivopisi",
+      "date_start": "1989-08-10T00:00:00.000Z",
+      "date_end": "1989-09-17T00:00:00.000Z",
+      "venue": "The Pushkin Museum of Fine Arts"
+    },
+    {
+      "exhibition": "Charlottenborg 1891",
+      "date_start": "1891-01-01T00:00:00.000Z",
+      "date_end": "1891-12-31T00:00:00.000Z",
+      "venue": "Charlottenborg"
+    },
+    {
+      "exhibition": "Nordic Highlights",
+      "date_start": "2017-04-08T00:00:00.000Z",
+      "date_end": "2017-08-13T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "Luz del norte",
+      "date_start": "1995-03-30T00:00:00.000Z",
+      "date_end": "1995-05-15T00:00:00.000Z",
+      "venue": "Museo Nacional Centro de Arte Reina Sofia"
+    },
+    {
+      "exhibition": "Luz del norte",
+      "date_start": "1995-05-30T00:00:00.000Z",
+      "date_end": "1995-07-15T00:00:00.000Z",
+      "venue": "Museu Nacional d'Art de Catalunya, Barcelona"
+    },
+    {
+      "exhibition": "Luz del norte",
+      "date_start": "1995-08-11T00:00:00.000Z",
+      "date_end": "1995-09-30T00:00:00.000Z",
+      "venue": "Listasafn Islands"
+    },
+    {
+      "exhibition": "Luz del norte",
+      "date_start": "1995-10-25T00:00:00.000Z",
+      "date_end": "1996-01-06T00:00:00.000Z",
+      "venue": "Nationalmuseum, Stockholm"
+    },
+    {
+      "exhibition": "Clinch!",
+      "date_start": "2004-04-01T00:00:00.000Z",
+      "date_end": "2004-11-28T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "Verdensudstillingen i Paris",
+      "date_start": "1900-04-15T00:00:00.000Z",
+      "date_end": "1900-11-12T00:00:00.000Z"
+    },
+    {
+      "exhibition": "Fra Hans Schmidt til Johannes Larsen",
+      "date_start": "1959-01-01T00:00:00.000Z",
+      "date_end": "1959-12-31T00:00:00.000Z",
+      "venue": "Charlottenborg"
+    },
+    {
+      "exhibition": "Becoming Edvard Munch: Influence, Anxiety, and Myth",
+      "date_start": "2009-02-15T00:00:00.000Z",
+      "date_end": "2009-04-26T00:00:00.000Z",
+      "venue": "The Art Institute of Chicago"
+    },
+    {
+      "exhibition": "Anna Ancher",
+      "date_start": "2020-02-07T00:00:00.000Z",
+      "date_end": "2020-05-23T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "Anna Ancher",
+      "date_start": "2020-06-12T00:00:00.000Z",
+      "date_end": "2020-10-17T00:00:00.000Z",
+      "venue": "Skagens Museum"
+    },
+    {
+      "exhibition": "Anna Ancher",
+      "date_start": "2020-11-26T00:00:00.000Z",
+      "date_end": "2021-01-31T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "Anna Ancher",
+      "date_start": "2021-03-13T00:00:00.000Z",
+      "date_end": "2021-08-15T00:00:00.000Z",
+      "venue": "Lillehammer Kunstmuseum"
+    },
+    {
+      "exhibition": "Anna Ancher",
+      "date_start": "2022-03-06T00:00:00.000Z",
+      "date_end": "2022-06-19T00:00:00.000Z",
+      "venue": "Museum Kunst der Westküste"
+    },
+    {
+      "exhibition": "Dreams of a summer night: Scandinavian painting at the turn of the century",
+      "date_start": "1986-07-10T00:00:00.000Z",
+      "date_end": "1986-10-05T00:00:00.000Z",
+      "venue": "Hayward Gallery"
+    },
+    {
+      "exhibition": "L'Arte delle Donne dal Rinascimento al Surrealismo",
+      "date_start": "2007-12-01T00:00:00.000Z",
+      "date_end": "2008-04-06T00:00:00.000Z",
+      "venue": "Palazzo Reale, Milano"
+    },
+    {
+      "exhibition": "Charlottenborgs Forårsudstilling 1957",
+      "date_start": "1957-01-01T00:00:00.000Z",
+      "date_end": "1957-12-31T00:00:00.000Z",
+      "venue": "Charlottenborg"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "Anna Ancher 1891.",
+      "type": "signature"
+    }
+  ],
+  "labels": [
+    {
+      "text": "Anna Anchers første udstillingsbillede forestillede to fattige originaler, Per og Stine Bollerhus. Flere år senere deltog hun i Stines begravelse og samlede sine indtryk i maleriet EN BEGRAVELSE. Som i de fleste af Anna Anchers billeder er der ingen, der forsøger at skabe øjenkontakt. Man kan derfor ubemærket finde sin plads og lade sig absorbere af den meditative ro. Stuen er fyldt med lys, der giver Ancher mulighed for at demonstrere sit koloristiske mesterskab i mødet mellem de blålige, rosa og grønne farver. Sammen med Theodor Philipsen betragtes Anna Ancher som den betydeligste impressionistiske maler i dansk kunst. Men i modsætning til de franske impressionister maler hun sine billeder fra periferien af det moderne liv: fra Skagen, Danmarks udkant, og snarere mod end med det hektiske, flygtige og øjebliks¬betonede.",
+      "type": "OTHERTEXT",
+      "source": "Peter Nørgaard Larsen"
+    },
+    {
+      "text": "Anna Ancher’s first exhibited painting showed two poor eccentrics, Per and Stine Bollerhus. Several years later she took part in Stine’s funeral and conveyed her impressions in A FUNERAL. As in most of Anna Ancher’s paintings, no-one seeks to establish eye contact. You can slip in unnoticed, becoming absorbed in the meditative calm. The room is filled with light, allowing Ancher to demonstrate her mastery of colour in the meeting between blues, pinks, and greens. Alongside Theodor Philipsen, Anna Ancher is regarded as the pre-eminent Danish Impressionist. In contrast to French Impressionists her images come from the margins of modern life: From Skagen, the remotest part of Denmark. She paints against – rather than with – all things hectic, fleeting, and ephemeral.",
+      "type": "OTHERTEXT",
+      "source": "Peter Nørgaard Larsen"
+    },
+    {
+      "text": "Anna Ancher betragtes som en af de betydeligste impressionistiske malere i dansk kunst. Hun maler sine billeder fra periferien af det moderne og undgår for det meste øjenkontakt, så vi som beskuere ubemærket kan afsøge rummet og lade os opsluge af det psykologiske rum. Anna Anchers første udstillingsbillede forestillede to fattige originaler, Per og Stine Bollerhus, på vej hjem fra Skagen Kirke. Flere år senere deltog hun i Stines begravelse og samlede sine indtryk i maleriet En begravelse, et hovedværk i hendes produktion.Maleriets motivSom i de fleste af Anna Anchers billeder er der ingen, som forsøger at skabe øjenkontakt. Man kan derfor ubemærket afsøge rummet, finde sin plads, og lade sig absorbere af den meditative ro. Den lavloftede stue er fyldt med lys, der giver Ancher mulighed for at demonstrere sit koloristiske mesterskab i mødet mellem de blålige, rosa og grønne farver, men som også symbolsk viser den gamle kone vej til en anden verden. Mellem realisme og symbolismeSom i mange samtidige værker udført på overgangen mellem realisme og symbolisme er henvisningen til en oversanselig eksistens ikke postuleret, men forbliver så virkelighedsnær, at den primært opleves som en psykologisk fortætning.En impressionistisk malerSammen med Theodor Philipsen (1840-1920) betragtes Anna Ancher som den betydeligste impressionistiske maler i dansk kunst. Men i modsætning til de franske impressionisters forbundethed med det moderne liv maler Ancher sine billeder fra periferien af det moderne: fra Skagen, Danmarks udkant, snarere mod end med det hektiske, flygtige og øjebliksbetonede.",
+      "type": "EXHIBITIONTEXT",
+      "source": "Peter Nørgaard Larsen"
+    },
+    {
+      "text": "Anna Ancher is regarded as one of the pre-eminent Impressionist painters within Danish art. She paints her works from the outskirts of modernity and tends to avoid eye contact; that way, spectators can explore the spaces created without feeling unobserved, becoming enveloped by the psychological and mental moods evoked in the work. Anna Ancher’s first exhibited work depicted two poor colourful characters, Per and Stine Bollerhus, going home from the church in Skagen. Several years later she attended Stine’s funeral and gathered her impressions in the painting A Funeral.The painting's motifAs in most of Anna Ancher’s pictures, no-one attempts to create eye contact. We are free to investigate the space unnoticed, find our place, and let ourselves be absorbed by the meditative calm. The low-ceilinged room is filled with light, allowing Anna Ancher an opportunity to demonstrate her mastery of colour in the meeting between the blue, pink, and green hues; colours that also serve a symbolic function in showing the old woman the road to another world. The transition between realism and symbolismAs in many other works from the time, created during a period of transition between realism and symbolism, the reference to a transcendental existence is not a postulate; it remains so much in touch with reality that it is primarily seen as a psychological condensation. An impressionistic painterAlong with Theodor Philipsen (1840-1920), Anna Ancher is regarded as the most important Impressionistic painter on the Danish art scene. But whereas the French Impressionists were intimately linked with modern life, Anna Ancher painted her paintings on the outskirts of the modern: from Skagen, the remotest part of Denmark, more opposed to than in tune with the hectic and the ephemeral.",
+      "type": "EXHIBITIONTEXT",
+      "source": "Peter Nørgaard Larsen"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Ancher, Anna",
+      "creator_forename": "Anna",
+      "creator_surname": "Ancher",
+      "creator_date_of_birth": "1859-08-18T00:00:00.000Z",
+      "creator_date_of_death": "1935-04-15T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "FEMALE",
+      "creator_history": "Anna Ancher demonstrerede fra sin tidligste ungdom et stærkt og særegent kunstnerisk talent. Hun havde det for kvinderne i sin generation sjældne held at blive opfordret til at udvikle sin tegnelyst, ikke blot af sin familie, men også af sin ti år ældre kammerat og senere ægtefælle. Foruden elementær undervisning hos Vilh. Kyhn fik hun nogen vejledning af Michael Ancher og andre skagensmalere, men var ikke egentlig modtagelig for skoling. En række mørke småbilleder fra 1870erne med et par gamle skagboer viser allerede hendes særlige evne for den karakterfulde, gerne humoristiske menneskeskildring. Med bl.a. Chr. Krohgs, F. Thaulows og Karl Madsens sommerophold på Skagen 1879 blev de ny franskinspirerede ideer om realisme /naturalisme i maleriet lanceret herhjemme. Den ukunstlede gengivelse af virkeligheden lå godt for A., der straks ved sin debut 1880 udstillede det realistiske Lars Gaihede snitter en pind, som vakte positiv opmærksomhed. A. bidrog nu aktivt til det moderne gennnembrud på lige fod med de danske og skandinaviske kunstnere, der gæstede Skagen de følgende somre. I gensidig inspiration udforskede de farvens muligheder i naturens blændende sommerlys og skabte en ny kunst, frigjort fra et litterært eller filosofisk indhold. Endnu før de 25 år var A. færdigdannet som kunstner. Hendes talent for den umiddelbare naturgengivelse kom fuldt til udtryk i Pigen i køkkenet 1883, der samtidig vidner om de stærke indtryk af hollandsk 1600- tals-kunst, hun modtog på sin første udenlandsrejse til Wien 1882, især fra Vermeer van Delft og Pieter de Hooch. Vedvarende inspiration hentede hun i den direkte visuelle oplevelse, som f. eks. solen over en væg eller gennem træer, varmedisen i en kornmark, et barn i modlys på heden, og hun fandt hos fiskerbefolkningen og i Skagens natur maleriske emner nok til et helt liv. Som typisk eksponent for 1880ernes kunstopfattelse er der hos A. intet væsentligt skel mellem skitser og færdige arbejder, ligesom hun kun sjældent viste interesse for store figurrige motiver. A.s tegninger og især de talrige efterladte olieskitser, som først gradvis er blevet kendt efter hendes død, viser hvordan hun til stadighed kredsede om de samme motiver, klit- og hedelandskaber, med personer eller uden, planter og blomsterbuketter. Lige så ofte var det livet i de små fiskerhuse, der optog hende: mor og barn, en familie ved bordbønnen, de arbejdende, de gamle, døden. De menneskelige relationer refererede hun fordringsløst, men gjorde det med en indlevelse af usædvanlig styrke. Hendes intuitive arbejdsform kan f. eks. ses i varianterne af motivet med den blinde kone i sin lysfyldte stue fra 1880erne. En vinters ophold i Paris 1889 ændrede intet afgørende i hendes kunst. Dog kan en større sikkerhed iagttages i Solskin i den blå stue 1891. Samtidig tog hun nu fat på større arbejder, En begravelse (forberedt gennem flere varianter og som hendes første arbejde solgt til det nuværende Statens Museum for Kunst), Vaccination 1899 og Et missionsmøde 1903, hvortil hun undtagelsesvis udførte forarbejder traditionelt af de enkelte lyttende kvinder, foruden en pastel i fuld størrelse. En særlig stilling i hendes produktion indtager de talrige tegnede og malede portrætter af moderen, fra omkring 1890 til hendes død 1916, en hyldest til både personen og til alderdommen. A. var først og fremmest kolorist, til stadighed optaget af farvens mangfoldighed i Skagens skarpe lys, hvor hendes arbejder også opleves bedst. I olieskitser, der til tider er forenklet til de blotte farvenotater, kunne hun med en for sin tid forbavsende dristighed og styrke gengive f.eks. en violet vej mellem rosa huse, eller hedens grøn-grå farverigdom. Med pastelkridt opnåede hun endnu større intensitet og kunne give selv konturløse blyantstegninger lysfylde. Motiver som f. eks. den rygvendte unge kvinde ved vinduet i hjemmets nordstue og den syende kvinde set i profil på baggrund af en solbeskinnet væg, genoptog hun gang på gang med årtiers mellemrum, hvilket vanskeliggør dateringen af hendes arbejder. I det sidstnævnte nærmer hun sig abstraktionen, men uden nogensinde at blive nonfigurativ. Af sine samtidige kammerater, også sin ægtefælle, blev A. behandlet på lige fod og var højt respekteret for sine kunstneriske evner. Hun blev også hurtigt anerkendt og var måske derfor ikke særlig ambitiøs, omend flittig som udstiller. A. anses nu for en af de bedste i sin generation og har ofte repræsenteret dansk kunst i udlandet.",
+      "creator_lref": "249_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1891-01-01T00:00:00.000Z",
+      "end": "1891-12-31T00:00:00.000Z",
+      "period": "1891"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "A Funeral",
+      "language": "engelsk"
+    }
+  ],
+  "notes": [
+    "Karl Madsens manuskript til katalog over Galleriets danske afdeling i Det kgl. biblioteks ny kgl. samling, 3577,40"
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS1433",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS1433",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS1433",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS1433",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS1433",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS1433",
+  "production_dates_notes": [
+    "Værkdatering: 1891"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": true,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/s7526h60n_KMS1433-framed.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/s7526h60n_KMS1433-framed.tif.jp2/info.json",
+      "width": 8124,
+      "height": 6062,
+      "size": 50956038.62068966,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/s7526h60n_KMS1433-framed.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/s7526h60n_KMS1433-framed.tif.jp2/full/full/0/native.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/n296x331t_kms1433.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/n296x331t_kms1433.tif.jp2/info.json",
+      "width": 4724,
+      "height": 3893,
+      "size": 19032787.586206898,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/n296x331t_kms1433.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/n296x331t_kms1433.tif.jp2/full/full/0/native.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/hd76s469m_kms1433_farvestyret_102019_crop.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/hd76s469m_kms1433_farvestyret_102019_crop.tif.jp2/info.json",
+      "width": 12231,
+      "height": 10056,
+      "size": 127247835.86206897,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/hd76s469m_kms1433_farvestyret_102019_crop.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/hd76s469m_kms1433_farvestyret_102019_crop.tif.jp2/full/full/0/native.jpg",
+      "orientation": "landscape"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/5712mc657_kms1433.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/5712mc657_kms1433.tif.jp2/info.json",
+  "image_width": 12592,
+  "image_height": 10388,
+  "image_size": 135324386,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/5712mc657_kms1433.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi81NzEybWM2NTdfa21zMTQzMy50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TMTQzMyIsIm51bSI6IiJ9XQ==/KMS1433.jpg",
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#222222",
+    "#0c0614",
+    "#101933",
+    "#956830",
+    "#f9aca5",
+    "#d3a7c4",
+    "#888888",
+    "#000000",
+    "#651c21"
+  ],
+  "suggested_bg_color": [
+    "#888888"
+  ],
+  "entropy": 9.782025,
+  "contrast": 3.0434508,
+  "saturation": 2.9122956,
+  "colortemp": 3.392194,
+  "brightness": 3.8360484,
+  "artist": [
+    "Anna Ancher"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "1170031382_object",
+  "created": "2020-03-21T14:31:17Z",
+  "modified": "2026-08-31T06:29:28Z",
+  "backside_protection": true,
+  "acquisition_date": "1981-01-01T00:00:00Z",
+  "acquisition_date_precision": "1981-12-31",
+  "dimensions": [
+    {
+      "notes": "1005 x 750 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "100.5"
+    },
+    {
+      "notes": "1005 x 750 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "75"
+    },
+    {
+      "notes": "1077 x 814 x 52 mm",
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "107.7"
+    },
+    {
+      "notes": "1077 x 814 x 52 mm",
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "81.4"
+    },
+    {
+      "notes": "1077 x 814 x 52 mm",
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "5.2"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Abildgaard=abildgård: kunstneren mellem oprørerne",
+      "author": "Patrick Kragelund",
+      "notes": "Ill. p. 189 (s/h). Omtales p. 190.",
+      "shelfmark": "2000-057",
+      "year_of_publication": "1999"
+    },
+    {
+      "title": "Goya & Italy",
+      "author": "Ubekendt",
+      "notes": "kat. nr. 124, ill. p. 222, omt. p. 223",
+      "shelfmark": "C 42684",
+      "year_of_publication": "2008"
+    },
+    {
+      "title": "Nicolai Abildgaard: Kroppen i oprør",
+      "author": "Thomas Lederballe",
+      "notes": "Afb. p. 195 og 245 (kat. 2). Katalogtekst p. 245.",
+      "shelfmark": "C 44316",
+      "year_of_publication": "2009"
+    },
+    {
+      "title": "Der Göttliche: Hommage an Michelangelo",
+      "author": "Georg Satzinger & Sebastian Schütze",
+      "notes": "afb. p. 170 (fig. 97), omt. p. 170",
+      "year_of_publication": "2015"
+    },
+    {
+      "title": "Sergel - Fantasi och verklighet",
+      "author": "Eva-Lena Bergström",
+      "notes": "afb. p. 132, kat. 340",
+      "year_of_publication": "2026"
+    },
+    {
+      "title": "Fantasy and Reality - The Art of Johan Tobias Sergel",
+      "author": "Eva-Lena Bergström",
+      "notes": "afb. p. 132, kat. 340",
+      "year_of_publication": "2026"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "“After Michelanglo. Michelangelo’s influence on European Art”",
+      "date_start": "2015-02-05T00:00:00.000Z",
+      "date_end": "2015-05-24T00:00:00.000Z",
+      "venue": "Bundes Kunsthalle, Bonn"
+    },
+    {
+      "exhibition": "Then from the sky, a banner should have fallen ... called Dannebrog",
+      "date_start": "2019-06-13T00:00:00.000Z",
+      "date_end": "2019-10-15T00:00:00.000Z",
+      "venue": "Kadriorg Art Museum / Art Museum of Estonia"
+    },
+    {
+      "exhibition": "Goya and Italy",
+      "date_start": "2008-05-29T00:00:00.000Z",
+      "date_end": "2008-09-15T00:00:00.000Z",
+      "venue": "Museo Zaragoza"
+    },
+    {
+      "exhibition": "Clinch!",
+      "date_start": "2004-04-01T00:00:00.000Z",
+      "date_end": "2004-11-28T00:00:00.000Z",
+      "venue": "SMK København"
+    },
+    {
+      "exhibition": "Awakening of Nations",
+      "date_start": "2021-09-16T00:00:00.000Z",
+      "date_end": "2021-11-21T00:00:00.000Z",
+      "venue": "Vytautas Kasiulis Art Museum, Vilnius"
+    },
+    {
+      "exhibition": "Sergel – Fantasy and Reality",
+      "date_start": "2026-02-19T00:00:00.000Z",
+      "date_end": "2026-08-06T00:00:00.000Z",
+      "venue": "Nationalmuseum, Stockholm"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Abildgaard, Nicolai",
+      "creator_forename": "Nicolai",
+      "creator_surname": "Abildgaard",
+      "creator_date_of_birth": "1743-09-11T00:00:00.000Z",
+      "creator_date_of_death": "1809-06-04T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Nicolai Abildgaard hørte allerede i læreårene på Akademiet hos Edv. Mandelberg og Johs. Wiedewelt om nyklassicismens patriarker, grev de Caylus, Rafael Mengs og J.J. Winckelmann. I 1771 vandt han Akademiets rejsestipendium, og lagde sig i Rom efter historiemaleriet i den store stil (Carracci, Rafael, Michelangelo, Giulio Romano og Tizian). I kredsen omkring billedhuggeren Tobias Sergel og maleren Johann Füssli modtog han impulser, der førte bort fra hans læreres klassicisme. A. udviklede her sin sans for det sublime i drama og poesi hos Shakespeare, Homer og Ossian. Hans arbejde med oldnordiske motiver fra Edda og Saxo foregreb de opgaver, der ventede derhjemme. Med Den sårede Filoktet placerede A. sig markant i før-romantikernes avantgarde, men Michelangelos patos fordunklede aldrig hans beundring for Rafaels \"disegno\". Natlige genfærd og drømmesyn befolker hans lærreder, men som oplysningsmand hyldede han samtidig idealerne om fornuftens forrang og kunstens opdragende mission. De krav til kunstnerens lærdom og filosofiske dannelse, som Winckelmann havde genfremsat, blev i vid udstrækning retningsgivende for A., der i allegorien og historiemaleriet så kunstens højeste udtryksform. Portrætter og landskaber var under den \"philosopherende Malers\" værdighed. I lighed med samtidige som Füssli og William Blake vendte A. konsekvent virkelighedsgengivelsen ryggen. Figurtegning og farve præges af en vidtgående og til tider bizar stilisering, selv efter 1790, da hans formsprog bliver mere klassicistisk. 1778 modtog A. bestillingen på 10 malerier af de Oldenborgske konger til Christiansborgs riddersal og fuldførte projektet i 1791. Ved slotsbranden 1794 gik næsten alt til grunde. Hvad der er bevaret, røber et overlegent greb om opgavens krav. Den hierarkiske rumfølge, der fra Potentatgemakkets Europa førte frem til riddersalens Danmark, var anlagt som én sammenhængende \"geographisk\" allegori. I pagt med tidens gryende nationale selvbevidsthed var nationen i selve riddersalen sidestillet med kongehuset. A. udførte flere mindre bestillinger, gravmæler, mindesten, vignetter og illustrationer. Til opførelsen af Johannes Ewalds Balders død (1779), leverede A. udkast til kostumer i oldnordisk stil. Uden for de britiske øer var han den første, der illustrerede Ossian. Samarbejdet med kobberstikkeren J.F. Clemens gjorde hans Sokrates og Ossian kendte, også uden for landets grænser. A. bidrog som kunstner til reformtidens samfundsdebat med en række anonymt udgivne satiriske stik fra 1785-87, igen s.m. Clemens. Ligesom illustrationerne til Holbergs Niels Klim er de højdepunkter inden for genren. Også A.s store bogsamling røber sympati for religiøse fritænkere og politisk reform. A. hilste den franske revolution med begejstring og søgte i 1789-90 at give den ny tids frihedsidealer en plads i riddersalens kongeserie, men skitsen Christian VII, der ophæver stavnsbåndet blev afvist. I 1791 blev maleren afskediget og udsmykningen af riddersalen indstillet. Samme forår offentliggjorde A. subskribtionsindbydelsen til Frihedsstøtten, hvis billedprogram han i alt væsentligt udarbejdede. Også medaljen om forbuddet mod slavehandelen blev finansieret ved offentlig subskription. Hans revolutionære sympatier kommer klart til udtryk i den allegoriske Jupiter, udstillet på Salonen 1794. Men nu var den politiske stemning vendt, og A. blev som kunstner i stigende grad isoleret. Han var dog fortsat aktiv i sit private atelier, men efter 1791 fuldførte han som maler ikke flere officielle opgaver. Med censurens genindførelse 1799 ophørte hans deltagelse i den offentlige debat. 1804 fik han bestilling på en serie malerier til tronsalen i det nye kongeslot, men kronprins Frederik ville ikke som maleren, og maleren ville ikke gå på akkord. Forbindelsen med hoffet opretholdt han dog i sine arbejder som arkitekt med udkast til møbler og rumdekorationer. Antikken blev i løbet af 1790erne en stadig vigtigere inspirationskilde. De to serier malerier med motiv fra skuespil af Voltaire og Terents blev A.s sidste store rumdekorationer. De var ikke bestemt for hoffet, men for et borgerhjem og malerens egne stuer, Terents-serien en brudegave til A.s anden hustru. Den indledte en række muntert erotiske arbejder, der vidner om en stor fortrolighed med den antikke kærlighedsdigtning. A. var for excentrisk til at danne skole, men for A.J. Carstens var han afgørende, og for Thorvaldsen mere end en mentor. A. blev en af den danske kunsts fædre, men hans idealer stod romantikken og naturalismen fjernt. I det 20. århundrede har et mere mangfoldigt kunstsyn mindsket afstanden.",
+      "creator_lref": "241_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1774-01-01T00:00:00.000Z",
+      "end": "1774-12-31T00:00:00.000Z",
+      "period": "1774"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "Male Figure. After Michelangelo's \"Last Judgement\" in the Sistine Chapel",
+      "notes": "Engelsk titel ifølge kataloget \"Ældre Dansk Malerkunst\" 2001",
+      "language": "engelsk"
+    }
+  ],
+  "microclimate_frame": true,
+  "number_of_parts": 1,
+  "object_number": "KMS7131",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS7131",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS7131",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS7131",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS7131",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS7131",
+  "production_dates_notes": [
+    "Værkdatering: (1774)",
+    "afsluttet: dokumenteret"
+  ],
+  "work_status": [
+    "copy"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/1r66j230w_KMSKMS7131.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/1r66j230w_KMSKMS7131.tif.jp2/info.json",
+      "width": 4096,
+      "height": 6144,
+      "size": 26044616.55172414,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/1r66j230w_KMSKMS7131.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/1r66j230w_KMSKMS7131.tif.jp2/full/full/0/native.jpg",
+      "orientation": "portrait"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/k930c119b_KMSKMS7131.tif.reconstructed.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/k930c119b_KMSKMS7131.tif.reconstructed.tif.jp2/info.json",
+  "image_width": 3462,
+  "image_height": 4754,
+  "image_size": 7912242,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/k930c119b_KMSKMS7131.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9rOTMwYzExOWJfS01TS01TNzEzMS50aWYucmVjb25zdHJ1Y3RlZC50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TNzEzMSIsIm51bSI6IiJ9XQ==/KMS7131.jpg",
+  "image_cropped": true,
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#593d1c",
+    "#ffcfa5"
+  ],
+  "suggested_bg_color": [
+    "#593d1c"
+  ],
+  "entropy": 9.787071,
+  "contrast": 2.475574,
+  "saturation": 5.1869893,
+  "colortemp": 5.398523,
+  "brightness": 3.8323863,
+  "artist": [
+    "Nicolai Abildgaard"
+  ]
+}

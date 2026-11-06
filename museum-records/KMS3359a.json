@@ -1,0 +1,174 @@
+{
+  "id": "1170091097_object",
+  "created": "2020-03-22T01:54:54Z",
+  "modified": "2026-11-02T09:37:11Z",
+  "current_location_name": "Sal 210A",
+  "current_location_date": "2018-07-13T00:00:00Z",
+  "acquisition_date": "1917-01-01T00:00:00Z",
+  "acquisition_date_precision": "1917-12-31",
+  "dimensions": [
+    {
+      "notes": "405 x 715 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "40.5"
+    },
+    {
+      "notes": "405 x 715 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "71.5"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Museets Nyerhvervelser af nederlandsk Kunst",
+      "author": "Karl Madsen",
+      "notes": "p. 103 (afb.), 106",
+      "shelfmark": "14836",
+      "year_of_publication": "1918"
+    },
+    {
+      "title": "To hollandske landskaber fra begyndelsen af det 17. Aarhunderede",
+      "author": "Jørgen Sthyr",
+      "notes": "p. 187",
+      "shelfmark": "15154",
+      "year_of_publication": "1934"
+    },
+    {
+      "title": "Ingeniør Rumps Gave til Kobberstiksamlingen",
+      "author": "Gustav Falck",
+      "notes": "p. 126",
+      "shelfmark": "2002-327",
+      "year_of_publication": "1917"
+    },
+    {
+      "title": "Studies on the rise of realistic landscape painting in Holland 1610-1625",
+      "author": "Åke Bengtsson",
+      "notes": "p. 73",
+      "shelfmark": "20452",
+      "year_of_publication": "1952"
+    },
+    {
+      "title": "Aanvullingen omtrent Pieter Post's werksaamheid als schilder",
+      "author": "S. J. Gulaugsson",
+      "notes": "p. 62, afb. p. 60: Pieter Post",
+      "shelfmark": "22318",
+      "year_of_publication": "1954"
+    },
+    {
+      "title": "Christian IV og Europa: den 19. Europarådsudstilling, Danmark 1988",
+      "author": "Steffen Heiberg",
+      "notes": "Olaf Koester, Christian IV og billedkunstens Europa, p. 334, kat. nr. 1078",
+      "shelfmark": "88-222",
+      "year_of_publication": "1988"
+    },
+    {
+      "title": "Nederlandsk landskabsmaleri i danske samlinger",
+      "author": "Jørgen Sthyr",
+      "notes": "11, 36 (afb. c. 1629-30)",
+      "shelfmark": "9910",
+      "year_of_publication": "1929"
+    },
+    {
+      "title": "Mindre Meddelelser - Gaver til Kunstmuseet",
+      "author": "Ubekendt",
+      "notes": "p. 158"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Christian IV og Europa : den 19. Europarådsudstilling",
+      "date_start": "1988-03-30T00:00:00.000Z",
+      "date_end": "1988-09-25T00:00:00.000Z",
+      "venue": "SMK København"
+    }
+  ],
+  "materials": [
+    "wood"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Post, Pieter Jansz.",
+      "creator_forename": "Pieter Jansz.",
+      "creator_surname": "Post",
+      "creator_date_of_birth": "1608-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1669-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_role": "attributed to",
+      "creator_lref": "38032_person"
+    },
+    {
+      "creator": "Velde, Esaias van de",
+      "creator_forename": "Esaias van de",
+      "creator_surname": "Velde",
+      "creator_date_of_birth": "1587-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1630-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_role": "earlier ascribed to",
+      "creator_lref": "2015_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1623-01-01T00:00:00.000Z",
+      "end": "1669-12-31T00:00:00.000Z",
+      "period": "1623-1669"
+    }
+  ],
+  "techniques": [
+    "Oil on panel"
+  ],
+  "titles": [
+    {
+      "title": "Landscape with Riders on a Sandy Road",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS3359a",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS3359a",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS3359a",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS3359a",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS3359a",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS3359a",
+  "production_dates_notes": [
+    "Værkdatering"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1600,
+  "image_height": 880,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/99d5f73e-7ba4-434f-9a65-d1448c5d752b.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/99d5f73e-7ba4-434f-9a65-d1448c5d752b.jpg",
+  "colors": [
+    "#888888",
+    "#191909",
+    "#777777",
+    "#382510",
+    "#956830"
+  ],
+  "suggested_bg_color": [
+    "#888888"
+  ],
+  "entropy": 9.790858,
+  "contrast": 3.0723348,
+  "saturation": 3.5644827,
+  "colortemp": 3.7389226,
+  "brightness": 5.66879,
+  "artist": [
+    "Pieter Jansz. Post"
+  ]
+}

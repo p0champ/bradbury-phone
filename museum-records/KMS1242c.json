@@ -1,0 +1,118 @@
+{
+  "id": "1170090906_object",
+  "created": "2020-03-22T01:51:25Z",
+  "modified": "2025-07-11T18:09:31Z",
+  "acquisition_date": "1769-01-01T00:00:00Z",
+  "acquisition_date_precision": "1868-12-31",
+  "dimensions": [
+    {
+      "notes": "760 x 620 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "76"
+    },
+    {
+      "notes": "760 x 620 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "62"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Møller, Andreas",
+      "creator_forename": "Andreas",
+      "creator_surname": "Møller",
+      "creator_date_of_birth": "1684-11-30T00:00:00.000Z",
+      "creator_date_of_death": "1752-01-01T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Andreas Møller malede både oliebilleder og miniaturer. Som miniaturemaler var han en foregangsmand, idet han som den første danskfødte kunstner brugte elfenben som malegrund (ca. 1714) og benyttede dette materiale, før det var almindeligt anvendt i det øvrige Europa. Også for udnyttelsen af materialets særlige virkninger havde han blik. Han har sandsynligvis lært anvendelsen ved at studere de 9 miniaturer af venezianske skønheder, som Frederik IV i 1709 havde købt af Rosalba Carriera, og som indtil 1716 fandtes på Rosenborg. Senere, under opholdet i Dresden og Italien, kan påvirkningen fra Rosalba Carriera være styrket, samtidig med at han blev påvirket af bl.a. Adam Manyocky, der var hofmaler hos August den Stærke. Både Christian VI og Sophie Magdalene lod sig male af M. i Dresden i forbindelse med deres bryllup 1721, og hun skal have haft direkte andel i, at han 1736 kom til Danmark. M. optræder hyppigt i de kongelige regnskaber fra 1738 til sommeren 1741 og har haft en betydelig indflydelse på den tids danske portrætkunst. Andreas Brünniche og P. Wichmann kopierede jævnligt hans portrætter, og danske miniaturemalere lærte gennem ham at bruge elfenben. Han og J.S. Wahl synes at have øvet nogen indflydelse på hinanden, og Christian VI betragtede dem som sine bedste portrætmalere på lige fod, men lod sig hyppigere male af Wahl.",
+      "creator_lref": "715_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1699-01-01T00:00:00.000Z",
+      "end": "1762-12-31T00:00:00.000Z",
+      "period": "1699-1762"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS1242c",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS1242c",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS1242c",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS1242c",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS1242c",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS1242c",
+  "production_dates_notes": [
+    "Værkdatering: 1699-1762",
+    "Påbegyndt: baseret på kunstnerens årstal afsluttet: baseret på kunstnerens årstal"
+  ],
+  "work_status": [
+    "part of a series"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "native": "https://api.smk.dk/api/v1/download/W3sicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNUzEyNDJjIiwibnVtIjoxfV0=/KMS1242c-1.jpg",
+      "cropped": [
+        "false"
+      ],
+      "orientation": "na"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/s1784r80v_KMS1242c.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/s1784r80v_KMS1242c.tif.jp2/info.json",
+  "image_width": 4018,
+  "image_height": 4870,
+  "image_size": 20250411,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/s1784r80v_KMS1242c.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9zMTc4NHI4MHZfS01TMTI0MmMudGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNUzEyNDJjIiwibnVtIjoiIn1d/KMS1242c.jpg",
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#000000",
+    "#555555",
+    "#666666",
+    "#ffffff",
+    "#777777",
+    "#dddddd"
+  ],
+  "suggested_bg_color": [
+    "#777777"
+  ],
+  "entropy": 8.867249,
+  "contrast": 4.983386,
+  "colortemp": 3.1102805,
+  "brightness": 2.8762972,
+  "titles": [
+    {
+      "title": "Dame med sort kappe over hovedet og maske i hånden",
+      "type": "museumstitel",
+      "language": "dansk"
+    }
+  ],
+  "artist": [
+    "Andreas Møller"
+  ]
+}

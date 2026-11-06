@@ -87,3 +87,8 @@ html,body{height:100%;background:#261f24}#space{height:100dvh;--reading-size:20p
 .reader-tools .reading-more{font-size:26px!important;padding-bottom:9px!important}
 .reader-footer{opacity:.75}
 .stars button.on{color:var(--accent)}
+
+/* New readings ready */
+#update-banner{position:absolute;z-index:60;left:28px;top:max(176px,calc(env(safe-area-inset-top) + 120px));min-height:44px;padding:0 18px;border-radius:22px;font-size:15px;color:var(--light);cursor:pointer}
+#update-banner[hidden]{display:none}
+.read-mode #update-banner{display:none}

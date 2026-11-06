@@ -1,0 +1,188 @@
+{
+  "id": "1170089730_object",
+  "created": "2020-03-22T01:35:04Z",
+  "modified": "2025-07-11T18:08:49Z",
+  "acquisition_date": "1932-01-01T00:00:00Z",
+  "acquisition_date_precision": "1932-12-31",
+  "dimensions": [
+    {
+      "notes": "815 x 1165 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "81.5"
+    },
+    {
+      "notes": "815 x 1165 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "116.5"
+    },
+    {
+      "notes": "919 x 1254 x 79 mm",
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "91.9"
+    },
+    {
+      "notes": "919 x 1254 x 79 mm",
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "125.4"
+    },
+    {
+      "notes": "919 x 1254 x 79 mm",
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "7.9"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Dansk kunst: tusind års kunsthistorie",
+      "author": "Hans Edvard Nørregård-Nielsen",
+      "notes": "afb. p. 411 og omt. p. 410-11",
+      "shelfmark": "2003-520",
+      "year_of_publication": "2003"
+    },
+    {
+      "title": "Ny dansk Billedkunst",
+      "author": "Niels Th. Mortensen",
+      "notes": "ill. p. 163, omt. 164",
+      "shelfmark": "25107",
+      "year_of_publication": "1957"
+    },
+    {
+      "title": "Billedvifte",
+      "author": "Grete Zahle",
+      "notes": "omt. p. 118",
+      "shelfmark": "98-416",
+      "year_of_publication": "1997"
+    },
+    {
+      "title": "Ny dansk kunsthistorie",
+      "author": "Ubekendt",
+      "notes": "bd. 4: Peter Michael Hornung, Realismen. København 1993, s. 254.",
+      "shelfmark": "D 22097",
+      "year_of_publication": "1993-1996"
+    },
+    {
+      "title": "Jens Birkholm: Fynbomaleren i Berlin",
+      "author": "Eva Frellesvig",
+      "notes": "fig. 60, afb. p. 99",
+      "year_of_publication": "2020"
+    },
+    {
+      "title": "Faaborg i blodet. Kunstnerkoloni 1880-1928.",
+      "author": "Gry Hedin",
+      "notes": "afb. p. 57. Fig. 5.",
+      "year_of_publication": "2019"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Fynboernes steder",
+      "date_start": "1996-10-12T00:00:00.000Z",
+      "date_end": "1997-01-12T00:00:00.000Z",
+      "venue": "Faaborg Museum"
+    },
+    {
+      "exhibition": "Faaborg i blodet – Kunstnerkoloni 1880-1928",
+      "date_start": "2019-05-11T00:00:00.000Z",
+      "date_end": "2019-10-27T00:00:00.000Z",
+      "venue": "Faaborg Museum"
+    },
+    {
+      "exhibition": "Fritz Syberg",
+      "date_start": "2010-06-18T00:00:00.000Z",
+      "date_end": "2010-09-28T00:00:00.000Z",
+      "venue": "Johannes Larsen Museet"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "Fritz Syberg 1890-92",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Syberg, Fritz",
+      "creator_forename": "Fritz",
+      "creator_surname": "Syberg",
+      "creator_date_of_birth": "1862-07-28T00:00:00.000Z",
+      "creator_date_of_death": "1939-12-20T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Fritz Sybergs fattige barndom og ungdom kvalte ikke drømmen om at blive maler. Samtidig med teoretisk undervisning i Faaborg og København fik han sin første kulturelle ballast i malermester Peter Syrak Hansens hjem i Faaborg. S. blev sammen med dennes søn Peter Hansen og studiekammeraten fra Zahrtmanns skole, Johannes Larsen fra Kerteminde, kendt som Fynboerne, samtidens fynske avant- garde. S. fulgte dansk landskabstradition med forbilleder som Dankvart Dreyer og P.C. Skovgaard. I tidlige værker mærkes påvirkningen fra Kr. Zahrtmanns stærke kolorit, kontrastfyldte farvesammensætninger og lysvirkninger. Han malede årets gang, vejrliget og livet, som det udfoldede sig på landet inde og ude. Denne trang til at beskrive tingene som de var, startede i 1907 den såkaldte Bondemalerstrid, der kort handlede om Fynboernes jordnære værker, som ikke faldt i en gruppe københavnske maleres smag, og med udgangspunkt i en småborgerlig indignation gik jagten ind i dagspressen på Bondemalerne, især S. og Peter Hansen. S. opfattede selv realismen som en dækkende stilbetegnelse for sine billeder. S.' stemningsmættede fortolkning af konfliktstof mellem kønnene behandles i monumentalmaleriet Aftenleg i Svanninge Bakker, hvor S. nærmer sig symbolismen. Kompositionen er på én gang stringent og følsom i liniespillet, kombineret med farvevirkninger, der kulminerer i horisonten. S. brugte skjult kunstig lyskilde i bl.a. Ved sengetid, hvor en mor betragter sit sovende barn, mens hun gør sig klar til at gå i seng, et tema, der i perioden ofte havde erotiske undertoner. S. behandlede det nyromantiske motiv usentimentalt og psykologisk set fængslende, ikke mindst på grund af lys- og skyggevirkningerne, der fremhæver noget og lader andet fortone sig. Farveændringer, opstået ved brydningen mellem dagslys og kunstigt lys, tog S. op i Dødsfald, et hovedværk med en realistisk visualisering af hans tragiske erindring om moderens død på fattiggården. S.' ægteskab med Anna Hansen, Peter Hansens søster, skabte med den hurtigt voksende børneflok nye motiver, for eksempel indendørs figurbilleder som Mor og datter, og i adskillige landskabsbilleder fortolkes egnen omkring Svanninge. Familien flyttede 1902 til omegnen af Kerteminde, hvor de nordfynske landskaber gav S. nye udfordringer. Stiftelsen i 1910 af Faaborg Museum gav Fynboerne både status, bedre økonomi og vægplads, og størstedelen af S.' omfattende produktion af malerier, akvareller, tegninger og grafik findes der. Sideløbende med maleriet tegnede S. med pen og blyant. Motiverne fulgte i store træk maleriernes, men et hovedværk er 18 store pennetegninger til H.C. Andersens Historien om en moder. Familie og venner blev brugt som modeller og interiører og landskaber taget fra hjemmet i Svanninge og den nærmeste omegn, hvilket giver motiverne en hverdagsagtig karakter. Under Italiensopholdet med familien fra 1910-13 malede S. udelukkende akvareller, enten med vandfarver alene eller i lighed med Johannes Larsen som akvarellerede pennetegninger. Først 1916 genoptog han oliemaleriet, tilskyndet af Annas søster Marie, der efter Annas død blev S.' anden hustru, og svigersønnen Harald Giersing. En ny fase indtrådte i denne periode, hvor billeder som Selvportræt fra 1916, landskabet Over Kærby Bakke og Ved morgenkaffen indvarsler modernismen i hans kunst. S. formidlede livet igennem det han så, men var åben over for et nyt billedsyn, hvor vægten i højere grad blev lagt på de æstetiske værdier end på virkelighedsgengivelse.",
+      "creator_lref": "1021_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1890-01-01T00:00:00.000Z",
+      "end": "1892-12-31T00:00:00.000Z",
+      "period": "1890-1892"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "At a Deathbed",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS3965",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS3965",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS3965",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS3965",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS3965",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS3965",
+  "production_dates_notes": [
+    "Værkdatering: 1890-1892"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1600,
+  "image_height": 1127,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/11861d6a-4780-42bd-a3fc-89fe44dcc134.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/11861d6a-4780-42bd-a3fc-89fe44dcc134.jpg",
+  "colors": [
+    "#191909",
+    "#5a5527",
+    "#795025",
+    "#33140c",
+    "#593d1c",
+    "#111111",
+    "#555555"
+  ],
+  "suggested_bg_color": [
+    "#795025"
+  ],
+  "entropy": 9.781333,
+  "contrast": 1.5714729,
+  "saturation": 5.4288473,
+  "colortemp": 5.76008,
+  "brightness": 3.5278592,
+  "artist": [
+    "Fritz Syberg"
+  ]
+}

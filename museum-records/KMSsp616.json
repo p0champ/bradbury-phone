@@ -1,0 +1,165 @@
+{
+  "id": "1170026287_object",
+  "created": "2020-03-21T13:30:01Z",
+  "modified": "2025-07-11T17:37:50Z",
+  "collection": [
+    ""
+  ],
+  "acquisition_date": "1700-01-01T00:00:00Z",
+  "acquisition_date_precision": "1700-12-31",
+  "dimensions": [
+    {
+      "notes": "1640 x 1100 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "164"
+    },
+    {
+      "notes": "1640 x 1100 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "110"
+    },
+    {
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "187.5"
+    },
+    {
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "134.2"
+    },
+    {
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "9"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Beschreibendes und kritisches Verzeichnis der Werke der hervorragendsten Holländischen Maler des XVII Jahrhunderts",
+      "author": "Cornelis Hofstede de Groot",
+      "notes": "vol. V (1912) nr. 15",
+      "shelfmark": "2119",
+      "year_of_publication": "1907-28"
+    },
+    {
+      "title": "Det kongelige danske Kunstkammer 1737",
+      "author": "Bente Gundestrup",
+      "notes": "vol. I: 11 nr. 641/5 ill.",
+      "shelfmark": "91-342",
+      "year_of_publication": "1991"
+    },
+    {
+      "title": "Godfried Schalcken",
+      "author": "Thierry Beherman",
+      "notes": "p. 84 kat. 5 (farveill.)",
+      "shelfmark": "C 17949 B",
+      "year_of_publication": "1988"
+    },
+    {
+      "title": "Schalcken: Kunstenaar van het verleiden",
+      "author": "Anja K. Sevcik",
+      "notes": "afb. p. 278. omt. p. 279",
+      "year_of_publication": "2016"
+    },
+    {
+      "title": "Schalcken - Gemalte Verführung",
+      "author": "Anja Sevcik",
+      "notes": "afb. p. 278. omt. p. 279",
+      "year_of_publication": "2016"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Glanz und Glamour, Godefriuds Schalcken",
+      "date_start": "2015-09-24T00:00:00.000Z",
+      "date_end": "2016-01-19T00:00:00.000Z",
+      "venue": "Wallraf-Richartz-Museum, Köln"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "G. Schalcken",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Schalcken, Godfried",
+      "creator_forename": "Godfried",
+      "creator_surname": "Schalcken",
+      "creator_date_of_birth": "1643-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1706-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_history": "Godfried Schalcken opholdt sig måske aldrig i København, og i bestallingen nævnes ikke løn, men privilegier som andre hofbetjente. S. videreførte traditionen med små intime natstykker, ofte af lidt koket genreagtigt indhold, som Gerrit Dou havde gjort populære. Gennem sine forsøg som historiemaler frigjorde S. sig dog mere og mere fra sine læreres indflydelse. Der blev allerede i kunstnerens levetid indkøbt arbejder til de kongelige samlinger på Rosenborg og Kunstkammeret. Kunsthandleren Gerhard Morell, der fra 1759 var kunstkammerforvalter, indkøbte bl.a. Den bodfærdige Marie Magdalene til Fredensborg Slot i 1760.",
+      "creator_lref": "1920_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1600-01-01T00:00:00.000Z",
+      "end": "1699-12-31T00:00:00.000Z",
+      "period": "1600-1699"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "The Holy Family",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMSsp616",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSsp616",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMSsp616",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSsp616",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSsp616",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSsp616",
+  "production_dates_notes": [
+    "Værkdatering: Før 1700"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1095,
+  "image_height": 1599,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/09da4ea3-ec6a-4e59-9446-be95cbba8935.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/09da4ea3-ec6a-4e59-9446-be95cbba8935.jpg",
+  "colors": [
+    "#222222",
+    "#908d41",
+    "#593d1c"
+  ],
+  "suggested_bg_color": [
+    "#908d41"
+  ],
+  "entropy": 9.221634,
+  "contrast": 2.5579255,
+  "saturation": 1.240918,
+  "colortemp": 3.8388085,
+  "brightness": 3.4452863,
+  "artist": [
+    "Godfried Schalcken"
+  ]
+}

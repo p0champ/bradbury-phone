@@ -1,0 +1,130 @@
+{
+  "id": "1170090155_object",
+  "created": "2020-03-22T01:40:38Z",
+  "modified": "2025-07-11T18:09:03Z",
+  "acquisition_date": "1980-01-01T00:00:00Z",
+  "acquisition_date_precision": "1980-12-31",
+  "dimensions": [
+    {
+      "notes": "302 x 237 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "30.2"
+    },
+    {
+      "notes": "302 x 237 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "23.7"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Restaureringsbilleder : en udstilling om bevaring og undersøgelse af ældre kunst : maleri",
+      "date_start": "1984-09-01T00:00:00.000Z",
+      "date_end": "1984-11-18T00:00:00.000Z",
+      "venue": "SMK København"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "fntv: J Juel pinxit Hamburg 1764.",
+      "type": "Inscription"
+    }
+  ],
+  "materials": [
+    "wood"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Juel, Jens",
+      "creator_forename": "Jens",
+      "creator_surname": "Juel",
+      "creator_date_of_birth": "1745-05-12T00:00:00.000Z",
+      "creator_date_of_death": "1802-12-27T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Jens Juels bevarede malerier fra Hamburgtiden viser, at han har studeret den nordtyske kunst, (bl.a. Balth. Denner, J.H. Tischbein og Th. Stein), og hollandske malere (van der Neer og Jan van Huysum). Under akademitiden i København modtog han påvirkning, først og fremmest fra Carl Gustav Pilo og Louis Tocqué, førstnævntes farvesans, sidstes præcise portrætstil, men også Cornelius Høyer og, i mindre grad, Peder Als har haft betydning for ham ligesom adgangen til A.G. Moltkes og den kongelige malerisamling. Historiemaleri dyrkede han, som det synes, nødtvungent og med mindre held. Efter flere forgæves forsøg vandt han guldmedaljen i 1771, men det dermed forbundne rejsestipendium fik han ikke. I stedet modtog han 1772 fra en anonym kreds af private 400 rigsdaler årligt i 4 år til en studierejse. Nu vendte han for bestandig historiemaleriet ryggen. Under rejsen modtog han indtryk fra Anton Graffs portrætkunst i Dresden, Selvportrættet 1773-74 og den ukendte dame i Eremitagen. Af Pompeo Battoni i Rom, af Duplessis og anden fransk portrætkunst i Paris, Otto Blome, Charles Bonnet og af Jean Étienne Liotard i Genève, Suzanne de la Rive og Mathilde de Prangins. Også engelsk portrætkunst har han, formentlig i Schweiz, stiftet bekendtskab med. Personerne er siden Schweizerårene oftere gengivet med landskabsbaggrund, og gruppeportrætter er til tider formet som Conversation Pieces. Karakteristisk for ham var hans receptivitet, men samtidig hans sans for det ægte og naturlige kunstneriske udtryk, der fik ham til, trods alle påvirkninger udefra, at forblive sig selv. Hans portrætkunst efter hjemkomsten indeholder forbavsende mange højdepunkter. Af særlig interesse er hans store kompositioner af to eller flere personer, nogle i legemsstørrelse. Allerede inden rejsen, det Reventlowske dobbeltportræt (1772), flere efter 1787, kulminerende i de Rabenske og Rybergske familiebilleder (1796 og 1797), og det mindre, men fremragende af fru Neergaard med sønnen Henrik. J.s portrætter var af samtiden anset for at have god lighed. Denne har formentlig, især hvad angår kvindeportrætter, været flatterende; karikaturer indlod han sig sjældent på. En særlig evne havde han for at male børns rene og åbne ansigter. Til flere af hans portrætter er der bevaret tegnede detailstudier udført i sortkridt, gjort med stor følsomhed. Fra 1780erne og med større og større hyppighed i løbet af 1790erne malede han pasteller, også her med fremragende resultat. Årene i Schweiz vakte på ny den lyst, han havde haft i de unge år til at male landskaber, dels schweiziske motiver og store, dramatiske naturscenerier, som han også udførte efter hjemkomsten, dels stemningsrige billeder af fynsk og sjællandsk natur. Ved disse blev han en foregangsmand for skildringen af det danske landskab. At J. kunne imødekomme de krav, der stilledes ham fra den store kundekreds, der foruden hoffet og adelen indbefattede den florissante periodes matadorer, skyldtes hans lethed ved at arbejde, og at han havde medhjælp i sit atelier, først Chr. Rafn, senere Herman Koefoed. Hans kunst blev et grundlag for den blomstring i den dansk-norske kunst, som indtraf i det 19. århundrede med bl.a. C.W. Eckersberg og I.C. Dahl.",
+      "creator_lref": "1092_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1764-01-01T00:00:00.000Z",
+      "end": "1764-12-31T00:00:00.000Z",
+      "period": "1764"
+    }
+  ],
+  "techniques": [
+    "Oil on panel"
+  ],
+  "titles": [
+    {
+      "title": "Kitchen Interior with a Girl Reading",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS7100",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS7100",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS7100",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS7100",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS7100",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS7100",
+  "production_dates_notes": [
+    "Værkdatering: 1764"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/8k71nh87j_kms7100.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/8k71nh87j_kms7100.tif.jp2/info.json",
+      "width": 3878,
+      "height": 5268,
+      "size": 21144631.724137932,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/8k71nh87j_kms7100.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/8k71nh87j_kms7100.tif.jp2/full/full/0/native.jpg",
+      "orientation": "portrait"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/3j333629n_KMS7100_crop.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/3j333629n_KMS7100_crop.tif.jp2/info.json",
+  "image_width": 3469,
+  "image_height": 4366,
+  "image_size": 15677456,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/3j333629n_KMS7100_crop.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi8zajMzMzYyOW5fS01TNzEwMF9jcm9wLnRpZi5qcDIvZnVsbC9mdWxsLzAvbmF0aXZlLmpwZyIsInB1YmxpY19kb21haW4iOnRydWUsIm9iamVjdF9udW1iZXIiOiJLTVM3MTAwIiwibnVtIjoiIn1d/KMS7100.jpg",
+  "image_cropped": true,
+  "image_orientation": "portrait",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#111111",
+    "#222222",
+    "#000000",
+    "#77733d"
+  ],
+  "suggested_bg_color": [
+    "#77733d"
+  ],
+  "entropy": 9.726905,
+  "contrast": 1.4505913,
+  "saturation": 3.2575488,
+  "colortemp": 4.328692,
+  "brightness": 1.8576462,
+  "artist": [
+    "Jens Juel"
+  ]
+}

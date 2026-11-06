@@ -1,0 +1,167 @@
+{
+  "id": "1170014718_object",
+  "created": "2020-03-21T11:17:18Z",
+  "modified": "2025-07-11T17:32:40Z",
+  "current_location_name": "Sal 221",
+  "current_location_date": "2024-10-07T00:00:00Z",
+  "acquisition_date": "1924-01-01T00:00:00Z",
+  "acquisition_date_precision": "1924-12-31",
+  "dimensions": [
+    {
+      "notes": "370 x 395 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "37"
+    },
+    {
+      "notes": "370 x 395 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "39.5"
+    },
+    {
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "49.8"
+    },
+    {
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "52.7"
+    },
+    {
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "7.4"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "\"Danish Golden Age\" Petit Palais",
+      "date_start": "2020-04-27T00:00:00.000Z",
+      "date_end": "2020-08-25T00:00:00.000Z",
+      "venue": "Petit Palais"
+    },
+    {
+      "exhibition": "Dansk guldålder / The Danish Golden Age",
+      "date_start": "2019-02-28T00:00:00.000Z",
+      "date_end": "2019-07-21T00:00:00.000Z",
+      "venue": "Nationalmuseum, Stockholm"
+    },
+    {
+      "exhibition": "Dansk Guldalder: Verdenskunst mellem to katastrofer",
+      "date_start": "2019-08-24T00:00:00.000Z",
+      "date_end": "2019-12-08T00:00:00.000Z",
+      "venue": "SMK København"
+    }
+  ],
+  "materials": [
+    "canvas",
+    "Paper"
+  ],
+  "object_names": [
+    {
+      "name": "Painting",
+      "classification_notes": "pllp"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Hansen, Constantin",
+      "creator_forename": "Constantin",
+      "creator_surname": "Hansen",
+      "creator_date_of_birth": "1804-11-03T00:00:00.000Z",
+      "creator_date_of_death": "1880-03-29T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Constantin Hansen blev født i Rom og døbt i Wien, hvor han blev opkaldt efter gudmoderen, Mozarts enke, Constance Nissen. Som barn prægedes han af faderens holdning til malerens opgaver og kald, og samtidig lærte han ham at tegne. Tolv år gammel blev han optaget på Kunstakademiets bygningsskole, for at uddanne sig som arkitekt. Disse første år påvirkede resten af hans livsværk. De blev grundlaget for hans sikre og logiske kompositioner og veldefinerede rumgengivelse, da han i 1825 skiftede til malerkunsten. Han malede adskillige portrætter under indtryk af faderen og dennes store forbillede Jens Juel, men med søstrene som motiv udviklede han allerede i 1825-27 en selvstændig sans for formens og farvens samspil. I 1828 døde forældrene og en søster af tyfus. Han selv overlevede og boede derefter sammen med Heinrich Eddelien og Jørgen Roed ved Frederiksholms Kanal, et samlingssted for bl.a. Marstrand, Købke, Gurlitt og Bindesbøll. Han knyttede sig til C.W. Eckersberg, og dennes fortrin som lærer kan umiddelbart aflæses af H.s arkitekturmalerier. I 1835 rejste han sammen med medaljør F.C. Krohn gennem Tyskland til Italien. Han besøgte I.C. Dahl i Dresden og gjorde ophold i München. H. rejste ud for at studere arkitekturmaleriet og malede under hele sit ophold i Rom motiver, inspireret af Eckersbergs veduter. Han havde stor forståelse for de arkitektoniske kvaliteter, lyset og den sydlandske atmosfære og understregede det historiske perspektiv ved at fremhæve oldtidens nærhed i den samtidige italienske hverdag. Han hjemsendte i 1838 Et selskab af danske kunstnere i Rom. Motivet repræsenterer flere genrer, både gruppe- og venskabsportrættet og en figurkomposition, som antyder, at han trods erfaringerne fra guldmedaljekonkurrencerne ikke havde opgivet at komponere og male mere krævende opgaver. I Pæstum malede han nogle studier, der peger frem mod friluftsmaleriet i slutningen af det 19. århundrede. Under opholdet i Napoli oplevede han de solbrune fiskerdrenge som levende eksempler på antikke skulpturer, og mens han studerede pompejanske vægmalerier med Hilker og tog til Capri med Købke, forberedte han sin hidtil mest ambitiøse komposition, Scene fra Molo'en ved Napoli. I Rom havde H. og Hilker udarbejdet et forslag til udsmykningen af Københavns Universitets forhal. Det blev approberet i 1843, og i de følgende ti år skabte Hilker og H. den mest helstøbte al fresko udsmykning i Norden i nyere tid, både hvad angår indhold og form. H. sikrede, at den arkitektoniske ramme, Bissens skulpturer og den malede udsmyknings billeder og dekoration indgik i et harmonisk hele. Her demonstrerede han i praksis den ideelle fordring, han senere beskrev i artiklen om De \"skjönne\" Kunsters Enhed. Udsmykningen er aldrig blevet værdsat efter fortjeneste, bl.a. fordi interessen for de græske guder veg til fordel for de nordiske, som han også selv var optaget af. H. malede et stort antal portrætter, mange af høj kvalitet, fordi han formåede at tilpasse sin sikre formsans og farveholdning til sin fortolkning af de personlige karaktertræk. I Den grundlovgivende rigsforsamling kombinerede han gruppeportrættet med figurkompositionen, udført i historiemaleriets format med alle forgrundens personer i mere end naturlig størrelse, for at udtrykke forventningen til det danske demokrati. H. var alsidigt orienteret og som sådan arvtager af N.J. Abildgaards nyklassicistiske idealer, men han dyrkede også de uprætentiøse motiver fra hjemmet. Med følsomhed ophøjede han kærligheden mellem moder og barn til indbegrebet af den jordiske og himmelske kærlighed. Disse små billeder er karakteristiske for hele hans virke, idet det var hans mål at tydeliggøre den indre sandhed ved hjælp af den ydre virkelighed.",
+      "creator_lref": "181_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1845-01-01T00:00:00.000Z",
+      "end": "1845-12-31T00:00:00.000Z",
+      "period": "1845"
+    }
+  ],
+  "techniques": [
+    "Oil on paper, mounted on canvas"
+  ],
+  "titles": [
+    {
+      "title": "Prometheus Moulding Man from Clay",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS3665",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS3665",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS3665",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS3665",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS3665",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS3665",
+  "production_dates_notes": [
+    "Værkdatering: (1845)",
+    "afsluttet: dokumenteret"
+  ],
+  "work_status": [
+    "study"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": true,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/sb397c528_kms3665.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/sb397c528_kms3665.tif.jp2/info.json",
+      "width": 2362,
+      "height": 2184,
+      "size": 10681720,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/sb397c528_kms3665.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/sb397c528_kms3665.tif.jp2/full/full/0/native.jpg",
+      "cropped": [
+        "true"
+      ],
+      "orientation": "landscape"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/vt150n406_kms3665-cropped.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/vt150n406_kms3665-cropped.tif.jp2/info.json",
+  "image_width": 2234,
+  "image_height": 2127,
+  "image_size": 9839750,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/vt150n406_kms3665-cropped.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi92dDE1MG40MDZfa21zMzY2NS1jcm9wcGVkLnRpZi5qcDIvZnVsbC9mdWxsLzAvbmF0aXZlLmpwZyIsInB1YmxpY19kb21haW4iOnRydWUsIm9iamVjdF9udW1iZXIiOiJLTVMzNjY1IiwibnVtIjoiIn1d/KMS3665.jpg",
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#a7aad0",
+    "#888888",
+    "#77221d",
+    "#77733d",
+    "#3a351f",
+    "#ee796b",
+    "#999999"
+  ],
+  "suggested_bg_color": [
+    "#888888"
+  ],
+  "entropy": 9.789115,
+  "contrast": 3.249335,
+  "saturation": 3.0241463,
+  "colortemp": 3.6498744,
+  "brightness": 5.7967033,
+  "artist": [
+    "Constantin Hansen"
+  ]
+}

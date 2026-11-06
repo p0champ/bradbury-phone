@@ -1,0 +1,173 @@
+{
+  "id": "1170091150_object",
+  "created": "2020-03-22T01:56:01Z",
+  "modified": "2025-07-11T18:09:40Z",
+  "collection": [
+    ""
+  ],
+  "acquisition_date": "1810-01-01T00:00:00Z",
+  "acquisition_date_precision": "1810-12-31",
+  "dimensions": [
+    {
+      "notes": "475 x 625 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "47.5"
+    },
+    {
+      "notes": "475 x 625 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "62.5"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Fortegnelse over den Bodendickske malerisamling: nu Hs. Maj. Kongen tilhørende",
+      "author": "Niels Henrich Weinwich",
+      "notes": "p. 5, 31 nr. 108",
+      "shelfmark": "10290",
+      "year_of_publication": "1825"
+    },
+    {
+      "title": "Herman Saftleven 1609-1685: Leben und Werke mit einem kritischen Katalog der Gemälde und Zeichnungen",
+      "author": "Wolfgang Schulz",
+      "notes": "p. 239 (kat. nr. 687)",
+      "shelfmark": "65151",
+      "year_of_publication": "1982"
+    },
+    {
+      "title": "Dutch still-life painting from the 16th to the 18th centuries in Danish collections",
+      "author": "Poul Gammelbo",
+      "notes": "nr. 17 (afb.)",
+      "shelfmark": "91-136",
+      "year_of_publication": "1960"
+    },
+    {
+      "title": "Billeder af gammel Kunst udstillede i Kunstforeningen i København",
+      "author": "Ubekendt",
+      "notes": "nr. 97",
+      "year_of_publication": "1896, oktober"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "Billeder af gammel kunst udstillede i Kunstforeningen 1896",
+      "date_start": "1896-01-01T00:00:00.000Z",
+      "date_end": "1896-12-31T00:00:00.000Z",
+      "venue": "Kunstforeningen"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "Auktion 27. aug. 1760 Haagno. 133 som K. Saftleven",
+      "description": "på en seddel",
+      "type": "Inscription"
+    }
+  ],
+  "materials": [
+    "wood"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Saftleven, Cornelis",
+      "creator_forename": "Cornelis",
+      "creator_surname": "Saftleven",
+      "creator_date_of_birth": "1607-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1681-01-01T00:00:00.000Z",
+      "creator_nationality": "Dutch",
+      "creator_gender": "MALE",
+      "creator_lref": "1911_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1622-01-01T00:00:00.000Z",
+      "end": "1681-12-31T00:00:00.000Z",
+      "period": "1622-1681"
+    }
+  ],
+  "techniques": [
+    "Oil on panel"
+  ],
+  "titles": [
+    {
+      "title": "Interior of a Kitchen",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMSst289",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSst289",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMSst289",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSst289",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSst289",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSst289",
+  "production_dates_notes": [
+    "Værkdatering"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "alternative_images": [
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/jw827b74h_pc4_02-01-06____003.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/jw827b74h_pc4_02-01-06____003.tif.jp2/info.json",
+      "width": 3178,
+      "height": 2391,
+      "size": 7869801.379310345,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/jw827b74h_pc4_02-01-06____003.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/jw827b74h_pc4_02-01-06____003.tif.jp2/full/full/0/native.jpg",
+      "orientation": "landscape"
+    },
+    {
+      "mime_type": "image/tiff",
+      "iiif_id": "https://iip.smk.dk/iiif/jp2/0g354h321_pc4_-_02-01-06_-_003.tif.reconstructed.tif.jp2",
+      "iiif_info": "https://iip.smk.dk/iiif/jp2/0g354h321_pc4_-_02-01-06_-_003.tif.reconstructed.tif.jp2/info.json",
+      "width": 2911,
+      "height": 2209,
+      "size": 2926558.620689655,
+      "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/0g354h321_pc4_-_02-01-06_-_003.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+      "native": "https://iip.smk.dk/iiif/jp2/0g354h321_pc4_-_02-01-06_-_003.tif.reconstructed.tif.jp2/full/full/0/native.jpg",
+      "cropped": [
+        "true"
+      ],
+      "orientation": "landscape"
+    }
+  ],
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/nz8061158_KMSST289.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/nz8061158_KMSST289.tif.jp2/info.json",
+  "image_width": 2583,
+  "image_height": 1960,
+  "image_size": 5246594,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/nz8061158_KMSST289.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9uejgwNjExNThfS01TU1QyODkudGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNU3N0Mjg5IiwibnVtIjoiIn1d/KMSst289.jpg",
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#382510",
+    "#b97438"
+  ],
+  "suggested_bg_color": [
+    "#b97438"
+  ],
+  "entropy": 9.78236,
+  "contrast": 1.2917566,
+  "saturation": 6.84835,
+  "colortemp": 7.248483,
+  "brightness": 4.460815,
+  "artist": [
+    "Cornelis Saftleven"
+  ]
+}

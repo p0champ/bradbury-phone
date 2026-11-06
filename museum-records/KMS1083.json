@@ -1,0 +1,178 @@
+{
+  "id": "1170090419_object",
+  "created": "2020-03-22T01:44:35Z",
+  "modified": "2025-07-11T18:09:14Z",
+  "acquisition_date": "1876-01-01T00:00:00Z",
+  "acquisition_date_precision": "1876-12-31",
+  "dimensions": [
+    {
+      "notes": "1445 x 2060 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "144.5"
+    },
+    {
+      "notes": "1445 x 2060 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "206"
+    },
+    {
+      "notes": "1688 x 2311 x 121 mm",
+      "part": "Brutto",
+      "type": "height",
+      "unit": "cm",
+      "value": "168.5"
+    },
+    {
+      "notes": "1688 x 2311 x 121 mm",
+      "part": "Brutto",
+      "type": "width",
+      "unit": "cm",
+      "value": "230.8"
+    },
+    {
+      "notes": "1688 x 2311 x 121 mm",
+      "part": "Brutto",
+      "type": "depth",
+      "unit": "cm",
+      "value": "12.3"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Otto Bache: 1839-1927",
+      "author": "Hanne Pedersen",
+      "notes": "omt. p. 24, ill. p. 53",
+      "shelfmark": "D 42577",
+      "year_of_publication": "2009"
+    },
+    {
+      "title": "Vildt nok. Jagt i dansk kunst",
+      "author": "Tine Nielsen Fabienke",
+      "notes": "p. 45",
+      "year_of_publication": "2023"
+    }
+  ],
+  "exhibitions": [
+    {
+      "exhibition": "OTTO BACHE - Jagt og dyremotiver",
+      "date_start": "2009-10-31T00:00:00.000Z",
+      "date_end": "2009-12-13T00:00:00.000Z",
+      "venue": "Rønnebæksholm"
+    },
+    {
+      "exhibition": "OTTO BACHE - Jagt og dyremotiver",
+      "date_start": "2010-01-15T00:00:00.000Z",
+      "date_end": "2010-05-01T00:00:00.000Z",
+      "venue": "Randers Kunstmuseum"
+    },
+    {
+      "exhibition": "På jagt. Mennesker, dyr og landskaber i dansk kunst fra 1800 til nu",
+      "date_start": "2023-06-17T00:00:00.000Z",
+      "date_end": "2023-09-10T00:00:00.000Z",
+      "venue": "Ribe Kunstmuseum"
+    },
+    {
+      "exhibition": "På jagt. Mennesker, dyr og landskaber i dansk kunst fra 1800 til nu",
+      "date_start": "2023-10-05T00:00:00.000Z",
+      "date_end": "2024-01-07T00:00:00.000Z",
+      "venue": "Fuglsang Kunstmuseum"
+    },
+    {
+      "exhibition": "På jagt. Mennesker, dyr og landskaber i dansk kunst fra 1800 til nu",
+      "date_start": "2024-01-27T00:00:00.000Z",
+      "date_end": "2024-05-20T00:00:00.000Z",
+      "venue": "Faaborg Museum"
+    },
+    {
+      "exhibition": "På jagt. Mennesker, dyr og landskaber i dansk kunst fra 1800 til nu",
+      "date_start": "2024-06-01T00:00:00.000Z",
+      "date_end": "2024-09-22T00:00:00.000Z",
+      "venue": "Skovgaard Museet i Viborg"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "Otto Bache 1876",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "canvas"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Bache, Otto",
+      "creator_forename": "Otto",
+      "creator_surname": "Bache",
+      "creator_date_of_birth": "1839-08-21T00:00:00.000Z",
+      "creator_date_of_death": "1927-06-28T00:00:00.000Z",
+      "creator_nationality": "Danish",
+      "creator_gender": "MALE",
+      "creator_history": "Otto Bache viste tidligt usædvanligt store evner for tegning og blev 10 år gammel optaget på Akademiet. Det var hans mål at blive portræt- og genremaler. B. lagde ud med nationalromantiske skildringer af almuen i Exners og Vermehrens stil. De tidlige genrebilleder har ofte et anekdotisk indhold, som Husdyr i en bondegård, der 1863 indbragte B. Neuhausens Præmie, og Scene ved indkørslen til Klampenborg, hvor borgerskabet og arbejderklassen konfronteres. Efter at have opnået Akademiets rejsestipendium valgte B. dristigt og utraditionelt en rejserute, der indledtes i Holland og Belgien, hvor B. bl.a. stiftede bekendtskab med det moderne flamske historiemaleri. I Paris besøgte B. museerne flittigt, men undlod at gå på malerskole, idet han ville undgå, at få \"fremmed Fernis\" på sig. Ikke desto mindre fik opholdet i Paris afgørende betydning for B.s kunst. Her stiftede romantikeren og Høyenianeren B. bekendtskab med den franske realisme, der en tid påvirkede både hans motivvalg og malestil. Han blev dog ikke omvendt til friluftsmaleriet, men fik blik for storbyens arbejdende befolkning og ikke mindst dens dyr. Det resulterede i den monumentale komposition med trækhestene ved Seinens bred og Notre Dame, der tårner sig op i baggrunden, Karreheste, Paris (1867). Også i adskillige mindre billeder af omnibusheste, alle udført med et sikrere blik for helheden og en bredere behandling af form og farve end hidtil, spores påvirkningen fra fransk kunst. I Italien kastede B. sig ud i sit første egentlige forsøg inden for historiemaleriet. Efter hjemkomsten til Danmark fulgte B. stort set tre genrer resten af livet: Dyremaleriet, historiemaleriet og portrættet. Han genoptog desuden skildringen af dagliglivet i byen og malede, som en af de første, scener hentet fra det københavnske gadebillede. Som dyremaler malede han såvel monumentale kompositioner, f.eks. Et kobbel heste uden for en kro (1878), som mere umiddelbare skildringer af husdyr, der er beslægtet med Th. Philipsens samtidige malerier. B.s eminente skildringer af dyr sikrede ham adskillige bestillinger på jagtbilleder med et stort opbud af heste, hunde og jægere, og også jagtscener henlagt til fortiden. Som historiemaler skulle B. blive Marstrands arvtager. Som barn havde han illustreret Ingemanns romaner, men hans værk omfattede også fremstillinger af samtidshistoriske begivenheder. Således rejste han i 1864 til Sønderjylland for at skildre krigen til Illustreret Tidende. Det tidligste oliebillede med et nationalhistorisk motiv er Tordenskjold i Marstrand (1875). B. har fremstillet søhelten i en markant, teateragtig positur. Billedet er med sit anekdotiske indhold og sin humoristiske tone nært beslægtet med W. Marstrands behandling af Holberg-motiver. Højdepunktet nåede B. med De sammensvorne rider fra Finderup efter mordet på Erik Klipping, udført på bestilling til Frederiksborgmuseet i 1882. Skønt billedet, der har udgangspunkt i folkevisen og i Ingemanns romaner, som historiefremstilling er et postulat, er det baseret på indgående historiske detailstudier. B. har skildret dramaet på heden i en mesterlig, stemningsmættet komposition og har med dette værk skabt et monument over den nationalromantiske historieopfattelse, som var karakteristisk for det ny Frederiksborgmuseum, og denne opgave blev indledningen til et langt samarbejde mellem B. og museet. Herefter malede han, ligeledes på bestilling, Christian IVs kroningstog (1887), der dog i sit pedantiske forsøg på at give en billedlig fremstilling af en historisk begivenhed på grundlag af en skriftlig kilde er langt mindre vellykket. Herpå fulgte en række historiemalerier med motiver fra B.s samtid, først og fremmest de slesvigske krige. De to store figurrige fremstillinger af Christian IX i krigssituationer er udført på bestilling til Kongehuset. Her har kravet til en detaljeret udpensling af portrætter og topografiske detaljer gjort det umuligt for kunstneren at fastholde de store former. Det samme gælder for B.s sidste store historiemaleri, Soldaternes hjemkomst til København 1849 (1894, Fr.borgmus.). Sideløbende udførte B. i 1880erne en række portrætbestillinger bl.a. til Kongehuset og til Frederiksborgmuseet. Med heltene fra de slesvigske krige forsøgte han at forny det officielle officersportræt ved at fremstille soldaterne i aktion. For Kongehuset udførte B. fra 1880erne og frem til 1911 en lang række yderst traditionelle repræsentationsportrætter. Som portrætmaler er han tør og pertentlig, men med en fin karakteriseringsevne. B. var en overgangsskikkelse i dansk kunst. De nye strømninger i fransk kunst, som han på et tidligt tidspunkt havde stiftet bekendtskab med, lod ham ikke upåvirket. Han var den første herhjemme, \"der bragte Uro blandt de unge\" (Godfred Christensen), men han tog ikke som sine samtidige Tuxen, Krøyer og Philipsen skridtet fuldt ud og overgav sig til friluftsmaleriet. Siden B.s død er hans stjerne dalet støt, fordi han ikke var blandt fornyerne i det moderne gennembrud, men holdt fast ved den Eckersberg-Marstrandske naturalisme, han var opflasket med på Akademiet. I forbindelse med flere særudstillinger i de seneste år har især hans historiemaleri været genstand for en revurdering.",
+      "creator_lref": "253_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1876-01-01T00:00:00.000Z",
+      "end": "1876-12-31T00:00:00.000Z",
+      "period": "1876"
+    }
+  ],
+  "techniques": [
+    "Oil on canvas"
+  ],
+  "titles": [
+    {
+      "title": "After the Boar Hunt",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMS1083",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS1083",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMS1083",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS1083",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS1083",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS1083",
+  "production_dates_notes": [
+    "Værkdatering: 1876"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "has_3d_file": false,
+  "has_image": true,
+  "image_width": 1600,
+  "image_height": 1112,
+  "image_thumbnail": "https://api.smk.dk/api/v1/thumbnail/1413427a-b3ea-48a4-b94b-f9f487695d1d.jpg",
+  "image_native": "https://api.smk.dk/api/v1/thumbnail/1413427a-b3ea-48a4-b94b-f9f487695d1d.jpg",
+  "colors": [
+    "#555555",
+    "#2e1435",
+    "#222222",
+    "#777777",
+    "#888888",
+    "#f38d84"
+  ],
+  "suggested_bg_color": [
+    "#888888"
+  ],
+  "entropy": 9.786564,
+  "contrast": 2.5520356,
+  "saturation": 2.6605313,
+  "colortemp": 3.836784,
+  "brightness": 3.5916014,
+  "artist": [
+    "Otto Bache"
+  ]
+}

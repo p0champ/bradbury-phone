@@ -1,0 +1,148 @@
+{
+  "id": "1170091618_object",
+  "created": "2020-03-22T02:03:13Z",
+  "modified": "2026-11-04T10:15:36Z",
+  "collection": [
+    ""
+  ],
+  "acquisition_date": "1699-01-01T00:00:00Z",
+  "acquisition_date_precision": "1799-01-01",
+  "dimensions": [
+    {
+      "notes": "240 x 320 mm",
+      "part": "Netto",
+      "type": "height",
+      "unit": "cm",
+      "value": "24"
+    },
+    {
+      "notes": "240 x 320 mm",
+      "part": "Netto",
+      "type": "width",
+      "unit": "cm",
+      "value": "32"
+    }
+  ],
+  "documentation": [
+    {
+      "title": "Flemish paintings: 1600 - 1800",
+      "author": "Olaf Koester",
+      "notes": "p. 185, 186, afb. p. 355 fig. 114",
+      "shelfmark": "2000-589",
+      "year_of_publication": "2000"
+    },
+    {
+      "title": "Une attribution pour la Crucifixion de Notre-Dame de Givet: quand un Rubens en cache un autre",
+      "author": "Raphaël Abrille",
+      "notes": "note 17 (indgår i en fortegnelse over Rubens signaturformer).",
+      "shelfmark": "2005-103",
+      "year_of_publication": "2005"
+    },
+    {
+      "title": "Flemisch painters 1430-1830",
+      "author": "R. H. Wilenski",
+      "notes": "vol. I: p. 636",
+      "shelfmark": "27245",
+      "year_of_publication": "1960"
+    },
+    {
+      "title": "Les peintres flamands de genre au XVIIe siècle",
+      "author": "F.-C Legrand",
+      "notes": "p. 225",
+      "shelfmark": "30725",
+      "year_of_publication": "1963"
+    }
+  ],
+  "inscriptions": [
+    {
+      "content": "F. Rubens Fec.",
+      "type": "signature"
+    }
+  ],
+  "materials": [
+    "wood"
+  ],
+  "object_names": [
+    {
+      "name": "Painting"
+    }
+  ],
+  "production": [
+    {
+      "creator": "Rubens, Arnold Frans",
+      "creator_forename": "Arnold Frans",
+      "creator_surname": "Rubens",
+      "creator_date_of_birth": "1687-01-01T00:00:00.000Z",
+      "creator_date_of_death": "1719-01-01T00:00:00.000Z",
+      "creator_nationality": "Flemish",
+      "creator_gender": "MALE",
+      "creator_lref": "1898_person"
+    }
+  ],
+  "production_date": [
+    {
+      "start": "1709-01-01T00:00:00.000Z",
+      "end": "1719-12-31T00:00:00.000Z",
+      "period": "1709-1719"
+    }
+  ],
+  "techniques": [
+    "Oil on panel"
+  ],
+  "titles": [
+    {
+      "title": "A Winter Scene with Sleigh-Riders and Skaters",
+      "language": "engelsk"
+    },
+    {
+      "title": "Winter Landscape with Skaters",
+      "language": "engelsk"
+    }
+  ],
+  "number_of_parts": 1,
+  "object_number": "KMSsp324",
+  "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSsp324",
+  "frontend_url": "https://open.smk.dk/artwork/image/KMSsp324",
+  "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSsp324",
+  "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSsp324",
+  "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSsp324",
+  "production_dates_notes": [
+    "Værkdatering: 1709-1719",
+    "Dateringen er baseret på kunstnerens aktive virke"
+  ],
+  "work_status": [
+    "pendant"
+  ],
+  "public_domain": true,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "on_display": false,
+  "image_mime_type": "image/tiff",
+  "image_iiif_id": "https://iip.smk.dk/iiif/jp2/rf55zd536_kmssp324.tif.jp2",
+  "image_iiif_info": "https://iip.smk.dk/iiif/jp2/rf55zd536_kmssp324.tif.jp2/info.json",
+  "image_width": 7084,
+  "image_height": 5335,
+  "image_size": 39104285,
+  "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/rf55zd536_kmssp324.tif.jp2/full/!1024,/0/default.jpg",
+  "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9yZjU1emQ1MzZfa21zc3AzMjQudGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNU3NwMzI0IiwibnVtIjoiIn1d/KMSsp324.jpg",
+  "image_orientation": "landscape",
+  "image_hq": true,
+  "has_3d_file": false,
+  "has_image": true,
+  "colors": [
+    "#dddddd",
+    "#bbbbbb",
+    "#333333",
+    "#555555",
+    "#cccccc"
+  ],
+  "suggested_bg_color": [
+    "#555555"
+  ],
+  "entropy": 8.999981,
+  "contrast": 4.5103583,
+  "colortemp": 3.1102805,
+  "brightness": 5.854067,
+  "artist": [
+    "Arnold Frans Rubens"
+  ]
+}
