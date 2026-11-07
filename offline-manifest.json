@@ -1,5 +1,5 @@
 {
-  "cache": "4e08a12c16251bcb",
+  "cache": "9f6182b19ab3a189",
   "files": [
     "./",
     "app.css",
@@ -15,6 +15,7 @@
     "phone.js",
     "read-state.js",
     "state.js",
+    "words.js",
     "assets/icon-180.png",
     "assets/icon-192.png",
     "assets/icon-512.png",
@@ -408,5 +409,5 @@
     "core/study-guide.js",
     "core/thought-drafts.js"
   ],
-  "bytes": 26910927
+  "bytes": 26915691
 }

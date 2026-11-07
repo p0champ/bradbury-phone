@@ -1,3 +1,4 @@
+import {wordTap,closeWordCard} from './words.js';
 import {initialIndices,arrivalToday,initialisePhone,readingOpened,readingClosed,workChanged,collectionRows as phoneCollectionRows} from './phone.js';
 (() => {
 const params=new URLSearchParams(location.search), structure='a';let phoneReady=false,modal=false;
@@ -84,7 +85,7 @@ const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
 space.addEventListener('pointerdown',e=>{
  if(e.target.closest('button'))return;
  if(e.button!==0)return;
- momentum=null;
+ momentum=null;closeWordCard();
  const rect=space.getBoundingClientRect();
  drag={id:e.pointerId,sx:e.clientX,sy:e.clientY,localY:e.clientY-rect.top,lastX:e.clientX,lastY:e.clientY,time:e.timeStamp,vx:0,vy:0,px:x.value,pp:p.value,pq:q.value,pi:intro.value,axis:null,moved:false,pgv:els[selected].pg.value,pgStart:Math.round(els[selected].pg.value)};
  [x,p,q,intro].forEach(s=>s.grab());els.forEach(e=>e.pg.grab());space.setPointerCapture(e.pointerId);
@@ -111,7 +112,7 @@ function end(e,cancel=false){
  const d=drag;drag=null;
  if(d.pi>.01){intro.to(0);return;}
  if(d.pq>.05||d.sheet){const dest=cancel?(d.pq>.5?1:0):q.value>.34||d.vy<-450?1:0;q.to(dest,-d.vy/(H*.72));return;}
- if(!d.moved&&!cancel){if(p.value<.5){let index=selected;if(structure==='c'){const hits=els.map((item,i)=>({i,r:item.frame.getBoundingClientRect()})).filter(({r})=>e.clientX>=r.left&&e.clientX<=r.right&&e.clientY>=r.top&&e.clientY<=r.bottom).sort((a,b)=>Math.abs(a.i-x.value)-Math.abs(b.i-x.value));if(hits.length)index=hits[0].i;}openReading(index);}else if(p.value<.98)p.to(1);x.to(Math.round(x.target));return;}
+ if(!d.moved&&!cancel){if(p.value<.5){let index=selected;if(structure==='c'){const hits=els.map((item,i)=>({i,r:item.frame.getBoundingClientRect()})).filter(({r})=>e.clientX>=r.left&&e.clientX<=r.right&&e.clientY>=r.top&&e.clientY<=r.bottom).sort((a,b)=>Math.abs(a.i-x.value)-Math.abs(b.i-x.value));if(hits.length)index=hits[0].i;}openReading(index);}else if(p.value<.98)p.to(1);else wordTap(e,works[selected]);x.to(Math.round(x.target));return;}
  if(d.paging){const e=els[selected],projected=e.pg.value-d.vx/e.stride*.12;let target=clamp(Math.round(projected),d.pgStart-1,d.pgStart+1);if(Math.abs(d.vx)>500&&target===d.pgStart)target=d.pgStart+(d.vx<0?1:-1);target=clamp(target,0,e.total-1);if(cancel)target=d.pgStart;e.pg.to(target,-d.vx/e.stride);if(target===d.pgStart&&Math.abs(e.pg.value-target)<.001)space.dispatchEvent(new Event('pagesettled'));}
  else if(d.axis==='x'&&(structure==='b'||d.pp<.5)){const projected=x.value-d.vx/W*.12;let target=clamp(Math.round(projected),0,2);if(Math.abs(d.vx)>500&&target===Math.round(d.px))target=clamp(Math.round(d.px)+(d.vx<0?1:-1),0,2);x.to(target,-d.vx/W);}
  else{const projected=p.value-d.vy/H*.13;p.to(cancel?(d.pp>.5?1:0):projected>.45?1:0,-d.vy/(H*.72));}
