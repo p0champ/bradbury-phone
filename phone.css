@@ -92,3 +92,6 @@ html,body{height:100%;background:#261f24}#space{height:100dvh;--reading-size:20p
 #update-banner{position:absolute;z-index:60;left:28px;top:max(176px,calc(env(safe-area-inset-top) + 120px));min-height:44px;padding:0 18px;border-radius:22px;font-size:15px;color:var(--light);cursor:pointer}
 #update-banner[hidden]{display:none}
 .read-mode #update-banner{display:none}
+
+/* Version label at the bottom of the Library; tap it to check for updates */
+#version-note{position:absolute;left:0;right:0;bottom:max(68px,calc(env(safe-area-inset-bottom) + 42px));margin:0 auto;width:max-content;max-width:90%;border:0;background:none;padding:6px 10px;font-size:12px;color:var(--muted);text-align:center;cursor:pointer;z-index:2}

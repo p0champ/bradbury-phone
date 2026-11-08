@@ -85,6 +85,6 @@ export function initialisePhone(api){engine=api;connection=new PhoneConnection(s
  applySize();refreshTools();collectionRows(engine.tab);store.update(s=>s.arrivalDate=berlinDateKey());
  const saved=store.state.last;if(saved&&byId.has(saved.id)){engine.chooseWork(byId.get(saved.id),saved.reading);}
  connection.start();if(connection.connected)sync();
- if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWorker.register('service-worker.js',{scope:'./'}).then(()=>navigator.serviceWorker.ready).then(()=>{document.getElementById('offline-status').textContent='All 241 works and paintings are available offline.';navigator.storage?.persist?.().catch(()=>{});}).catch(()=>{document.getElementById('offline-status').textContent='Offline setup is incomplete. Keep this page online and reopen to try again.';});
+ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWorker.register('service-worker.js',{scope:'./',updateViaCache:'none'}).then(()=>navigator.serviceWorker.ready).then(()=>{document.getElementById('offline-status').textContent='All 241 works and paintings are available offline.';navigator.storage?.persist?.().catch(()=>{});}).catch(()=>{document.getElementById('offline-status').textContent='Offline setup is incomplete. Keep this page online and reopen to try again.';});
  store.subscribe(()=>{refreshTools();queueMicrotask(applyDaily);});window.phoneApp={store,connection,engine,savePlace,exportBackup,applyDaily};
 }
